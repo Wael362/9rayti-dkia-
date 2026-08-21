@@ -49,7 +49,7 @@ from database import (
 # ============================================================
 
 st.set_page_config(
-    page_title="SmartStudy",
+    page_title="9rayti Dkia",
     page_icon="🎓",
     layout="wide"
 )
@@ -309,7 +309,7 @@ if "user" not in st.session_state:
 
 if st.session_state.user is None:
 
-    st.title("🎓 SmartStudy")
+    st.title("🎓 9rayti Dkia")
 
     st.subheader(
         "Plateforme intelligente d'apprentissage"
