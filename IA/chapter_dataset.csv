@@ -1,0 +1,5001 @@
+student_id,chapter,score,correct_answers,questions,study_time,level
+1,Nombres réels,23,2,10,2.0,Faible
+1,Suites,95,10,10,0.4,Excellent
+1,Limites,100,10,10,1.4,Excellent
+1,Dérivation,56,6,10,0.3,Moyen
+1,Électricité,38,4,10,1.8,Faible
+1,Mécanique,24,2,10,0.9,Faible
+1,Ondes,50,5,10,1.8,Moyen
+1,Acides et bases,86,9,10,0.4,Excellent
+1,Réactions chimiques,98,10,10,2.0,Excellent
+1,Chimie organique,70,7,10,1.4,Bon
+2,Nombres réels,81,8,10,1.9,Bon
+2,Suites,78,8,10,0.3,Bon
+2,Limites,36,4,10,0.6,Faible
+2,Dérivation,28,3,10,0.9,Faible
+2,Électricité,46,5,10,0.8,Faible
+2,Mécanique,95,10,10,0.6,Excellent
+2,Ondes,49,5,10,1.2,Faible
+2,Acides et bases,51,5,10,1.6,Moyen
+2,Réactions chimiques,78,8,10,1.1,Bon
+2,Chimie organique,81,8,10,0.8,Bon
+3,Nombres réels,29,3,10,0.7,Faible
+3,Suites,54,5,10,0.3,Moyen
+3,Limites,85,8,10,1.4,Excellent
+3,Dérivation,66,7,10,1.5,Moyen
+3,Électricité,90,9,10,1.4,Excellent
+3,Mécanique,28,3,10,0.9,Faible
+3,Ondes,46,5,10,0.5,Faible
+3,Acides et bases,95,10,10,0.8,Excellent
+3,Réactions chimiques,38,4,10,0.6,Faible
+3,Chimie organique,39,4,10,0.7,Faible
+4,Nombres réels,84,8,10,0.2,Bon
+4,Suites,83,8,10,1.5,Bon
+4,Limites,42,4,10,0.3,Faible
+4,Dérivation,95,10,10,1.0,Excellent
+4,Électricité,81,8,10,1.7,Bon
+4,Mécanique,40,4,10,1.4,Faible
+4,Ondes,32,3,10,1.7,Faible
+4,Acides et bases,41,4,10,1.0,Faible
+4,Réactions chimiques,98,10,10,1.7,Excellent
+4,Chimie organique,33,3,10,1.2,Faible
+5,Nombres réels,22,2,10,1.7,Faible
+5,Suites,45,4,10,0.5,Faible
+5,Limites,81,8,10,0.3,Bon
+5,Dérivation,97,10,10,0.6,Excellent
+5,Électricité,52,5,10,0.3,Moyen
+5,Mécanique,90,9,10,1.0,Excellent
+5,Ondes,67,7,10,1.1,Moyen
+5,Acides et bases,65,6,10,1.2,Moyen
+5,Réactions chimiques,92,9,10,1.3,Excellent
+5,Chimie organique,99,10,10,2.0,Excellent
+6,Nombres réels,99,10,10,0.2,Excellent
+6,Suites,42,4,10,1.7,Faible
+6,Limites,63,6,10,0.4,Moyen
+6,Dérivation,92,9,10,0.5,Excellent
+6,Électricité,81,8,10,1.3,Bon
+6,Mécanique,66,7,10,1.5,Moyen
+6,Ondes,51,5,10,0.7,Moyen
+6,Acides et bases,69,7,10,1.5,Moyen
+6,Réactions chimiques,29,3,10,1.2,Faible
+6,Chimie organique,43,4,10,1.3,Faible
+7,Nombres réels,55,6,10,0.4,Moyen
+7,Suites,44,4,10,0.7,Faible
+7,Limites,42,4,10,1.0,Faible
+7,Dérivation,59,6,10,2.0,Moyen
+7,Électricité,72,7,10,1.0,Bon
+7,Mécanique,77,8,10,0.3,Bon
+7,Ondes,59,6,10,0.6,Moyen
+7,Acides et bases,24,2,10,0.5,Faible
+7,Réactions chimiques,68,7,10,0.6,Moyen
+7,Chimie organique,50,5,10,0.8,Moyen
+8,Nombres réels,34,3,10,1.5,Faible
+8,Suites,24,2,10,2.0,Faible
+8,Limites,31,3,10,1.0,Faible
+8,Dérivation,31,3,10,0.7,Faible
+8,Électricité,73,7,10,0.3,Bon
+8,Mécanique,100,10,10,1.3,Excellent
+8,Ondes,55,6,10,1.5,Moyen
+8,Acides et bases,72,7,10,0.5,Bon
+8,Réactions chimiques,100,10,10,2.0,Excellent
+8,Chimie organique,23,2,10,1.3,Faible
+9,Nombres réels,30,3,10,1.4,Faible
+9,Suites,78,8,10,1.1,Bon
+9,Limites,61,6,10,1.2,Moyen
+9,Dérivation,69,7,10,1.1,Moyen
+9,Électricité,74,7,10,0.3,Bon
+9,Mécanique,28,3,10,1.4,Faible
+9,Ondes,96,10,10,1.7,Excellent
+9,Acides et bases,58,6,10,0.5,Moyen
+9,Réactions chimiques,80,8,10,0.5,Bon
+9,Chimie organique,59,6,10,2.0,Moyen
+10,Nombres réels,85,8,10,2.0,Excellent
+10,Suites,97,10,10,1.2,Excellent
+10,Limites,78,8,10,0.5,Bon
+10,Dérivation,72,7,10,1.8,Bon
+10,Électricité,61,6,10,1.4,Moyen
+10,Mécanique,21,2,10,0.9,Faible
+10,Ondes,62,6,10,1.6,Moyen
+10,Acides et bases,82,8,10,0.9,Bon
+10,Réactions chimiques,98,10,10,0.7,Excellent
+10,Chimie organique,77,8,10,1.7,Bon
+11,Nombres réels,29,3,10,0.8,Faible
+11,Suites,20,2,10,1.0,Faible
+11,Limites,56,6,10,1.4,Moyen
+11,Dérivation,64,6,10,0.3,Moyen
+11,Électricité,93,9,10,1.7,Excellent
+11,Mécanique,46,5,10,1.9,Faible
+11,Ondes,64,6,10,1.7,Moyen
+11,Acides et bases,64,6,10,1.1,Moyen
+11,Réactions chimiques,69,7,10,1.8,Moyen
+11,Chimie organique,33,3,10,1.0,Faible
+12,Nombres réels,89,9,10,0.3,Excellent
+12,Suites,89,9,10,0.6,Excellent
+12,Limites,68,7,10,0.9,Moyen
+12,Dérivation,62,6,10,1.1,Moyen
+12,Électricité,88,9,10,0.5,Excellent
+12,Mécanique,57,6,10,1.8,Moyen
+12,Ondes,100,10,10,1.3,Excellent
+12,Acides et bases,25,2,10,1.1,Faible
+12,Réactions chimiques,74,7,10,1.2,Bon
+12,Chimie organique,62,6,10,1.8,Moyen
+13,Nombres réels,82,8,10,2.0,Bon
+13,Suites,79,8,10,1.5,Bon
+13,Limites,74,7,10,0.4,Bon
+13,Dérivation,100,10,10,0.4,Excellent
+13,Électricité,45,4,10,1.7,Faible
+13,Mécanique,37,4,10,0.4,Faible
+13,Ondes,90,9,10,1.5,Excellent
+13,Acides et bases,53,5,10,0.8,Moyen
+13,Réactions chimiques,61,6,10,0.3,Moyen
+13,Chimie organique,66,7,10,0.3,Moyen
+14,Nombres réels,61,6,10,1.9,Moyen
+14,Suites,90,9,10,0.7,Excellent
+14,Limites,28,3,10,1.6,Faible
+14,Dérivation,48,5,10,1.7,Faible
+14,Électricité,90,9,10,0.6,Excellent
+14,Mécanique,86,9,10,0.4,Excellent
+14,Ondes,43,4,10,1.3,Faible
+14,Acides et bases,80,8,10,1.5,Bon
+14,Réactions chimiques,86,9,10,2.0,Excellent
+14,Chimie organique,96,10,10,1.9,Excellent
+15,Nombres réels,71,7,10,0.6,Bon
+15,Suites,69,7,10,1.7,Moyen
+15,Limites,82,8,10,1.4,Bon
+15,Dérivation,52,5,10,0.9,Moyen
+15,Électricité,93,9,10,1.4,Excellent
+15,Mécanique,38,4,10,1.0,Faible
+15,Ondes,32,3,10,1.5,Faible
+15,Acides et bases,85,8,10,1.0,Excellent
+15,Réactions chimiques,52,5,10,0.2,Moyen
+15,Chimie organique,49,5,10,1.5,Faible
+16,Nombres réels,44,4,10,1.4,Faible
+16,Suites,77,8,10,1.9,Bon
+16,Limites,25,2,10,0.4,Faible
+16,Dérivation,84,8,10,1.7,Bon
+16,Électricité,94,9,10,1.5,Excellent
+16,Mécanique,79,8,10,1.2,Bon
+16,Ondes,80,8,10,0.3,Bon
+16,Acides et bases,76,8,10,1.5,Bon
+16,Réactions chimiques,36,4,10,1.8,Faible
+16,Chimie organique,72,7,10,0.2,Bon
+17,Nombres réels,39,4,10,1.5,Faible
+17,Suites,94,9,10,0.7,Excellent
+17,Limites,93,9,10,2.0,Excellent
+17,Dérivation,33,3,10,1.3,Faible
+17,Électricité,29,3,10,0.8,Faible
+17,Mécanique,42,4,10,0.3,Faible
+17,Ondes,28,3,10,0.2,Faible
+17,Acides et bases,96,10,10,0.8,Excellent
+17,Réactions chimiques,28,3,10,0.8,Faible
+17,Chimie organique,85,8,10,1.6,Excellent
+18,Nombres réels,76,8,10,0.3,Bon
+18,Suites,67,7,10,1.5,Moyen
+18,Limites,64,6,10,1.0,Moyen
+18,Dérivation,21,2,10,0.3,Faible
+18,Électricité,61,6,10,0.4,Moyen
+18,Mécanique,75,8,10,1.6,Bon
+18,Ondes,52,5,10,1.9,Moyen
+18,Acides et bases,53,5,10,1.5,Moyen
+18,Réactions chimiques,50,5,10,0.9,Moyen
+18,Chimie organique,64,6,10,0.4,Moyen
+19,Nombres réels,51,5,10,1.2,Moyen
+19,Suites,92,9,10,1.4,Excellent
+19,Limites,38,4,10,0.6,Faible
+19,Dérivation,74,7,10,1.5,Bon
+19,Électricité,57,6,10,0.7,Moyen
+19,Mécanique,46,5,10,1.0,Faible
+19,Ondes,84,8,10,1.3,Bon
+19,Acides et bases,51,5,10,1.4,Moyen
+19,Réactions chimiques,97,10,10,0.5,Excellent
+19,Chimie organique,78,8,10,1.0,Bon
+20,Nombres réels,86,9,10,1.2,Excellent
+20,Suites,92,9,10,1.5,Excellent
+20,Limites,67,7,10,1.5,Moyen
+20,Dérivation,50,5,10,1.5,Moyen
+20,Électricité,79,8,10,1.1,Bon
+20,Mécanique,85,8,10,0.5,Excellent
+20,Ondes,72,7,10,1.9,Bon
+20,Acides et bases,24,2,10,0.7,Faible
+20,Réactions chimiques,38,4,10,0.5,Faible
+20,Chimie organique,85,8,10,0.2,Excellent
+21,Nombres réels,50,5,10,1.6,Moyen
+21,Suites,42,4,10,0.9,Faible
+21,Limites,36,4,10,1.9,Faible
+21,Dérivation,22,2,10,1.7,Faible
+21,Électricité,73,7,10,1.8,Bon
+21,Mécanique,60,6,10,0.6,Moyen
+21,Ondes,77,8,10,0.8,Bon
+21,Acides et bases,80,8,10,1.0,Bon
+21,Réactions chimiques,97,10,10,1.9,Excellent
+21,Chimie organique,30,3,10,0.7,Faible
+22,Nombres réels,31,3,10,1.9,Faible
+22,Suites,32,3,10,0.9,Faible
+22,Limites,96,10,10,0.8,Excellent
+22,Dérivation,68,7,10,1.3,Moyen
+22,Électricité,88,9,10,0.4,Excellent
+22,Mécanique,20,2,10,1.7,Faible
+22,Ondes,90,9,10,0.3,Excellent
+22,Acides et bases,67,7,10,0.7,Moyen
+22,Réactions chimiques,55,6,10,1.7,Moyen
+22,Chimie organique,64,6,10,0.2,Moyen
+23,Nombres réels,62,6,10,0.8,Moyen
+23,Suites,72,7,10,1.2,Bon
+23,Limites,27,3,10,0.5,Faible
+23,Dérivation,71,7,10,1.9,Bon
+23,Électricité,57,6,10,0.8,Moyen
+23,Mécanique,71,7,10,1.3,Bon
+23,Ondes,79,8,10,0.8,Bon
+23,Acides et bases,36,4,10,1.6,Faible
+23,Réactions chimiques,96,10,10,0.9,Excellent
+23,Chimie organique,61,6,10,1.9,Moyen
+24,Nombres réels,51,5,10,1.6,Moyen
+24,Suites,75,8,10,1.0,Bon
+24,Limites,20,2,10,1.5,Faible
+24,Dérivation,93,9,10,0.2,Excellent
+24,Électricité,40,4,10,2.0,Faible
+24,Mécanique,26,3,10,0.4,Faible
+24,Ondes,90,9,10,1.6,Excellent
+24,Acides et bases,84,8,10,1.9,Bon
+24,Réactions chimiques,64,6,10,1.5,Moyen
+24,Chimie organique,73,7,10,0.4,Bon
+25,Nombres réels,31,3,10,1.4,Faible
+25,Suites,46,5,10,0.7,Faible
+25,Limites,39,4,10,0.4,Faible
+25,Dérivation,24,2,10,1.8,Faible
+25,Électricité,99,10,10,0.8,Excellent
+25,Mécanique,73,7,10,1.0,Bon
+25,Ondes,33,3,10,0.4,Faible
+25,Acides et bases,47,5,10,1.0,Faible
+25,Réactions chimiques,92,9,10,1.3,Excellent
+25,Chimie organique,84,8,10,1.0,Bon
+26,Nombres réels,80,8,10,0.4,Bon
+26,Suites,44,4,10,1.1,Faible
+26,Limites,20,2,10,1.9,Faible
+26,Dérivation,45,4,10,0.3,Faible
+26,Électricité,82,8,10,1.9,Bon
+26,Mécanique,38,4,10,1.6,Faible
+26,Ondes,95,10,10,1.1,Excellent
+26,Acides et bases,34,3,10,0.7,Faible
+26,Réactions chimiques,28,3,10,0.8,Faible
+26,Chimie organique,44,4,10,0.9,Faible
+27,Nombres réels,86,9,10,1.0,Excellent
+27,Suites,29,3,10,2.0,Faible
+27,Limites,41,4,10,0.8,Faible
+27,Dérivation,35,4,10,1.2,Faible
+27,Électricité,43,4,10,0.6,Faible
+27,Mécanique,86,9,10,0.7,Excellent
+27,Ondes,42,4,10,2.0,Faible
+27,Acides et bases,47,5,10,2.0,Faible
+27,Réactions chimiques,39,4,10,1.9,Faible
+27,Chimie organique,58,6,10,0.4,Moyen
+28,Nombres réels,49,5,10,0.7,Faible
+28,Suites,38,4,10,1.5,Faible
+28,Limites,26,3,10,1.5,Faible
+28,Dérivation,96,10,10,0.4,Excellent
+28,Électricité,75,8,10,1.1,Bon
+28,Mécanique,81,8,10,1.9,Bon
+28,Ondes,67,7,10,1.1,Moyen
+28,Acides et bases,75,8,10,1.1,Bon
+28,Réactions chimiques,33,3,10,1.0,Faible
+28,Chimie organique,90,9,10,1.3,Excellent
+29,Nombres réels,56,6,10,0.6,Moyen
+29,Suites,61,6,10,1.8,Moyen
+29,Limites,73,7,10,1.9,Bon
+29,Dérivation,38,4,10,1.5,Faible
+29,Électricité,41,4,10,2.0,Faible
+29,Mécanique,91,9,10,1.8,Excellent
+29,Ondes,24,2,10,0.8,Faible
+29,Acides et bases,44,4,10,0.5,Faible
+29,Réactions chimiques,42,4,10,1.2,Faible
+29,Chimie organique,57,6,10,0.5,Moyen
+30,Nombres réels,47,5,10,0.2,Faible
+30,Suites,33,3,10,1.3,Faible
+30,Limites,58,6,10,0.6,Moyen
+30,Dérivation,38,4,10,0.7,Faible
+30,Électricité,40,4,10,0.7,Faible
+30,Mécanique,27,3,10,0.7,Faible
+30,Ondes,52,5,10,1.2,Moyen
+30,Acides et bases,84,8,10,1.8,Bon
+30,Réactions chimiques,57,6,10,1.7,Moyen
+30,Chimie organique,70,7,10,1.6,Bon
+31,Nombres réels,52,5,10,1.1,Moyen
+31,Suites,94,9,10,1.8,Excellent
+31,Limites,73,7,10,1.3,Bon
+31,Dérivation,91,9,10,1.0,Excellent
+31,Électricité,35,4,10,1.7,Faible
+31,Mécanique,97,10,10,1.4,Excellent
+31,Ondes,24,2,10,0.6,Faible
+31,Acides et bases,47,5,10,1.4,Faible
+31,Réactions chimiques,30,3,10,0.4,Faible
+31,Chimie organique,21,2,10,1.2,Faible
+32,Nombres réels,72,7,10,0.4,Bon
+32,Suites,41,4,10,1.5,Faible
+32,Limites,66,7,10,0.5,Moyen
+32,Dérivation,82,8,10,1.1,Bon
+32,Électricité,65,6,10,0.2,Moyen
+32,Mécanique,38,4,10,0.5,Faible
+32,Ondes,73,7,10,1.4,Bon
+32,Acides et bases,40,4,10,0.2,Faible
+32,Réactions chimiques,49,5,10,0.3,Faible
+32,Chimie organique,50,5,10,0.7,Moyen
+33,Nombres réels,33,3,10,0.4,Faible
+33,Suites,86,9,10,0.3,Excellent
+33,Limites,66,7,10,1.7,Moyen
+33,Dérivation,77,8,10,1.0,Bon
+33,Électricité,88,9,10,1.4,Excellent
+33,Mécanique,49,5,10,0.8,Faible
+33,Ondes,99,10,10,1.6,Excellent
+33,Acides et bases,99,10,10,0.6,Excellent
+33,Réactions chimiques,68,7,10,1.7,Moyen
+33,Chimie organique,47,5,10,0.4,Faible
+34,Nombres réels,94,9,10,0.2,Excellent
+34,Suites,88,9,10,1.4,Excellent
+34,Limites,69,7,10,1.0,Moyen
+34,Dérivation,35,4,10,1.8,Faible
+34,Électricité,40,4,10,1.3,Faible
+34,Mécanique,65,6,10,0.6,Moyen
+34,Ondes,77,8,10,1.5,Bon
+34,Acides et bases,28,3,10,1.0,Faible
+34,Réactions chimiques,25,2,10,0.9,Faible
+34,Chimie organique,55,6,10,1.1,Moyen
+35,Nombres réels,54,5,10,0.9,Moyen
+35,Suites,33,3,10,0.9,Faible
+35,Limites,49,5,10,1.9,Faible
+35,Dérivation,64,6,10,0.3,Moyen
+35,Électricité,41,4,10,0.3,Faible
+35,Mécanique,47,5,10,1.5,Faible
+35,Ondes,76,8,10,1.7,Bon
+35,Acides et bases,26,3,10,0.5,Faible
+35,Réactions chimiques,85,8,10,2.0,Excellent
+35,Chimie organique,99,10,10,1.1,Excellent
+36,Nombres réels,61,6,10,1.4,Moyen
+36,Suites,77,8,10,1.0,Bon
+36,Limites,21,2,10,1.4,Faible
+36,Dérivation,29,3,10,1.0,Faible
+36,Électricité,38,4,10,0.5,Faible
+36,Mécanique,73,7,10,0.6,Bon
+36,Ondes,49,5,10,1.9,Faible
+36,Acides et bases,32,3,10,1.8,Faible
+36,Réactions chimiques,62,6,10,1.8,Moyen
+36,Chimie organique,37,4,10,0.9,Faible
+37,Nombres réels,84,8,10,1.9,Bon
+37,Suites,85,8,10,0.4,Excellent
+37,Limites,68,7,10,0.3,Moyen
+37,Dérivation,20,2,10,1.6,Faible
+37,Électricité,46,5,10,0.4,Faible
+37,Mécanique,32,3,10,0.4,Faible
+37,Ondes,100,10,10,0.4,Excellent
+37,Acides et bases,27,3,10,1.3,Faible
+37,Réactions chimiques,25,2,10,1.4,Faible
+37,Chimie organique,56,6,10,1.9,Moyen
+38,Nombres réels,62,6,10,1.0,Moyen
+38,Suites,44,4,10,1.1,Faible
+38,Limites,98,10,10,0.7,Excellent
+38,Dérivation,40,4,10,1.3,Faible
+38,Électricité,66,7,10,1.6,Moyen
+38,Mécanique,65,6,10,1.9,Moyen
+38,Ondes,44,4,10,0.8,Faible
+38,Acides et bases,95,10,10,1.6,Excellent
+38,Réactions chimiques,92,9,10,1.3,Excellent
+38,Chimie organique,53,5,10,0.8,Moyen
+39,Nombres réels,71,7,10,1.7,Bon
+39,Suites,39,4,10,1.0,Faible
+39,Limites,69,7,10,1.5,Moyen
+39,Dérivation,25,2,10,0.3,Faible
+39,Électricité,100,10,10,0.4,Excellent
+39,Mécanique,21,2,10,1.7,Faible
+39,Ondes,89,9,10,1.1,Excellent
+39,Acides et bases,61,6,10,1.5,Moyen
+39,Réactions chimiques,30,3,10,0.7,Faible
+39,Chimie organique,39,4,10,0.6,Faible
+40,Nombres réels,71,7,10,0.5,Bon
+40,Suites,85,8,10,1.5,Excellent
+40,Limites,24,2,10,1.6,Faible
+40,Dérivation,39,4,10,1.5,Faible
+40,Électricité,32,3,10,0.3,Faible
+40,Mécanique,69,7,10,1.3,Moyen
+40,Ondes,48,5,10,1.1,Faible
+40,Acides et bases,80,8,10,1.9,Bon
+40,Réactions chimiques,59,6,10,1.7,Moyen
+40,Chimie organique,64,6,10,0.5,Moyen
+41,Nombres réels,37,4,10,1.0,Faible
+41,Suites,86,9,10,1.7,Excellent
+41,Limites,37,4,10,0.8,Faible
+41,Dérivation,42,4,10,1.4,Faible
+41,Électricité,63,6,10,1.0,Moyen
+41,Mécanique,43,4,10,0.9,Faible
+41,Ondes,35,4,10,0.9,Faible
+41,Acides et bases,65,6,10,0.3,Moyen
+41,Réactions chimiques,31,3,10,0.7,Faible
+41,Chimie organique,80,8,10,1.9,Bon
+42,Nombres réels,71,7,10,1.2,Bon
+42,Suites,53,5,10,0.6,Moyen
+42,Limites,65,6,10,1.1,Moyen
+42,Dérivation,73,7,10,1.9,Bon
+42,Électricité,52,5,10,0.7,Moyen
+42,Mécanique,49,5,10,1.0,Faible
+42,Ondes,88,9,10,1.4,Excellent
+42,Acides et bases,24,2,10,0.7,Faible
+42,Réactions chimiques,21,2,10,1.8,Faible
+42,Chimie organique,56,6,10,1.4,Moyen
+43,Nombres réels,51,5,10,0.6,Moyen
+43,Suites,25,2,10,1.8,Faible
+43,Limites,54,5,10,1.8,Moyen
+43,Dérivation,75,8,10,1.7,Bon
+43,Électricité,25,2,10,1.2,Faible
+43,Mécanique,32,3,10,1.8,Faible
+43,Ondes,26,3,10,1.3,Faible
+43,Acides et bases,35,4,10,1.0,Faible
+43,Réactions chimiques,21,2,10,0.4,Faible
+43,Chimie organique,41,4,10,0.5,Faible
+44,Nombres réels,79,8,10,1.3,Bon
+44,Suites,100,10,10,1.7,Excellent
+44,Limites,36,4,10,1.0,Faible
+44,Dérivation,40,4,10,1.4,Faible
+44,Électricité,94,9,10,0.7,Excellent
+44,Mécanique,49,5,10,0.5,Faible
+44,Ondes,64,6,10,1.5,Moyen
+44,Acides et bases,51,5,10,1.8,Moyen
+44,Réactions chimiques,36,4,10,0.9,Faible
+44,Chimie organique,43,4,10,1.8,Faible
+45,Nombres réels,56,6,10,1.0,Moyen
+45,Suites,68,7,10,1.0,Moyen
+45,Limites,47,5,10,1.9,Faible
+45,Dérivation,54,5,10,1.7,Moyen
+45,Électricité,78,8,10,1.4,Bon
+45,Mécanique,42,4,10,1.3,Faible
+45,Ondes,68,7,10,0.5,Moyen
+45,Acides et bases,61,6,10,2.0,Moyen
+45,Réactions chimiques,87,9,10,1.9,Excellent
+45,Chimie organique,67,7,10,0.3,Moyen
+46,Nombres réels,58,6,10,0.9,Moyen
+46,Suites,83,8,10,1.8,Bon
+46,Limites,53,5,10,1.9,Moyen
+46,Dérivation,99,10,10,2.0,Excellent
+46,Électricité,56,6,10,0.6,Moyen
+46,Mécanique,44,4,10,0.4,Faible
+46,Ondes,67,7,10,0.5,Moyen
+46,Acides et bases,75,8,10,0.8,Bon
+46,Réactions chimiques,93,9,10,1.1,Excellent
+46,Chimie organique,88,9,10,0.5,Excellent
+47,Nombres réels,31,3,10,1.6,Faible
+47,Suites,74,7,10,0.4,Bon
+47,Limites,56,6,10,0.2,Moyen
+47,Dérivation,99,10,10,0.2,Excellent
+47,Électricité,24,2,10,1.7,Faible
+47,Mécanique,79,8,10,0.4,Bon
+47,Ondes,97,10,10,1.4,Excellent
+47,Acides et bases,84,8,10,0.5,Bon
+47,Réactions chimiques,64,6,10,0.8,Moyen
+47,Chimie organique,93,9,10,1.9,Excellent
+48,Nombres réels,83,8,10,1.8,Bon
+48,Suites,24,2,10,1.2,Faible
+48,Limites,78,8,10,1.7,Bon
+48,Dérivation,58,6,10,0.9,Moyen
+48,Électricité,96,10,10,1.7,Excellent
+48,Mécanique,51,5,10,1.8,Moyen
+48,Ondes,60,6,10,0.4,Moyen
+48,Acides et bases,47,5,10,1.4,Faible
+48,Réactions chimiques,57,6,10,1.8,Moyen
+48,Chimie organique,71,7,10,1.3,Bon
+49,Nombres réels,39,4,10,1.5,Faible
+49,Suites,42,4,10,2.0,Faible
+49,Limites,75,8,10,0.6,Bon
+49,Dérivation,89,9,10,0.7,Excellent
+49,Électricité,87,9,10,0.3,Excellent
+49,Mécanique,54,5,10,0.8,Moyen
+49,Ondes,29,3,10,0.2,Faible
+49,Acides et bases,75,8,10,2.0,Bon
+49,Réactions chimiques,37,4,10,1.9,Faible
+49,Chimie organique,97,10,10,1.8,Excellent
+50,Nombres réels,77,8,10,1.9,Bon
+50,Suites,22,2,10,0.3,Faible
+50,Limites,26,3,10,1.5,Faible
+50,Dérivation,73,7,10,1.4,Bon
+50,Électricité,79,8,10,0.4,Bon
+50,Mécanique,70,7,10,1.0,Bon
+50,Ondes,94,9,10,1.5,Excellent
+50,Acides et bases,77,8,10,0.8,Bon
+50,Réactions chimiques,86,9,10,1.3,Excellent
+50,Chimie organique,80,8,10,0.8,Bon
+51,Nombres réels,42,4,10,0.7,Faible
+51,Suites,84,8,10,1.4,Bon
+51,Limites,26,3,10,0.9,Faible
+51,Dérivation,75,8,10,1.8,Bon
+51,Électricité,75,8,10,0.6,Bon
+51,Mécanique,47,5,10,0.5,Faible
+51,Ondes,50,5,10,0.5,Moyen
+51,Acides et bases,51,5,10,0.3,Moyen
+51,Réactions chimiques,71,7,10,1.2,Bon
+51,Chimie organique,97,10,10,0.5,Excellent
+52,Nombres réels,90,9,10,1.6,Excellent
+52,Suites,63,6,10,1.4,Moyen
+52,Limites,70,7,10,1.5,Bon
+52,Dérivation,61,6,10,1.1,Moyen
+52,Électricité,78,8,10,0.7,Bon
+52,Mécanique,27,3,10,1.7,Faible
+52,Ondes,80,8,10,1.1,Bon
+52,Acides et bases,54,5,10,1.9,Moyen
+52,Réactions chimiques,44,4,10,1.5,Faible
+52,Chimie organique,78,8,10,0.2,Bon
+53,Nombres réels,76,8,10,0.3,Bon
+53,Suites,79,8,10,1.3,Bon
+53,Limites,72,7,10,1.6,Bon
+53,Dérivation,40,4,10,1.8,Faible
+53,Électricité,73,7,10,1.8,Bon
+53,Mécanique,28,3,10,0.7,Faible
+53,Ondes,54,5,10,0.6,Moyen
+53,Acides et bases,30,3,10,1.4,Faible
+53,Réactions chimiques,49,5,10,1.3,Faible
+53,Chimie organique,26,3,10,0.8,Faible
+54,Nombres réels,24,2,10,1.2,Faible
+54,Suites,27,3,10,1.1,Faible
+54,Limites,32,3,10,0.5,Faible
+54,Dérivation,29,3,10,0.2,Faible
+54,Électricité,97,10,10,1.4,Excellent
+54,Mécanique,67,7,10,1.6,Moyen
+54,Ondes,23,2,10,2.0,Faible
+54,Acides et bases,87,9,10,0.5,Excellent
+54,Réactions chimiques,38,4,10,0.6,Faible
+54,Chimie organique,48,5,10,0.7,Faible
+55,Nombres réels,21,2,10,1.2,Faible
+55,Suites,52,5,10,1.3,Moyen
+55,Limites,87,9,10,0.9,Excellent
+55,Dérivation,40,4,10,0.9,Faible
+55,Électricité,53,5,10,1.5,Moyen
+55,Mécanique,74,7,10,1.5,Bon
+55,Ondes,77,8,10,0.8,Bon
+55,Acides et bases,27,3,10,1.2,Faible
+55,Réactions chimiques,57,6,10,0.9,Moyen
+55,Chimie organique,99,10,10,1.9,Excellent
+56,Nombres réels,75,8,10,1.1,Bon
+56,Suites,51,5,10,1.5,Moyen
+56,Limites,95,10,10,1.9,Excellent
+56,Dérivation,79,8,10,0.3,Bon
+56,Électricité,78,8,10,0.6,Bon
+56,Mécanique,45,4,10,2.0,Faible
+56,Ondes,87,9,10,0.6,Excellent
+56,Acides et bases,96,10,10,0.3,Excellent
+56,Réactions chimiques,23,2,10,1.2,Faible
+56,Chimie organique,74,7,10,2.0,Bon
+57,Nombres réels,44,4,10,0.4,Faible
+57,Suites,72,7,10,0.2,Bon
+57,Limites,59,6,10,0.2,Moyen
+57,Dérivation,33,3,10,1.3,Faible
+57,Électricité,85,8,10,0.9,Excellent
+57,Mécanique,92,9,10,1.6,Excellent
+57,Ondes,53,5,10,0.7,Moyen
+57,Acides et bases,84,8,10,1.3,Bon
+57,Réactions chimiques,35,4,10,0.8,Faible
+57,Chimie organique,84,8,10,0.3,Bon
+58,Nombres réels,53,5,10,1.6,Moyen
+58,Suites,51,5,10,2.0,Moyen
+58,Limites,50,5,10,0.8,Moyen
+58,Dérivation,99,10,10,1.7,Excellent
+58,Électricité,82,8,10,0.4,Bon
+58,Mécanique,71,7,10,0.6,Bon
+58,Ondes,84,8,10,1.4,Bon
+58,Acides et bases,34,3,10,0.6,Faible
+58,Réactions chimiques,73,7,10,0.4,Bon
+58,Chimie organique,31,3,10,1.2,Faible
+59,Nombres réels,91,9,10,0.5,Excellent
+59,Suites,32,3,10,0.8,Faible
+59,Limites,26,3,10,0.9,Faible
+59,Dérivation,90,9,10,1.0,Excellent
+59,Électricité,50,5,10,1.8,Moyen
+59,Mécanique,34,3,10,1.3,Faible
+59,Ondes,98,10,10,0.8,Excellent
+59,Acides et bases,20,2,10,1.6,Faible
+59,Réactions chimiques,87,9,10,1.7,Excellent
+59,Chimie organique,28,3,10,1.4,Faible
+60,Nombres réels,47,5,10,1.7,Faible
+60,Suites,32,3,10,1.7,Faible
+60,Limites,34,3,10,0.8,Faible
+60,Dérivation,63,6,10,0.5,Moyen
+60,Électricité,49,5,10,1.7,Faible
+60,Mécanique,80,8,10,1.4,Bon
+60,Ondes,20,2,10,0.5,Faible
+60,Acides et bases,43,4,10,0.3,Faible
+60,Réactions chimiques,32,3,10,1.6,Faible
+60,Chimie organique,55,6,10,1.4,Moyen
+61,Nombres réels,65,6,10,1.6,Moyen
+61,Suites,44,4,10,0.4,Faible
+61,Limites,98,10,10,2.0,Excellent
+61,Dérivation,86,9,10,0.5,Excellent
+61,Électricité,28,3,10,0.5,Faible
+61,Mécanique,93,9,10,1.9,Excellent
+61,Ondes,64,6,10,1.9,Moyen
+61,Acides et bases,22,2,10,0.5,Faible
+61,Réactions chimiques,91,9,10,0.8,Excellent
+61,Chimie organique,99,10,10,0.6,Excellent
+62,Nombres réels,21,2,10,1.9,Faible
+62,Suites,86,9,10,1.8,Excellent
+62,Limites,79,8,10,2.0,Bon
+62,Dérivation,56,6,10,1.1,Moyen
+62,Électricité,29,3,10,1.6,Faible
+62,Mécanique,72,7,10,0.9,Bon
+62,Ondes,88,9,10,0.4,Excellent
+62,Acides et bases,69,7,10,1.7,Moyen
+62,Réactions chimiques,90,9,10,1.7,Excellent
+62,Chimie organique,72,7,10,1.6,Bon
+63,Nombres réels,70,7,10,1.1,Bon
+63,Suites,87,9,10,1.7,Excellent
+63,Limites,81,8,10,0.5,Bon
+63,Dérivation,25,2,10,0.5,Faible
+63,Électricité,20,2,10,1.7,Faible
+63,Mécanique,78,8,10,0.5,Bon
+63,Ondes,26,3,10,1.1,Faible
+63,Acides et bases,85,8,10,0.6,Excellent
+63,Réactions chimiques,49,5,10,1.1,Faible
+63,Chimie organique,52,5,10,1.0,Moyen
+64,Nombres réels,88,9,10,0.5,Excellent
+64,Suites,80,8,10,0.8,Bon
+64,Limites,78,8,10,0.4,Bon
+64,Dérivation,92,9,10,0.5,Excellent
+64,Électricité,64,6,10,1.6,Moyen
+64,Mécanique,70,7,10,0.4,Bon
+64,Ondes,55,6,10,1.6,Moyen
+64,Acides et bases,93,9,10,1.5,Excellent
+64,Réactions chimiques,91,9,10,1.4,Excellent
+64,Chimie organique,66,7,10,1.2,Moyen
+65,Nombres réels,68,7,10,0.7,Moyen
+65,Suites,44,4,10,1.7,Faible
+65,Limites,43,4,10,1.9,Faible
+65,Dérivation,58,6,10,0.7,Moyen
+65,Électricité,84,8,10,1.3,Bon
+65,Mécanique,93,9,10,1.2,Excellent
+65,Ondes,84,8,10,0.7,Bon
+65,Acides et bases,99,10,10,1.5,Excellent
+65,Réactions chimiques,52,5,10,1.4,Moyen
+65,Chimie organique,31,3,10,1.4,Faible
+66,Nombres réels,84,8,10,0.7,Bon
+66,Suites,48,5,10,1.8,Faible
+66,Limites,37,4,10,1.6,Faible
+66,Dérivation,62,6,10,1.4,Moyen
+66,Électricité,60,6,10,0.7,Moyen
+66,Mécanique,60,6,10,1.9,Moyen
+66,Ondes,66,7,10,1.9,Moyen
+66,Acides et bases,81,8,10,1.6,Bon
+66,Réactions chimiques,58,6,10,0.8,Moyen
+66,Chimie organique,54,5,10,1.9,Moyen
+67,Nombres réels,70,7,10,0.8,Bon
+67,Suites,54,5,10,1.5,Moyen
+67,Limites,100,10,10,1.5,Excellent
+67,Dérivation,53,5,10,1.2,Moyen
+67,Électricité,28,3,10,1.6,Faible
+67,Mécanique,36,4,10,0.3,Faible
+67,Ondes,33,3,10,1.1,Faible
+67,Acides et bases,54,5,10,0.2,Moyen
+67,Réactions chimiques,98,10,10,0.5,Excellent
+67,Chimie organique,100,10,10,1.4,Excellent
+68,Nombres réels,54,5,10,1.3,Moyen
+68,Suites,57,6,10,1.3,Moyen
+68,Limites,99,10,10,1.0,Excellent
+68,Dérivation,91,9,10,1.5,Excellent
+68,Électricité,22,2,10,0.9,Faible
+68,Mécanique,85,8,10,0.5,Excellent
+68,Ondes,91,9,10,1.7,Excellent
+68,Acides et bases,54,5,10,2.0,Moyen
+68,Réactions chimiques,100,10,10,1.7,Excellent
+68,Chimie organique,23,2,10,1.6,Faible
+69,Nombres réels,87,9,10,0.2,Excellent
+69,Suites,59,6,10,0.8,Moyen
+69,Limites,23,2,10,1.6,Faible
+69,Dérivation,83,8,10,1.0,Bon
+69,Électricité,28,3,10,1.2,Faible
+69,Mécanique,20,2,10,1.5,Faible
+69,Ondes,90,9,10,1.3,Excellent
+69,Acides et bases,25,2,10,2.0,Faible
+69,Réactions chimiques,79,8,10,1.6,Bon
+69,Chimie organique,64,6,10,1.6,Moyen
+70,Nombres réels,32,3,10,1.9,Faible
+70,Suites,48,5,10,0.5,Faible
+70,Limites,39,4,10,0.4,Faible
+70,Dérivation,57,6,10,1.3,Moyen
+70,Électricité,25,2,10,0.6,Faible
+70,Mécanique,51,5,10,1.9,Moyen
+70,Ondes,93,9,10,0.9,Excellent
+70,Acides et bases,61,6,10,1.8,Moyen
+70,Réactions chimiques,72,7,10,1.0,Bon
+70,Chimie organique,29,3,10,1.1,Faible
+71,Nombres réels,38,4,10,0.8,Faible
+71,Suites,79,8,10,1.2,Bon
+71,Limites,22,2,10,0.7,Faible
+71,Dérivation,63,6,10,0.6,Moyen
+71,Électricité,53,5,10,0.6,Moyen
+71,Mécanique,62,6,10,1.6,Moyen
+71,Ondes,37,4,10,0.4,Faible
+71,Acides et bases,40,4,10,1.5,Faible
+71,Réactions chimiques,79,8,10,1.4,Bon
+71,Chimie organique,82,8,10,0.7,Bon
+72,Nombres réels,28,3,10,2.0,Faible
+72,Suites,96,10,10,2.0,Excellent
+72,Limites,73,7,10,1.6,Bon
+72,Dérivation,51,5,10,1.0,Moyen
+72,Électricité,96,10,10,1.8,Excellent
+72,Mécanique,23,2,10,0.7,Faible
+72,Ondes,28,3,10,1.3,Faible
+72,Acides et bases,27,3,10,1.4,Faible
+72,Réactions chimiques,84,8,10,1.8,Bon
+72,Chimie organique,60,6,10,1.9,Moyen
+73,Nombres réels,86,9,10,0.7,Excellent
+73,Suites,47,5,10,2.0,Faible
+73,Limites,88,9,10,0.4,Excellent
+73,Dérivation,82,8,10,1.1,Bon
+73,Électricité,28,3,10,1.0,Faible
+73,Mécanique,91,9,10,1.4,Excellent
+73,Ondes,22,2,10,1.3,Faible
+73,Acides et bases,68,7,10,0.7,Moyen
+73,Réactions chimiques,21,2,10,1.9,Faible
+73,Chimie organique,63,6,10,0.9,Moyen
+74,Nombres réels,38,4,10,1.9,Faible
+74,Suites,72,7,10,1.9,Bon
+74,Limites,48,5,10,0.4,Faible
+74,Dérivation,57,6,10,0.9,Moyen
+74,Électricité,39,4,10,0.7,Faible
+74,Mécanique,93,9,10,0.6,Excellent
+74,Ondes,97,10,10,1.2,Excellent
+74,Acides et bases,88,9,10,0.9,Excellent
+74,Réactions chimiques,37,4,10,1.1,Faible
+74,Chimie organique,42,4,10,1.4,Faible
+75,Nombres réels,88,9,10,0.4,Excellent
+75,Suites,56,6,10,0.6,Moyen
+75,Limites,55,6,10,1.0,Moyen
+75,Dérivation,49,5,10,2.0,Faible
+75,Électricité,61,6,10,0.4,Moyen
+75,Mécanique,93,9,10,1.0,Excellent
+75,Ondes,93,9,10,0.5,Excellent
+75,Acides et bases,73,7,10,0.2,Bon
+75,Réactions chimiques,59,6,10,0.4,Moyen
+75,Chimie organique,80,8,10,1.5,Bon
+76,Nombres réels,97,10,10,1.8,Excellent
+76,Suites,68,7,10,1.2,Moyen
+76,Limites,48,5,10,1.7,Faible
+76,Dérivation,23,2,10,1.9,Faible
+76,Électricité,76,8,10,0.4,Bon
+76,Mécanique,64,6,10,1.3,Moyen
+76,Ondes,53,5,10,1.2,Moyen
+76,Acides et bases,69,7,10,2.0,Moyen
+76,Réactions chimiques,48,5,10,0.2,Faible
+76,Chimie organique,31,3,10,1.5,Faible
+77,Nombres réels,38,4,10,1.6,Faible
+77,Suites,82,8,10,0.5,Bon
+77,Limites,62,6,10,0.7,Moyen
+77,Dérivation,66,7,10,1.0,Moyen
+77,Électricité,91,9,10,1.6,Excellent
+77,Mécanique,85,8,10,0.9,Excellent
+77,Ondes,85,8,10,0.8,Excellent
+77,Acides et bases,30,3,10,1.2,Faible
+77,Réactions chimiques,42,4,10,0.7,Faible
+77,Chimie organique,93,9,10,1.4,Excellent
+78,Nombres réels,70,7,10,0.3,Bon
+78,Suites,64,6,10,1.2,Moyen
+78,Limites,54,5,10,1.3,Moyen
+78,Dérivation,81,8,10,1.7,Bon
+78,Électricité,46,5,10,0.4,Faible
+78,Mécanique,97,10,10,1.3,Excellent
+78,Ondes,58,6,10,1.0,Moyen
+78,Acides et bases,20,2,10,1.5,Faible
+78,Réactions chimiques,65,6,10,0.9,Moyen
+78,Chimie organique,57,6,10,1.0,Moyen
+79,Nombres réels,52,5,10,1.8,Moyen
+79,Suites,46,5,10,1.9,Faible
+79,Limites,53,5,10,1.2,Moyen
+79,Dérivation,75,8,10,0.9,Bon
+79,Électricité,60,6,10,0.9,Moyen
+79,Mécanique,97,10,10,1.7,Excellent
+79,Ondes,76,8,10,1.1,Bon
+79,Acides et bases,58,6,10,0.6,Moyen
+79,Réactions chimiques,66,7,10,0.7,Moyen
+79,Chimie organique,86,9,10,0.3,Excellent
+80,Nombres réels,66,7,10,0.4,Moyen
+80,Suites,90,9,10,1.1,Excellent
+80,Limites,97,10,10,0.3,Excellent
+80,Dérivation,73,7,10,1.2,Bon
+80,Électricité,81,8,10,1.0,Bon
+80,Mécanique,67,7,10,1.8,Moyen
+80,Ondes,23,2,10,0.9,Faible
+80,Acides et bases,39,4,10,1.6,Faible
+80,Réactions chimiques,91,9,10,1.5,Excellent
+80,Chimie organique,87,9,10,1.6,Excellent
+81,Nombres réels,68,7,10,1.4,Moyen
+81,Suites,50,5,10,1.0,Moyen
+81,Limites,81,8,10,1.2,Bon
+81,Dérivation,92,9,10,1.8,Excellent
+81,Électricité,86,9,10,0.8,Excellent
+81,Mécanique,88,9,10,0.9,Excellent
+81,Ondes,70,7,10,0.2,Bon
+81,Acides et bases,61,6,10,1.8,Moyen
+81,Réactions chimiques,90,9,10,1.1,Excellent
+81,Chimie organique,43,4,10,1.6,Faible
+82,Nombres réels,40,4,10,0.9,Faible
+82,Suites,38,4,10,1.3,Faible
+82,Limites,46,5,10,0.3,Faible
+82,Dérivation,79,8,10,1.0,Bon
+82,Électricité,81,8,10,0.5,Bon
+82,Mécanique,49,5,10,0.8,Faible
+82,Ondes,35,4,10,0.4,Faible
+82,Acides et bases,32,3,10,1.4,Faible
+82,Réactions chimiques,89,9,10,1.0,Excellent
+82,Chimie organique,72,7,10,1.0,Bon
+83,Nombres réels,31,3,10,0.6,Faible
+83,Suites,32,3,10,1.3,Faible
+83,Limites,89,9,10,0.8,Excellent
+83,Dérivation,57,6,10,1.6,Moyen
+83,Électricité,34,3,10,1.0,Faible
+83,Mécanique,65,6,10,0.2,Moyen
+83,Ondes,58,6,10,1.1,Moyen
+83,Acides et bases,54,5,10,1.1,Moyen
+83,Réactions chimiques,75,8,10,0.7,Bon
+83,Chimie organique,63,6,10,0.5,Moyen
+84,Nombres réels,88,9,10,0.5,Excellent
+84,Suites,71,7,10,1.8,Bon
+84,Limites,67,7,10,1.9,Moyen
+84,Dérivation,65,6,10,0.7,Moyen
+84,Électricité,76,8,10,0.7,Bon
+84,Mécanique,46,5,10,2.0,Faible
+84,Ondes,76,8,10,0.6,Bon
+84,Acides et bases,70,7,10,1.6,Bon
+84,Réactions chimiques,53,5,10,0.2,Moyen
+84,Chimie organique,83,8,10,0.8,Bon
+85,Nombres réels,33,3,10,0.6,Faible
+85,Suites,89,9,10,1.8,Excellent
+85,Limites,96,10,10,1.4,Excellent
+85,Dérivation,44,4,10,0.4,Faible
+85,Électricité,66,7,10,0.6,Moyen
+85,Mécanique,62,6,10,1.1,Moyen
+85,Ondes,69,7,10,1.9,Moyen
+85,Acides et bases,34,3,10,0.5,Faible
+85,Réactions chimiques,29,3,10,0.9,Faible
+85,Chimie organique,89,9,10,1.9,Excellent
+86,Nombres réels,75,8,10,0.6,Bon
+86,Suites,57,6,10,0.3,Moyen
+86,Limites,59,6,10,2.0,Moyen
+86,Dérivation,51,5,10,1.5,Moyen
+86,Électricité,70,7,10,0.7,Bon
+86,Mécanique,70,7,10,1.3,Bon
+86,Ondes,60,6,10,1.3,Moyen
+86,Acides et bases,83,8,10,1.9,Bon
+86,Réactions chimiques,68,7,10,1.6,Moyen
+86,Chimie organique,35,4,10,0.7,Faible
+87,Nombres réels,65,6,10,1.9,Moyen
+87,Suites,23,2,10,1.8,Faible
+87,Limites,69,7,10,0.6,Moyen
+87,Dérivation,63,6,10,1.1,Moyen
+87,Électricité,99,10,10,1.1,Excellent
+87,Mécanique,94,9,10,1.9,Excellent
+87,Ondes,79,8,10,1.2,Bon
+87,Acides et bases,71,7,10,1.1,Bon
+87,Réactions chimiques,30,3,10,0.4,Faible
+87,Chimie organique,30,3,10,0.5,Faible
+88,Nombres réels,44,4,10,0.7,Faible
+88,Suites,80,8,10,1.0,Bon
+88,Limites,50,5,10,1.3,Moyen
+88,Dérivation,57,6,10,1.2,Moyen
+88,Électricité,34,3,10,1.4,Faible
+88,Mécanique,84,8,10,0.5,Bon
+88,Ondes,68,7,10,1.3,Moyen
+88,Acides et bases,26,3,10,1.2,Faible
+88,Réactions chimiques,32,3,10,0.7,Faible
+88,Chimie organique,46,5,10,0.8,Faible
+89,Nombres réels,68,7,10,1.6,Moyen
+89,Suites,41,4,10,0.5,Faible
+89,Limites,63,6,10,0.5,Moyen
+89,Dérivation,40,4,10,1.7,Faible
+89,Électricité,58,6,10,1.6,Moyen
+89,Mécanique,58,6,10,2.0,Moyen
+89,Ondes,78,8,10,1.7,Bon
+89,Acides et bases,100,10,10,0.5,Excellent
+89,Réactions chimiques,27,3,10,0.9,Faible
+89,Chimie organique,47,5,10,1.0,Faible
+90,Nombres réels,45,4,10,0.7,Faible
+90,Suites,66,7,10,1.9,Moyen
+90,Limites,23,2,10,1.1,Faible
+90,Dérivation,25,2,10,0.2,Faible
+90,Électricité,83,8,10,1.8,Bon
+90,Mécanique,34,3,10,0.3,Faible
+90,Ondes,74,7,10,0.6,Bon
+90,Acides et bases,100,10,10,1.6,Excellent
+90,Réactions chimiques,35,4,10,1.2,Faible
+90,Chimie organique,80,8,10,0.7,Bon
+91,Nombres réels,26,3,10,1.2,Faible
+91,Suites,54,5,10,1.7,Moyen
+91,Limites,52,5,10,1.1,Moyen
+91,Dérivation,52,5,10,1.2,Moyen
+91,Électricité,33,3,10,1.5,Faible
+91,Mécanique,65,6,10,1.9,Moyen
+91,Ondes,23,2,10,1.9,Faible
+91,Acides et bases,46,5,10,0.5,Faible
+91,Réactions chimiques,96,10,10,1.4,Excellent
+91,Chimie organique,69,7,10,0.9,Moyen
+92,Nombres réels,26,3,10,1.8,Faible
+92,Suites,50,5,10,1.4,Moyen
+92,Limites,84,8,10,0.6,Bon
+92,Dérivation,35,4,10,1.9,Faible
+92,Électricité,61,6,10,1.0,Moyen
+92,Mécanique,45,4,10,0.3,Faible
+92,Ondes,97,10,10,0.6,Excellent
+92,Acides et bases,95,10,10,1.2,Excellent
+92,Réactions chimiques,30,3,10,0.5,Faible
+92,Chimie organique,75,8,10,1.3,Bon
+93,Nombres réels,56,6,10,1.5,Moyen
+93,Suites,37,4,10,0.2,Faible
+93,Limites,73,7,10,1.5,Bon
+93,Dérivation,73,7,10,0.2,Bon
+93,Électricité,42,4,10,0.3,Faible
+93,Mécanique,27,3,10,1.6,Faible
+93,Ondes,38,4,10,1.4,Faible
+93,Acides et bases,59,6,10,0.8,Moyen
+93,Réactions chimiques,33,3,10,1.8,Faible
+93,Chimie organique,47,5,10,1.0,Faible
+94,Nombres réels,41,4,10,0.7,Faible
+94,Suites,77,8,10,1.5,Bon
+94,Limites,74,7,10,0.2,Bon
+94,Dérivation,88,9,10,0.5,Excellent
+94,Électricité,56,6,10,1.6,Moyen
+94,Mécanique,89,9,10,0.3,Excellent
+94,Ondes,28,3,10,1.8,Faible
+94,Acides et bases,86,9,10,1.8,Excellent
+94,Réactions chimiques,92,9,10,0.8,Excellent
+94,Chimie organique,33,3,10,1.4,Faible
+95,Nombres réels,96,10,10,0.8,Excellent
+95,Suites,41,4,10,0.6,Faible
+95,Limites,26,3,10,0.9,Faible
+95,Dérivation,33,3,10,1.1,Faible
+95,Électricité,27,3,10,1.5,Faible
+95,Mécanique,65,6,10,1.5,Moyen
+95,Ondes,58,6,10,0.5,Moyen
+95,Acides et bases,80,8,10,0.3,Bon
+95,Réactions chimiques,87,9,10,0.8,Excellent
+95,Chimie organique,29,3,10,1.3,Faible
+96,Nombres réels,95,10,10,1.1,Excellent
+96,Suites,33,3,10,1.6,Faible
+96,Limites,66,7,10,1.0,Moyen
+96,Dérivation,93,9,10,1.9,Excellent
+96,Électricité,87,9,10,1.0,Excellent
+96,Mécanique,72,7,10,1.1,Bon
+96,Ondes,21,2,10,0.3,Faible
+96,Acides et bases,96,10,10,0.5,Excellent
+96,Réactions chimiques,81,8,10,1.1,Bon
+96,Chimie organique,87,9,10,1.4,Excellent
+97,Nombres réels,38,4,10,1.4,Faible
+97,Suites,92,9,10,0.4,Excellent
+97,Limites,90,9,10,0.9,Excellent
+97,Dérivation,34,3,10,1.1,Faible
+97,Électricité,76,8,10,0.3,Bon
+97,Mécanique,91,9,10,0.6,Excellent
+97,Ondes,79,8,10,0.3,Bon
+97,Acides et bases,42,4,10,0.5,Faible
+97,Réactions chimiques,44,4,10,0.4,Faible
+97,Chimie organique,51,5,10,0.5,Moyen
+98,Nombres réels,100,10,10,1.5,Excellent
+98,Suites,100,10,10,0.8,Excellent
+98,Limites,98,10,10,0.3,Excellent
+98,Dérivation,77,8,10,1.9,Bon
+98,Électricité,70,7,10,0.7,Bon
+98,Mécanique,23,2,10,0.3,Faible
+98,Ondes,62,6,10,0.2,Moyen
+98,Acides et bases,82,8,10,0.6,Bon
+98,Réactions chimiques,96,10,10,1.7,Excellent
+98,Chimie organique,91,9,10,1.9,Excellent
+99,Nombres réels,57,6,10,0.9,Moyen
+99,Suites,73,7,10,1.8,Bon
+99,Limites,56,6,10,0.8,Moyen
+99,Dérivation,24,2,10,1.3,Faible
+99,Électricité,59,6,10,0.3,Moyen
+99,Mécanique,41,4,10,0.9,Faible
+99,Ondes,49,5,10,0.4,Faible
+99,Acides et bases,46,5,10,0.7,Faible
+99,Réactions chimiques,40,4,10,0.7,Faible
+99,Chimie organique,25,2,10,1.9,Faible
+100,Nombres réels,38,4,10,1.4,Faible
+100,Suites,82,8,10,1.8,Bon
+100,Limites,96,10,10,1.3,Excellent
+100,Dérivation,29,3,10,1.4,Faible
+100,Électricité,53,5,10,0.4,Moyen
+100,Mécanique,34,3,10,1.5,Faible
+100,Ondes,45,4,10,1.0,Faible
+100,Acides et bases,35,4,10,0.5,Faible
+100,Réactions chimiques,96,10,10,0.8,Excellent
+100,Chimie organique,37,4,10,1.5,Faible
+101,Nombres réels,25,2,10,0.6,Faible
+101,Suites,40,4,10,1.9,Faible
+101,Limites,83,8,10,0.9,Bon
+101,Dérivation,85,8,10,0.8,Excellent
+101,Électricité,72,7,10,1.5,Bon
+101,Mécanique,100,10,10,0.5,Excellent
+101,Ondes,53,5,10,0.9,Moyen
+101,Acides et bases,43,4,10,1.5,Faible
+101,Réactions chimiques,25,2,10,1.6,Faible
+101,Chimie organique,61,6,10,1.6,Moyen
+102,Nombres réels,43,4,10,1.2,Faible
+102,Suites,58,6,10,1.8,Moyen
+102,Limites,95,10,10,0.8,Excellent
+102,Dérivation,56,6,10,1.6,Moyen
+102,Électricité,48,5,10,1.7,Faible
+102,Mécanique,85,8,10,2.0,Excellent
+102,Ondes,24,2,10,1.9,Faible
+102,Acides et bases,25,2,10,0.4,Faible
+102,Réactions chimiques,57,6,10,0.8,Moyen
+102,Chimie organique,20,2,10,0.7,Faible
+103,Nombres réels,88,9,10,0.7,Excellent
+103,Suites,75,8,10,1.3,Bon
+103,Limites,60,6,10,0.2,Moyen
+103,Dérivation,74,7,10,1.8,Bon
+103,Électricité,31,3,10,1.4,Faible
+103,Mécanique,81,8,10,0.9,Bon
+103,Ondes,53,5,10,2.0,Moyen
+103,Acides et bases,92,9,10,1.7,Excellent
+103,Réactions chimiques,28,3,10,1.5,Faible
+103,Chimie organique,85,8,10,1.5,Excellent
+104,Nombres réels,63,6,10,1.3,Moyen
+104,Suites,53,5,10,1.8,Moyen
+104,Limites,96,10,10,1.4,Excellent
+104,Dérivation,83,8,10,0.7,Bon
+104,Électricité,88,9,10,1.5,Excellent
+104,Mécanique,42,4,10,1.7,Faible
+104,Ondes,53,5,10,0.5,Moyen
+104,Acides et bases,45,4,10,0.4,Faible
+104,Réactions chimiques,45,4,10,0.3,Faible
+104,Chimie organique,21,2,10,0.5,Faible
+105,Nombres réels,66,7,10,2.0,Moyen
+105,Suites,41,4,10,0.5,Faible
+105,Limites,60,6,10,1.1,Moyen
+105,Dérivation,54,5,10,0.7,Moyen
+105,Électricité,33,3,10,0.7,Faible
+105,Mécanique,70,7,10,1.8,Bon
+105,Ondes,88,9,10,1.8,Excellent
+105,Acides et bases,36,4,10,0.9,Faible
+105,Réactions chimiques,74,7,10,1.9,Bon
+105,Chimie organique,86,9,10,1.5,Excellent
+106,Nombres réels,78,8,10,0.9,Bon
+106,Suites,95,10,10,0.9,Excellent
+106,Limites,40,4,10,0.4,Faible
+106,Dérivation,34,3,10,1.8,Faible
+106,Électricité,21,2,10,2.0,Faible
+106,Mécanique,34,3,10,1.0,Faible
+106,Ondes,93,9,10,1.0,Excellent
+106,Acides et bases,75,8,10,0.7,Bon
+106,Réactions chimiques,33,3,10,2.0,Faible
+106,Chimie organique,95,10,10,0.5,Excellent
+107,Nombres réels,20,2,10,1.2,Faible
+107,Suites,41,4,10,1.3,Faible
+107,Limites,30,3,10,1.1,Faible
+107,Dérivation,53,5,10,0.6,Moyen
+107,Électricité,47,5,10,1.7,Faible
+107,Mécanique,53,5,10,0.6,Moyen
+107,Ondes,24,2,10,1.9,Faible
+107,Acides et bases,77,8,10,1.9,Bon
+107,Réactions chimiques,64,6,10,0.5,Moyen
+107,Chimie organique,67,7,10,0.3,Moyen
+108,Nombres réels,47,5,10,0.5,Faible
+108,Suites,56,6,10,1.4,Moyen
+108,Limites,67,7,10,0.6,Moyen
+108,Dérivation,91,9,10,1.2,Excellent
+108,Électricité,100,10,10,1.2,Excellent
+108,Mécanique,21,2,10,0.9,Faible
+108,Ondes,71,7,10,0.4,Bon
+108,Acides et bases,51,5,10,1.8,Moyen
+108,Réactions chimiques,43,4,10,1.1,Faible
+108,Chimie organique,28,3,10,1.5,Faible
+109,Nombres réels,63,6,10,0.5,Moyen
+109,Suites,82,8,10,1.0,Bon
+109,Limites,50,5,10,0.4,Moyen
+109,Dérivation,29,3,10,1.1,Faible
+109,Électricité,94,9,10,1.1,Excellent
+109,Mécanique,36,4,10,1.3,Faible
+109,Ondes,98,10,10,0.5,Excellent
+109,Acides et bases,72,7,10,1.8,Bon
+109,Réactions chimiques,54,5,10,0.2,Moyen
+109,Chimie organique,86,9,10,0.2,Excellent
+110,Nombres réels,95,10,10,1.6,Excellent
+110,Suites,35,4,10,1.7,Faible
+110,Limites,27,3,10,1.6,Faible
+110,Dérivation,70,7,10,1.2,Bon
+110,Électricité,66,7,10,1.9,Moyen
+110,Mécanique,54,5,10,0.9,Moyen
+110,Ondes,64,6,10,0.6,Moyen
+110,Acides et bases,35,4,10,1.3,Faible
+110,Réactions chimiques,57,6,10,1.4,Moyen
+110,Chimie organique,41,4,10,0.2,Faible
+111,Nombres réels,96,10,10,1.6,Excellent
+111,Suites,96,10,10,0.8,Excellent
+111,Limites,100,10,10,0.2,Excellent
+111,Dérivation,21,2,10,1.0,Faible
+111,Électricité,37,4,10,0.6,Faible
+111,Mécanique,50,5,10,0.7,Moyen
+111,Ondes,65,6,10,1.5,Moyen
+111,Acides et bases,27,3,10,1.4,Faible
+111,Réactions chimiques,51,5,10,1.4,Moyen
+111,Chimie organique,66,7,10,0.9,Moyen
+112,Nombres réels,29,3,10,1.1,Faible
+112,Suites,82,8,10,0.7,Bon
+112,Limites,93,9,10,1.8,Excellent
+112,Dérivation,21,2,10,0.8,Faible
+112,Électricité,48,5,10,0.7,Faible
+112,Mécanique,23,2,10,0.8,Faible
+112,Ondes,95,10,10,1.3,Excellent
+112,Acides et bases,80,8,10,1.4,Bon
+112,Réactions chimiques,28,3,10,1.8,Faible
+112,Chimie organique,84,8,10,0.6,Bon
+113,Nombres réels,62,6,10,1.1,Moyen
+113,Suites,80,8,10,1.1,Bon
+113,Limites,46,5,10,0.9,Faible
+113,Dérivation,88,9,10,1.8,Excellent
+113,Électricité,74,7,10,0.3,Bon
+113,Mécanique,33,3,10,1.3,Faible
+113,Ondes,44,4,10,0.4,Faible
+113,Acides et bases,58,6,10,0.6,Moyen
+113,Réactions chimiques,46,5,10,0.3,Faible
+113,Chimie organique,47,5,10,1.2,Faible
+114,Nombres réels,67,7,10,1.0,Moyen
+114,Suites,44,4,10,0.9,Faible
+114,Limites,25,2,10,0.9,Faible
+114,Dérivation,65,6,10,1.1,Moyen
+114,Électricité,71,7,10,0.4,Bon
+114,Mécanique,55,6,10,1.8,Moyen
+114,Ondes,92,9,10,1.4,Excellent
+114,Acides et bases,62,6,10,1.7,Moyen
+114,Réactions chimiques,93,9,10,1.8,Excellent
+114,Chimie organique,84,8,10,1.4,Bon
+115,Nombres réels,71,7,10,1.9,Bon
+115,Suites,50,5,10,0.7,Moyen
+115,Limites,68,7,10,1.3,Moyen
+115,Dérivation,69,7,10,1.8,Moyen
+115,Électricité,84,8,10,1.0,Bon
+115,Mécanique,90,9,10,0.7,Excellent
+115,Ondes,58,6,10,0.8,Moyen
+115,Acides et bases,41,4,10,0.9,Faible
+115,Réactions chimiques,82,8,10,0.8,Bon
+115,Chimie organique,39,4,10,0.4,Faible
+116,Nombres réels,28,3,10,1.4,Faible
+116,Suites,39,4,10,1.4,Faible
+116,Limites,62,6,10,1.3,Moyen
+116,Dérivation,73,7,10,1.1,Bon
+116,Électricité,88,9,10,1.5,Excellent
+116,Mécanique,90,9,10,0.9,Excellent
+116,Ondes,86,9,10,0.6,Excellent
+116,Acides et bases,66,7,10,1.4,Moyen
+116,Réactions chimiques,82,8,10,1.2,Bon
+116,Chimie organique,92,9,10,0.6,Excellent
+117,Nombres réels,75,8,10,1.1,Bon
+117,Suites,76,8,10,0.3,Bon
+117,Limites,50,5,10,1.0,Moyen
+117,Dérivation,96,10,10,1.1,Excellent
+117,Électricité,93,9,10,1.5,Excellent
+117,Mécanique,57,6,10,1.7,Moyen
+117,Ondes,64,6,10,0.5,Moyen
+117,Acides et bases,46,5,10,0.2,Faible
+117,Réactions chimiques,68,7,10,1.8,Moyen
+117,Chimie organique,70,7,10,1.2,Bon
+118,Nombres réels,54,5,10,0.6,Moyen
+118,Suites,61,6,10,1.6,Moyen
+118,Limites,95,10,10,1.6,Excellent
+118,Dérivation,46,5,10,1.4,Faible
+118,Électricité,57,6,10,1.1,Moyen
+118,Mécanique,84,8,10,1.8,Bon
+118,Ondes,89,9,10,1.4,Excellent
+118,Acides et bases,39,4,10,1.9,Faible
+118,Réactions chimiques,75,8,10,0.9,Bon
+118,Chimie organique,63,6,10,0.9,Moyen
+119,Nombres réels,47,5,10,1.5,Faible
+119,Suites,50,5,10,0.7,Moyen
+119,Limites,41,4,10,2.0,Faible
+119,Dérivation,62,6,10,1.9,Moyen
+119,Électricité,60,6,10,1.7,Moyen
+119,Mécanique,37,4,10,0.5,Faible
+119,Ondes,75,8,10,1.2,Bon
+119,Acides et bases,40,4,10,1.0,Faible
+119,Réactions chimiques,55,6,10,0.9,Moyen
+119,Chimie organique,28,3,10,0.5,Faible
+120,Nombres réels,32,3,10,1.6,Faible
+120,Suites,35,4,10,1.0,Faible
+120,Limites,69,7,10,0.6,Moyen
+120,Dérivation,33,3,10,1.3,Faible
+120,Électricité,37,4,10,1.2,Faible
+120,Mécanique,41,4,10,1.0,Faible
+120,Ondes,73,7,10,0.8,Bon
+120,Acides et bases,21,2,10,1.3,Faible
+120,Réactions chimiques,92,9,10,0.3,Excellent
+120,Chimie organique,20,2,10,2.0,Faible
+121,Nombres réels,81,8,10,0.2,Bon
+121,Suites,42,4,10,1.0,Faible
+121,Limites,82,8,10,0.6,Bon
+121,Dérivation,53,5,10,1.5,Moyen
+121,Électricité,28,3,10,1.3,Faible
+121,Mécanique,59,6,10,1.6,Moyen
+121,Ondes,78,8,10,1.9,Bon
+121,Acides et bases,77,8,10,1.7,Bon
+121,Réactions chimiques,49,5,10,1.1,Faible
+121,Chimie organique,70,7,10,1.5,Bon
+122,Nombres réels,89,9,10,0.2,Excellent
+122,Suites,49,5,10,0.9,Faible
+122,Limites,50,5,10,1.5,Moyen
+122,Dérivation,25,2,10,1.1,Faible
+122,Électricité,59,6,10,1.3,Moyen
+122,Mécanique,67,7,10,1.0,Moyen
+122,Ondes,89,9,10,1.4,Excellent
+122,Acides et bases,23,2,10,1.1,Faible
+122,Réactions chimiques,60,6,10,0.9,Moyen
+122,Chimie organique,62,6,10,1.2,Moyen
+123,Nombres réels,99,10,10,1.4,Excellent
+123,Suites,91,9,10,1.1,Excellent
+123,Limites,32,3,10,1.9,Faible
+123,Dérivation,86,9,10,1.6,Excellent
+123,Électricité,96,10,10,0.6,Excellent
+123,Mécanique,48,5,10,1.0,Faible
+123,Ondes,91,9,10,1.9,Excellent
+123,Acides et bases,75,8,10,1.9,Bon
+123,Réactions chimiques,70,7,10,0.9,Bon
+123,Chimie organique,83,8,10,0.3,Bon
+124,Nombres réels,22,2,10,1.8,Faible
+124,Suites,24,2,10,1.2,Faible
+124,Limites,90,9,10,0.3,Excellent
+124,Dérivation,41,4,10,0.9,Faible
+124,Électricité,25,2,10,1.0,Faible
+124,Mécanique,88,9,10,1.6,Excellent
+124,Ondes,95,10,10,0.9,Excellent
+124,Acides et bases,62,6,10,0.9,Moyen
+124,Réactions chimiques,26,3,10,0.2,Faible
+124,Chimie organique,25,2,10,1.7,Faible
+125,Nombres réels,38,4,10,1.9,Faible
+125,Suites,41,4,10,0.4,Faible
+125,Limites,80,8,10,1.8,Bon
+125,Dérivation,51,5,10,0.8,Moyen
+125,Électricité,95,10,10,1.1,Excellent
+125,Mécanique,20,2,10,0.8,Faible
+125,Ondes,26,3,10,1.2,Faible
+125,Acides et bases,64,6,10,0.5,Moyen
+125,Réactions chimiques,21,2,10,0.9,Faible
+125,Chimie organique,92,9,10,0.4,Excellent
+126,Nombres réels,70,7,10,0.4,Bon
+126,Suites,37,4,10,0.7,Faible
+126,Limites,57,6,10,0.5,Moyen
+126,Dérivation,98,10,10,1.3,Excellent
+126,Électricité,87,9,10,1.4,Excellent
+126,Mécanique,95,10,10,0.5,Excellent
+126,Ondes,46,5,10,1.9,Faible
+126,Acides et bases,100,10,10,1.2,Excellent
+126,Réactions chimiques,100,10,10,0.7,Excellent
+126,Chimie organique,67,7,10,1.3,Moyen
+127,Nombres réels,92,9,10,0.7,Excellent
+127,Suites,37,4,10,0.3,Faible
+127,Limites,36,4,10,2.0,Faible
+127,Dérivation,76,8,10,0.4,Bon
+127,Électricité,38,4,10,1.5,Faible
+127,Mécanique,59,6,10,0.4,Moyen
+127,Ondes,99,10,10,0.7,Excellent
+127,Acides et bases,59,6,10,0.9,Moyen
+127,Réactions chimiques,92,9,10,0.9,Excellent
+127,Chimie organique,65,6,10,0.2,Moyen
+128,Nombres réels,98,10,10,0.8,Excellent
+128,Suites,26,3,10,0.3,Faible
+128,Limites,66,7,10,0.4,Moyen
+128,Dérivation,78,8,10,1.9,Bon
+128,Électricité,77,8,10,1.5,Bon
+128,Mécanique,20,2,10,1.5,Faible
+128,Ondes,69,7,10,0.8,Moyen
+128,Acides et bases,47,5,10,1.1,Faible
+128,Réactions chimiques,80,8,10,1.6,Bon
+128,Chimie organique,38,4,10,0.8,Faible
+129,Nombres réels,56,6,10,0.5,Moyen
+129,Suites,87,9,10,1.0,Excellent
+129,Limites,86,9,10,1.5,Excellent
+129,Dérivation,56,6,10,1.0,Moyen
+129,Électricité,80,8,10,0.8,Bon
+129,Mécanique,54,5,10,0.6,Moyen
+129,Ondes,68,7,10,0.3,Moyen
+129,Acides et bases,94,9,10,0.6,Excellent
+129,Réactions chimiques,71,7,10,1.6,Bon
+129,Chimie organique,84,8,10,0.8,Bon
+130,Nombres réels,37,4,10,0.5,Faible
+130,Suites,76,8,10,1.4,Bon
+130,Limites,53,5,10,1.8,Moyen
+130,Dérivation,66,7,10,0.9,Moyen
+130,Électricité,87,9,10,0.9,Excellent
+130,Mécanique,33,3,10,1.7,Faible
+130,Ondes,47,5,10,1.8,Faible
+130,Acides et bases,34,3,10,0.4,Faible
+130,Réactions chimiques,73,7,10,0.9,Bon
+130,Chimie organique,62,6,10,0.5,Moyen
+131,Nombres réels,54,5,10,1.3,Moyen
+131,Suites,52,5,10,0.3,Moyen
+131,Limites,21,2,10,0.3,Faible
+131,Dérivation,60,6,10,0.7,Moyen
+131,Électricité,22,2,10,0.9,Faible
+131,Mécanique,84,8,10,1.1,Bon
+131,Ondes,30,3,10,1.4,Faible
+131,Acides et bases,100,10,10,1.7,Excellent
+131,Réactions chimiques,84,8,10,0.5,Bon
+131,Chimie organique,44,4,10,1.3,Faible
+132,Nombres réels,85,8,10,0.7,Excellent
+132,Suites,92,9,10,0.8,Excellent
+132,Limites,61,6,10,1.8,Moyen
+132,Dérivation,64,6,10,0.3,Moyen
+132,Électricité,45,4,10,0.4,Faible
+132,Mécanique,84,8,10,0.9,Bon
+132,Ondes,48,5,10,0.8,Faible
+132,Acides et bases,34,3,10,1.7,Faible
+132,Réactions chimiques,39,4,10,1.7,Faible
+132,Chimie organique,78,8,10,0.3,Bon
+133,Nombres réels,33,3,10,0.7,Faible
+133,Suites,43,4,10,1.7,Faible
+133,Limites,73,7,10,1.9,Bon
+133,Dérivation,58,6,10,1.5,Moyen
+133,Électricité,75,8,10,1.6,Bon
+133,Mécanique,52,5,10,1.5,Moyen
+133,Ondes,67,7,10,1.3,Moyen
+133,Acides et bases,75,8,10,1.3,Bon
+133,Réactions chimiques,22,2,10,0.5,Faible
+133,Chimie organique,98,10,10,0.6,Excellent
+134,Nombres réels,57,6,10,1.1,Moyen
+134,Suites,31,3,10,1.6,Faible
+134,Limites,53,5,10,1.7,Moyen
+134,Dérivation,58,6,10,1.2,Moyen
+134,Électricité,23,2,10,1.4,Faible
+134,Mécanique,65,6,10,1.8,Moyen
+134,Ondes,31,3,10,1.8,Faible
+134,Acides et bases,76,8,10,1.6,Bon
+134,Réactions chimiques,34,3,10,1.1,Faible
+134,Chimie organique,61,6,10,0.9,Moyen
+135,Nombres réels,37,4,10,1.3,Faible
+135,Suites,94,9,10,1.1,Excellent
+135,Limites,60,6,10,0.5,Moyen
+135,Dérivation,23,2,10,0.4,Faible
+135,Électricité,26,3,10,1.9,Faible
+135,Mécanique,53,5,10,2.0,Moyen
+135,Ondes,59,6,10,0.7,Moyen
+135,Acides et bases,68,7,10,1.1,Moyen
+135,Réactions chimiques,35,4,10,1.4,Faible
+135,Chimie organique,67,7,10,1.0,Moyen
+136,Nombres réels,22,2,10,0.6,Faible
+136,Suites,85,8,10,1.3,Excellent
+136,Limites,41,4,10,0.4,Faible
+136,Dérivation,73,7,10,0.5,Bon
+136,Électricité,55,6,10,0.4,Moyen
+136,Mécanique,82,8,10,0.3,Bon
+136,Ondes,24,2,10,1.8,Faible
+136,Acides et bases,84,8,10,1.8,Bon
+136,Réactions chimiques,62,6,10,1.7,Moyen
+136,Chimie organique,82,8,10,0.7,Bon
+137,Nombres réels,94,9,10,0.5,Excellent
+137,Suites,23,2,10,0.6,Faible
+137,Limites,85,8,10,1.7,Excellent
+137,Dérivation,48,5,10,1.1,Faible
+137,Électricité,46,5,10,0.4,Faible
+137,Mécanique,49,5,10,1.7,Faible
+137,Ondes,76,8,10,1.3,Bon
+137,Acides et bases,62,6,10,0.2,Moyen
+137,Réactions chimiques,58,6,10,0.4,Moyen
+137,Chimie organique,28,3,10,0.6,Faible
+138,Nombres réels,88,9,10,1.7,Excellent
+138,Suites,82,8,10,1.7,Bon
+138,Limites,94,9,10,0.7,Excellent
+138,Dérivation,32,3,10,1.8,Faible
+138,Électricité,95,10,10,0.5,Excellent
+138,Mécanique,70,7,10,0.9,Bon
+138,Ondes,96,10,10,0.2,Excellent
+138,Acides et bases,27,3,10,1.3,Faible
+138,Réactions chimiques,62,6,10,1.7,Moyen
+138,Chimie organique,61,6,10,1.8,Moyen
+139,Nombres réels,56,6,10,0.9,Moyen
+139,Suites,95,10,10,0.6,Excellent
+139,Limites,36,4,10,1.1,Faible
+139,Dérivation,57,6,10,0.7,Moyen
+139,Électricité,38,4,10,0.9,Faible
+139,Mécanique,60,6,10,0.2,Moyen
+139,Ondes,66,7,10,0.2,Moyen
+139,Acides et bases,67,7,10,0.6,Moyen
+139,Réactions chimiques,81,8,10,0.8,Bon
+139,Chimie organique,39,4,10,1.4,Faible
+140,Nombres réels,22,2,10,1.9,Faible
+140,Suites,52,5,10,1.5,Moyen
+140,Limites,71,7,10,0.2,Bon
+140,Dérivation,70,7,10,0.3,Bon
+140,Électricité,45,4,10,0.9,Faible
+140,Mécanique,43,4,10,0.3,Faible
+140,Ondes,99,10,10,1.9,Excellent
+140,Acides et bases,80,8,10,1.2,Bon
+140,Réactions chimiques,77,8,10,1.4,Bon
+140,Chimie organique,72,7,10,1.1,Bon
+141,Nombres réels,33,3,10,1.6,Faible
+141,Suites,56,6,10,0.4,Moyen
+141,Limites,68,7,10,0.2,Moyen
+141,Dérivation,96,10,10,0.3,Excellent
+141,Électricité,23,2,10,1.7,Faible
+141,Mécanique,58,6,10,1.1,Moyen
+141,Ondes,39,4,10,0.9,Faible
+141,Acides et bases,61,6,10,0.4,Moyen
+141,Réactions chimiques,89,9,10,1.9,Excellent
+141,Chimie organique,95,10,10,0.9,Excellent
+142,Nombres réels,23,2,10,1.6,Faible
+142,Suites,36,4,10,0.8,Faible
+142,Limites,85,8,10,1.1,Excellent
+142,Dérivation,40,4,10,1.8,Faible
+142,Électricité,76,8,10,0.3,Bon
+142,Mécanique,28,3,10,0.6,Faible
+142,Ondes,46,5,10,0.8,Faible
+142,Acides et bases,76,8,10,1.2,Bon
+142,Réactions chimiques,49,5,10,1.8,Faible
+142,Chimie organique,50,5,10,1.8,Moyen
+143,Nombres réels,49,5,10,0.9,Faible
+143,Suites,86,9,10,1.0,Excellent
+143,Limites,68,7,10,1.5,Moyen
+143,Dérivation,98,10,10,1.5,Excellent
+143,Électricité,41,4,10,0.4,Faible
+143,Mécanique,35,4,10,0.5,Faible
+143,Ondes,37,4,10,0.6,Faible
+143,Acides et bases,31,3,10,1.9,Faible
+143,Réactions chimiques,56,6,10,1.5,Moyen
+143,Chimie organique,66,7,10,0.4,Moyen
+144,Nombres réels,73,7,10,1.1,Bon
+144,Suites,20,2,10,1.0,Faible
+144,Limites,57,6,10,0.8,Moyen
+144,Dérivation,63,6,10,0.4,Moyen
+144,Électricité,68,7,10,1.4,Moyen
+144,Mécanique,94,9,10,1.6,Excellent
+144,Ondes,91,9,10,0.3,Excellent
+144,Acides et bases,26,3,10,1.0,Faible
+144,Réactions chimiques,59,6,10,1.8,Moyen
+144,Chimie organique,31,3,10,1.8,Faible
+145,Nombres réels,32,3,10,1.0,Faible
+145,Suites,92,9,10,1.3,Excellent
+145,Limites,29,3,10,1.1,Faible
+145,Dérivation,37,4,10,1.8,Faible
+145,Électricité,95,10,10,1.3,Excellent
+145,Mécanique,73,7,10,0.9,Bon
+145,Ondes,50,5,10,1.5,Moyen
+145,Acides et bases,41,4,10,0.3,Faible
+145,Réactions chimiques,23,2,10,1.8,Faible
+145,Chimie organique,65,6,10,1.6,Moyen
+146,Nombres réels,35,4,10,0.8,Faible
+146,Suites,41,4,10,0.4,Faible
+146,Limites,85,8,10,0.3,Excellent
+146,Dérivation,29,3,10,1.3,Faible
+146,Électricité,77,8,10,1.0,Bon
+146,Mécanique,24,2,10,1.0,Faible
+146,Ondes,62,6,10,0.6,Moyen
+146,Acides et bases,90,9,10,0.4,Excellent
+146,Réactions chimiques,40,4,10,1.2,Faible
+146,Chimie organique,74,7,10,1.9,Bon
+147,Nombres réels,78,8,10,0.3,Bon
+147,Suites,90,9,10,1.5,Excellent
+147,Limites,82,8,10,0.8,Bon
+147,Dérivation,27,3,10,0.8,Faible
+147,Électricité,81,8,10,0.3,Bon
+147,Mécanique,22,2,10,0.7,Faible
+147,Ondes,76,8,10,0.8,Bon
+147,Acides et bases,71,7,10,1.0,Bon
+147,Réactions chimiques,87,9,10,0.6,Excellent
+147,Chimie organique,21,2,10,1.2,Faible
+148,Nombres réels,31,3,10,1.6,Faible
+148,Suites,53,5,10,1.9,Moyen
+148,Limites,78,8,10,0.3,Bon
+148,Dérivation,63,6,10,1.0,Moyen
+148,Électricité,76,8,10,2.0,Bon
+148,Mécanique,60,6,10,1.8,Moyen
+148,Ondes,100,10,10,1.9,Excellent
+148,Acides et bases,30,3,10,2.0,Faible
+148,Réactions chimiques,48,5,10,0.4,Faible
+148,Chimie organique,82,8,10,0.9,Bon
+149,Nombres réels,68,7,10,1.8,Moyen
+149,Suites,22,2,10,1.8,Faible
+149,Limites,28,3,10,0.5,Faible
+149,Dérivation,83,8,10,1.8,Bon
+149,Électricité,67,7,10,1.1,Moyen
+149,Mécanique,75,8,10,0.4,Bon
+149,Ondes,63,6,10,0.6,Moyen
+149,Acides et bases,22,2,10,1.3,Faible
+149,Réactions chimiques,64,6,10,0.8,Moyen
+149,Chimie organique,23,2,10,0.9,Faible
+150,Nombres réels,92,9,10,0.8,Excellent
+150,Suites,83,8,10,0.4,Bon
+150,Limites,63,6,10,0.3,Moyen
+150,Dérivation,69,7,10,1.5,Moyen
+150,Électricité,34,3,10,1.2,Faible
+150,Mécanique,78,8,10,1.6,Bon
+150,Ondes,23,2,10,1.8,Faible
+150,Acides et bases,84,8,10,0.4,Bon
+150,Réactions chimiques,57,6,10,0.7,Moyen
+150,Chimie organique,48,5,10,0.7,Faible
+151,Nombres réels,38,4,10,0.6,Faible
+151,Suites,95,10,10,1.5,Excellent
+151,Limites,41,4,10,0.4,Faible
+151,Dérivation,77,8,10,1.5,Bon
+151,Électricité,49,5,10,1.4,Faible
+151,Mécanique,52,5,10,1.0,Moyen
+151,Ondes,35,4,10,1.9,Faible
+151,Acides et bases,48,5,10,1.6,Faible
+151,Réactions chimiques,61,6,10,1.9,Moyen
+151,Chimie organique,70,7,10,1.3,Bon
+152,Nombres réels,77,8,10,0.3,Bon
+152,Suites,66,7,10,0.4,Moyen
+152,Limites,64,6,10,1.4,Moyen
+152,Dérivation,74,7,10,0.5,Bon
+152,Électricité,34,3,10,1.7,Faible
+152,Mécanique,64,6,10,2.0,Moyen
+152,Ondes,40,4,10,0.3,Faible
+152,Acides et bases,82,8,10,0.7,Bon
+152,Réactions chimiques,48,5,10,1.1,Faible
+152,Chimie organique,93,9,10,1.4,Excellent
+153,Nombres réels,32,3,10,1.5,Faible
+153,Suites,35,4,10,1.3,Faible
+153,Limites,25,2,10,2.0,Faible
+153,Dérivation,98,10,10,0.9,Excellent
+153,Électricité,23,2,10,0.9,Faible
+153,Mécanique,71,7,10,0.9,Bon
+153,Ondes,23,2,10,0.6,Faible
+153,Acides et bases,94,9,10,0.4,Excellent
+153,Réactions chimiques,35,4,10,0.2,Faible
+153,Chimie organique,62,6,10,1.2,Moyen
+154,Nombres réels,92,9,10,0.5,Excellent
+154,Suites,79,8,10,1.6,Bon
+154,Limites,100,10,10,0.8,Excellent
+154,Dérivation,30,3,10,0.4,Faible
+154,Électricité,69,7,10,1.8,Moyen
+154,Mécanique,43,4,10,1.6,Faible
+154,Ondes,67,7,10,1.5,Moyen
+154,Acides et bases,54,5,10,1.1,Moyen
+154,Réactions chimiques,94,9,10,1.3,Excellent
+154,Chimie organique,48,5,10,0.2,Faible
+155,Nombres réels,47,5,10,1.8,Faible
+155,Suites,54,5,10,1.2,Moyen
+155,Limites,79,8,10,0.6,Bon
+155,Dérivation,56,6,10,0.7,Moyen
+155,Électricité,34,3,10,0.6,Faible
+155,Mécanique,97,10,10,1.8,Excellent
+155,Ondes,33,3,10,0.9,Faible
+155,Acides et bases,99,10,10,0.5,Excellent
+155,Réactions chimiques,20,2,10,0.3,Faible
+155,Chimie organique,22,2,10,0.5,Faible
+156,Nombres réels,24,2,10,1.6,Faible
+156,Suites,25,2,10,0.9,Faible
+156,Limites,90,9,10,0.5,Excellent
+156,Dérivation,57,6,10,0.3,Moyen
+156,Électricité,39,4,10,0.6,Faible
+156,Mécanique,99,10,10,1.0,Excellent
+156,Ondes,88,9,10,1.4,Excellent
+156,Acides et bases,70,7,10,1.0,Bon
+156,Réactions chimiques,26,3,10,1.8,Faible
+156,Chimie organique,99,10,10,1.3,Excellent
+157,Nombres réels,47,5,10,0.6,Faible
+157,Suites,25,2,10,0.8,Faible
+157,Limites,71,7,10,0.4,Bon
+157,Dérivation,50,5,10,1.0,Moyen
+157,Électricité,88,9,10,2.0,Excellent
+157,Mécanique,43,4,10,1.4,Faible
+157,Ondes,58,6,10,1.3,Moyen
+157,Acides et bases,37,4,10,0.7,Faible
+157,Réactions chimiques,87,9,10,0.4,Excellent
+157,Chimie organique,61,6,10,1.9,Moyen
+158,Nombres réels,54,5,10,0.5,Moyen
+158,Suites,98,10,10,0.7,Excellent
+158,Limites,80,8,10,1.0,Bon
+158,Dérivation,48,5,10,1.6,Faible
+158,Électricité,91,9,10,0.8,Excellent
+158,Mécanique,100,10,10,0.9,Excellent
+158,Ondes,36,4,10,2.0,Faible
+158,Acides et bases,77,8,10,0.4,Bon
+158,Réactions chimiques,66,7,10,1.0,Moyen
+158,Chimie organique,57,6,10,1.9,Moyen
+159,Nombres réels,27,3,10,1.0,Faible
+159,Suites,88,9,10,1.7,Excellent
+159,Limites,36,4,10,1.0,Faible
+159,Dérivation,58,6,10,0.2,Moyen
+159,Électricité,96,10,10,0.6,Excellent
+159,Mécanique,74,7,10,1.0,Bon
+159,Ondes,22,2,10,1.5,Faible
+159,Acides et bases,87,9,10,0.6,Excellent
+159,Réactions chimiques,91,9,10,1.8,Excellent
+159,Chimie organique,96,10,10,0.5,Excellent
+160,Nombres réels,24,2,10,1.5,Faible
+160,Suites,30,3,10,1.8,Faible
+160,Limites,30,3,10,0.8,Faible
+160,Dérivation,83,8,10,1.2,Bon
+160,Électricité,85,8,10,0.5,Excellent
+160,Mécanique,21,2,10,1.5,Faible
+160,Ondes,73,7,10,0.8,Bon
+160,Acides et bases,75,8,10,0.8,Bon
+160,Réactions chimiques,53,5,10,1.1,Moyen
+160,Chimie organique,42,4,10,1.3,Faible
+161,Nombres réels,66,7,10,0.9,Moyen
+161,Suites,90,9,10,1.1,Excellent
+161,Limites,24,2,10,1.6,Faible
+161,Dérivation,39,4,10,1.4,Faible
+161,Électricité,50,5,10,1.3,Moyen
+161,Mécanique,52,5,10,1.6,Moyen
+161,Ondes,70,7,10,1.4,Bon
+161,Acides et bases,79,8,10,0.6,Bon
+161,Réactions chimiques,41,4,10,0.6,Faible
+161,Chimie organique,47,5,10,1.4,Faible
+162,Nombres réels,28,3,10,0.4,Faible
+162,Suites,43,4,10,0.6,Faible
+162,Limites,62,6,10,1.7,Moyen
+162,Dérivation,95,10,10,0.7,Excellent
+162,Électricité,22,2,10,0.5,Faible
+162,Mécanique,59,6,10,1.5,Moyen
+162,Ondes,32,3,10,0.2,Faible
+162,Acides et bases,56,6,10,1.9,Moyen
+162,Réactions chimiques,23,2,10,2.0,Faible
+162,Chimie organique,93,9,10,1.5,Excellent
+163,Nombres réels,62,6,10,1.1,Moyen
+163,Suites,82,8,10,0.8,Bon
+163,Limites,59,6,10,1.3,Moyen
+163,Dérivation,82,8,10,0.6,Bon
+163,Électricité,73,7,10,0.3,Bon
+163,Mécanique,65,6,10,1.9,Moyen
+163,Ondes,60,6,10,1.7,Moyen
+163,Acides et bases,77,8,10,1.3,Bon
+163,Réactions chimiques,52,5,10,0.7,Moyen
+163,Chimie organique,62,6,10,1.1,Moyen
+164,Nombres réels,63,6,10,1.9,Moyen
+164,Suites,26,3,10,1.4,Faible
+164,Limites,47,5,10,1.0,Faible
+164,Dérivation,82,8,10,1.1,Bon
+164,Électricité,20,2,10,0.5,Faible
+164,Mécanique,46,5,10,1.7,Faible
+164,Ondes,85,8,10,0.6,Excellent
+164,Acides et bases,81,8,10,1.6,Bon
+164,Réactions chimiques,70,7,10,1.3,Bon
+164,Chimie organique,83,8,10,0.4,Bon
+165,Nombres réels,25,2,10,1.0,Faible
+165,Suites,100,10,10,0.3,Excellent
+165,Limites,30,3,10,1.7,Faible
+165,Dérivation,72,7,10,1.2,Bon
+165,Électricité,97,10,10,1.4,Excellent
+165,Mécanique,79,8,10,1.5,Bon
+165,Ondes,50,5,10,0.6,Moyen
+165,Acides et bases,25,2,10,1.8,Faible
+165,Réactions chimiques,80,8,10,1.8,Bon
+165,Chimie organique,71,7,10,1.3,Bon
+166,Nombres réels,56,6,10,0.6,Moyen
+166,Suites,26,3,10,1.1,Faible
+166,Limites,91,9,10,0.6,Excellent
+166,Dérivation,91,9,10,1.0,Excellent
+166,Électricité,57,6,10,0.6,Moyen
+166,Mécanique,49,5,10,1.1,Faible
+166,Ondes,55,6,10,0.4,Moyen
+166,Acides et bases,31,3,10,1.7,Faible
+166,Réactions chimiques,65,6,10,1.3,Moyen
+166,Chimie organique,80,8,10,1.5,Bon
+167,Nombres réels,72,7,10,1.5,Bon
+167,Suites,42,4,10,1.4,Faible
+167,Limites,90,9,10,0.7,Excellent
+167,Dérivation,30,3,10,1.1,Faible
+167,Électricité,49,5,10,0.2,Faible
+167,Mécanique,43,4,10,2.0,Faible
+167,Ondes,79,8,10,0.4,Bon
+167,Acides et bases,83,8,10,1.5,Bon
+167,Réactions chimiques,25,2,10,0.2,Faible
+167,Chimie organique,43,4,10,0.6,Faible
+168,Nombres réels,65,6,10,1.4,Moyen
+168,Suites,80,8,10,0.8,Bon
+168,Limites,51,5,10,0.5,Moyen
+168,Dérivation,40,4,10,0.9,Faible
+168,Électricité,26,3,10,1.8,Faible
+168,Mécanique,31,3,10,0.6,Faible
+168,Ondes,22,2,10,0.3,Faible
+168,Acides et bases,90,9,10,1.4,Excellent
+168,Réactions chimiques,63,6,10,1.7,Moyen
+168,Chimie organique,39,4,10,1.7,Faible
+169,Nombres réels,97,10,10,0.9,Excellent
+169,Suites,88,9,10,0.7,Excellent
+169,Limites,39,4,10,1.7,Faible
+169,Dérivation,29,3,10,0.4,Faible
+169,Électricité,56,6,10,1.0,Moyen
+169,Mécanique,21,2,10,1.7,Faible
+169,Ondes,20,2,10,1.5,Faible
+169,Acides et bases,62,6,10,1.4,Moyen
+169,Réactions chimiques,65,6,10,2.0,Moyen
+169,Chimie organique,96,10,10,0.7,Excellent
+170,Nombres réels,58,6,10,1.7,Moyen
+170,Suites,90,9,10,0.2,Excellent
+170,Limites,28,3,10,1.2,Faible
+170,Dérivation,32,3,10,1.3,Faible
+170,Électricité,97,10,10,0.7,Excellent
+170,Mécanique,43,4,10,1.2,Faible
+170,Ondes,88,9,10,1.9,Excellent
+170,Acides et bases,63,6,10,1.2,Moyen
+170,Réactions chimiques,33,3,10,1.9,Faible
+170,Chimie organique,73,7,10,0.9,Bon
+171,Nombres réels,80,8,10,0.3,Bon
+171,Suites,77,8,10,1.4,Bon
+171,Limites,100,10,10,1.5,Excellent
+171,Dérivation,75,8,10,1.3,Bon
+171,Électricité,73,7,10,0.7,Bon
+171,Mécanique,95,10,10,0.2,Excellent
+171,Ondes,29,3,10,1.7,Faible
+171,Acides et bases,77,8,10,1.0,Bon
+171,Réactions chimiques,35,4,10,0.7,Faible
+171,Chimie organique,65,6,10,0.6,Moyen
+172,Nombres réels,48,5,10,0.7,Faible
+172,Suites,30,3,10,1.8,Faible
+172,Limites,28,3,10,1.4,Faible
+172,Dérivation,95,10,10,1.8,Excellent
+172,Électricité,66,7,10,0.2,Moyen
+172,Mécanique,22,2,10,0.6,Faible
+172,Ondes,87,9,10,1.7,Excellent
+172,Acides et bases,43,4,10,0.6,Faible
+172,Réactions chimiques,21,2,10,1.3,Faible
+172,Chimie organique,20,2,10,1.5,Faible
+173,Nombres réels,73,7,10,0.8,Bon
+173,Suites,33,3,10,0.9,Faible
+173,Limites,100,10,10,0.5,Excellent
+173,Dérivation,25,2,10,1.4,Faible
+173,Électricité,21,2,10,1.7,Faible
+173,Mécanique,21,2,10,1.2,Faible
+173,Ondes,50,5,10,1.6,Moyen
+173,Acides et bases,60,6,10,1.2,Moyen
+173,Réactions chimiques,68,7,10,1.2,Moyen
+173,Chimie organique,43,4,10,0.8,Faible
+174,Nombres réels,35,4,10,0.3,Faible
+174,Suites,91,9,10,1.0,Excellent
+174,Limites,84,8,10,1.3,Bon
+174,Dérivation,52,5,10,1.8,Moyen
+174,Électricité,24,2,10,0.5,Faible
+174,Mécanique,35,4,10,1.7,Faible
+174,Ondes,39,4,10,0.6,Faible
+174,Acides et bases,65,6,10,1.1,Moyen
+174,Réactions chimiques,58,6,10,1.3,Moyen
+174,Chimie organique,61,6,10,0.4,Moyen
+175,Nombres réels,77,8,10,1.0,Bon
+175,Suites,99,10,10,1.1,Excellent
+175,Limites,32,3,10,0.9,Faible
+175,Dérivation,94,9,10,1.6,Excellent
+175,Électricité,84,8,10,1.1,Bon
+175,Mécanique,33,3,10,0.2,Faible
+175,Ondes,95,10,10,0.3,Excellent
+175,Acides et bases,56,6,10,0.4,Moyen
+175,Réactions chimiques,53,5,10,0.8,Moyen
+175,Chimie organique,43,4,10,0.6,Faible
+176,Nombres réels,28,3,10,1.1,Faible
+176,Suites,25,2,10,1.1,Faible
+176,Limites,63,6,10,1.5,Moyen
+176,Dérivation,49,5,10,0.6,Faible
+176,Électricité,72,7,10,1.8,Bon
+176,Mécanique,79,8,10,0.9,Bon
+176,Ondes,64,6,10,0.7,Moyen
+176,Acides et bases,38,4,10,0.5,Faible
+176,Réactions chimiques,78,8,10,1.5,Bon
+176,Chimie organique,65,6,10,1.5,Moyen
+177,Nombres réels,82,8,10,0.2,Bon
+177,Suites,57,6,10,1.7,Moyen
+177,Limites,49,5,10,1.0,Faible
+177,Dérivation,61,6,10,1.1,Moyen
+177,Électricité,82,8,10,1.1,Bon
+177,Mécanique,77,8,10,1.9,Bon
+177,Ondes,86,9,10,0.7,Excellent
+177,Acides et bases,36,4,10,1.3,Faible
+177,Réactions chimiques,76,8,10,1.2,Bon
+177,Chimie organique,30,3,10,0.6,Faible
+178,Nombres réels,42,4,10,0.9,Faible
+178,Suites,26,3,10,1.1,Faible
+178,Limites,84,8,10,0.7,Bon
+178,Dérivation,97,10,10,1.8,Excellent
+178,Électricité,25,2,10,1.1,Faible
+178,Mécanique,63,6,10,1.7,Moyen
+178,Ondes,69,7,10,1.5,Moyen
+178,Acides et bases,36,4,10,0.2,Faible
+178,Réactions chimiques,22,2,10,0.9,Faible
+178,Chimie organique,62,6,10,0.6,Moyen
+179,Nombres réels,76,8,10,0.7,Bon
+179,Suites,68,7,10,0.5,Moyen
+179,Limites,24,2,10,1.4,Faible
+179,Dérivation,44,4,10,1.3,Faible
+179,Électricité,52,5,10,1.7,Moyen
+179,Mécanique,45,4,10,1.0,Faible
+179,Ondes,63,6,10,1.2,Moyen
+179,Acides et bases,20,2,10,0.3,Faible
+179,Réactions chimiques,42,4,10,1.2,Faible
+179,Chimie organique,37,4,10,2.0,Faible
+180,Nombres réels,82,8,10,1.4,Bon
+180,Suites,36,4,10,1.8,Faible
+180,Limites,25,2,10,1.6,Faible
+180,Dérivation,66,7,10,0.4,Moyen
+180,Électricité,53,5,10,1.1,Moyen
+180,Mécanique,23,2,10,1.7,Faible
+180,Ondes,28,3,10,0.5,Faible
+180,Acides et bases,88,9,10,1.6,Excellent
+180,Réactions chimiques,97,10,10,1.7,Excellent
+180,Chimie organique,89,9,10,0.8,Excellent
+181,Nombres réels,40,4,10,1.9,Faible
+181,Suites,94,9,10,0.8,Excellent
+181,Limites,70,7,10,0.9,Bon
+181,Dérivation,61,6,10,1.4,Moyen
+181,Électricité,71,7,10,1.5,Bon
+181,Mécanique,41,4,10,1.3,Faible
+181,Ondes,65,6,10,1.9,Moyen
+181,Acides et bases,51,5,10,1.1,Moyen
+181,Réactions chimiques,40,4,10,1.9,Faible
+181,Chimie organique,42,4,10,1.1,Faible
+182,Nombres réels,58,6,10,1.1,Moyen
+182,Suites,83,8,10,1.8,Bon
+182,Limites,68,7,10,0.3,Moyen
+182,Dérivation,73,7,10,0.5,Bon
+182,Électricité,81,8,10,1.0,Bon
+182,Mécanique,84,8,10,0.4,Bon
+182,Ondes,59,6,10,0.5,Moyen
+182,Acides et bases,37,4,10,0.9,Faible
+182,Réactions chimiques,84,8,10,1.1,Bon
+182,Chimie organique,44,4,10,1.7,Faible
+183,Nombres réels,49,5,10,1.3,Faible
+183,Suites,28,3,10,1.1,Faible
+183,Limites,82,8,10,0.3,Bon
+183,Dérivation,51,5,10,0.4,Moyen
+183,Électricité,58,6,10,0.8,Moyen
+183,Mécanique,96,10,10,1.3,Excellent
+183,Ondes,42,4,10,1.8,Faible
+183,Acides et bases,60,6,10,1.1,Moyen
+183,Réactions chimiques,47,5,10,0.7,Faible
+183,Chimie organique,59,6,10,1.6,Moyen
+184,Nombres réels,46,5,10,0.5,Faible
+184,Suites,51,5,10,0.4,Moyen
+184,Limites,69,7,10,0.3,Moyen
+184,Dérivation,31,3,10,1.6,Faible
+184,Électricité,76,8,10,1.9,Bon
+184,Mécanique,49,5,10,1.7,Faible
+184,Ondes,23,2,10,0.8,Faible
+184,Acides et bases,21,2,10,1.3,Faible
+184,Réactions chimiques,24,2,10,0.2,Faible
+184,Chimie organique,41,4,10,1.4,Faible
+185,Nombres réels,26,3,10,0.8,Faible
+185,Suites,57,6,10,0.5,Moyen
+185,Limites,73,7,10,1.7,Bon
+185,Dérivation,21,2,10,1.0,Faible
+185,Électricité,54,5,10,1.5,Moyen
+185,Mécanique,44,4,10,0.9,Faible
+185,Ondes,24,2,10,1.1,Faible
+185,Acides et bases,74,7,10,0.4,Bon
+185,Réactions chimiques,40,4,10,2.0,Faible
+185,Chimie organique,85,8,10,1.1,Excellent
+186,Nombres réels,51,5,10,0.4,Moyen
+186,Suites,46,5,10,0.3,Faible
+186,Limites,50,5,10,1.0,Moyen
+186,Dérivation,60,6,10,1.9,Moyen
+186,Électricité,43,4,10,0.9,Faible
+186,Mécanique,57,6,10,0.2,Moyen
+186,Ondes,88,9,10,0.4,Excellent
+186,Acides et bases,21,2,10,0.7,Faible
+186,Réactions chimiques,28,3,10,0.9,Faible
+186,Chimie organique,34,3,10,1.5,Faible
+187,Nombres réels,62,6,10,1.9,Moyen
+187,Suites,99,10,10,0.5,Excellent
+187,Limites,87,9,10,1.5,Excellent
+187,Dérivation,79,8,10,0.8,Bon
+187,Électricité,53,5,10,1.5,Moyen
+187,Mécanique,73,7,10,1.2,Bon
+187,Ondes,81,8,10,1.3,Bon
+187,Acides et bases,43,4,10,1.3,Faible
+187,Réactions chimiques,67,7,10,0.2,Moyen
+187,Chimie organique,79,8,10,1.9,Bon
+188,Nombres réels,88,9,10,1.1,Excellent
+188,Suites,48,5,10,0.5,Faible
+188,Limites,96,10,10,0.9,Excellent
+188,Dérivation,29,3,10,0.9,Faible
+188,Électricité,36,4,10,0.9,Faible
+188,Mécanique,26,3,10,0.9,Faible
+188,Ondes,89,9,10,1.3,Excellent
+188,Acides et bases,71,7,10,0.6,Bon
+188,Réactions chimiques,82,8,10,1.9,Bon
+188,Chimie organique,30,3,10,1.4,Faible
+189,Nombres réels,47,5,10,1.4,Faible
+189,Suites,49,5,10,1.4,Faible
+189,Limites,94,9,10,1.9,Excellent
+189,Dérivation,77,8,10,1.6,Bon
+189,Électricité,25,2,10,1.8,Faible
+189,Mécanique,73,7,10,1.2,Bon
+189,Ondes,85,8,10,0.3,Excellent
+189,Acides et bases,75,8,10,0.8,Bon
+189,Réactions chimiques,62,6,10,1.8,Moyen
+189,Chimie organique,99,10,10,1.6,Excellent
+190,Nombres réels,46,5,10,1.6,Faible
+190,Suites,98,10,10,0.9,Excellent
+190,Limites,81,8,10,0.9,Bon
+190,Dérivation,23,2,10,0.4,Faible
+190,Électricité,66,7,10,1.0,Moyen
+190,Mécanique,22,2,10,1.3,Faible
+190,Ondes,56,6,10,0.9,Moyen
+190,Acides et bases,72,7,10,0.7,Bon
+190,Réactions chimiques,43,4,10,1.7,Faible
+190,Chimie organique,32,3,10,1.6,Faible
+191,Nombres réels,88,9,10,1.3,Excellent
+191,Suites,43,4,10,1.2,Faible
+191,Limites,73,7,10,1.2,Bon
+191,Dérivation,65,6,10,2.0,Moyen
+191,Électricité,65,6,10,1.6,Moyen
+191,Mécanique,53,5,10,0.6,Moyen
+191,Ondes,24,2,10,1.5,Faible
+191,Acides et bases,64,6,10,1.2,Moyen
+191,Réactions chimiques,51,5,10,1.1,Moyen
+191,Chimie organique,21,2,10,1.1,Faible
+192,Nombres réels,86,9,10,1.5,Excellent
+192,Suites,89,9,10,0.6,Excellent
+192,Limites,66,7,10,1.8,Moyen
+192,Dérivation,92,9,10,1.2,Excellent
+192,Électricité,91,9,10,0.9,Excellent
+192,Mécanique,77,8,10,1.9,Bon
+192,Ondes,69,7,10,1.3,Moyen
+192,Acides et bases,80,8,10,1.7,Bon
+192,Réactions chimiques,85,8,10,0.3,Excellent
+192,Chimie organique,39,4,10,0.6,Faible
+193,Nombres réels,34,3,10,1.7,Faible
+193,Suites,52,5,10,1.0,Moyen
+193,Limites,39,4,10,1.2,Faible
+193,Dérivation,60,6,10,0.8,Moyen
+193,Électricité,29,3,10,1.2,Faible
+193,Mécanique,92,9,10,1.6,Excellent
+193,Ondes,97,10,10,1.2,Excellent
+193,Acides et bases,30,3,10,0.4,Faible
+193,Réactions chimiques,73,7,10,1.2,Bon
+193,Chimie organique,66,7,10,1.0,Moyen
+194,Nombres réels,84,8,10,0.4,Bon
+194,Suites,84,8,10,0.2,Bon
+194,Limites,31,3,10,1.6,Faible
+194,Dérivation,35,4,10,1.5,Faible
+194,Électricité,82,8,10,1.7,Bon
+194,Mécanique,86,9,10,0.9,Excellent
+194,Ondes,69,7,10,1.3,Moyen
+194,Acides et bases,48,5,10,0.5,Faible
+194,Réactions chimiques,52,5,10,0.3,Moyen
+194,Chimie organique,95,10,10,1.4,Excellent
+195,Nombres réels,73,7,10,0.7,Bon
+195,Suites,40,4,10,0.5,Faible
+195,Limites,27,3,10,1.9,Faible
+195,Dérivation,50,5,10,0.7,Moyen
+195,Électricité,44,4,10,1.8,Faible
+195,Mécanique,33,3,10,1.2,Faible
+195,Ondes,92,9,10,1.9,Excellent
+195,Acides et bases,32,3,10,1.3,Faible
+195,Réactions chimiques,82,8,10,0.9,Bon
+195,Chimie organique,84,8,10,1.1,Bon
+196,Nombres réels,55,6,10,1.6,Moyen
+196,Suites,32,3,10,1.8,Faible
+196,Limites,49,5,10,1.4,Faible
+196,Dérivation,90,9,10,0.7,Excellent
+196,Électricité,86,9,10,0.8,Excellent
+196,Mécanique,77,8,10,0.4,Bon
+196,Ondes,31,3,10,1.9,Faible
+196,Acides et bases,58,6,10,0.5,Moyen
+196,Réactions chimiques,51,5,10,1.9,Moyen
+196,Chimie organique,66,7,10,1.9,Moyen
+197,Nombres réels,50,5,10,1.2,Moyen
+197,Suites,66,7,10,1.1,Moyen
+197,Limites,26,3,10,0.4,Faible
+197,Dérivation,43,4,10,1.7,Faible
+197,Électricité,97,10,10,2.0,Excellent
+197,Mécanique,81,8,10,1.3,Bon
+197,Ondes,30,3,10,0.2,Faible
+197,Acides et bases,84,8,10,0.9,Bon
+197,Réactions chimiques,54,5,10,0.9,Moyen
+197,Chimie organique,95,10,10,0.8,Excellent
+198,Nombres réels,90,9,10,0.7,Excellent
+198,Suites,67,7,10,0.7,Moyen
+198,Limites,55,6,10,0.5,Moyen
+198,Dérivation,41,4,10,0.6,Faible
+198,Électricité,50,5,10,1.3,Moyen
+198,Mécanique,92,9,10,1.4,Excellent
+198,Ondes,46,5,10,1.2,Faible
+198,Acides et bases,45,4,10,0.2,Faible
+198,Réactions chimiques,95,10,10,0.8,Excellent
+198,Chimie organique,46,5,10,0.7,Faible
+199,Nombres réels,71,7,10,0.8,Bon
+199,Suites,24,2,10,1.8,Faible
+199,Limites,90,9,10,1.1,Excellent
+199,Dérivation,48,5,10,1.2,Faible
+199,Électricité,31,3,10,0.7,Faible
+199,Mécanique,81,8,10,1.0,Bon
+199,Ondes,77,8,10,1.7,Bon
+199,Acides et bases,28,3,10,1.3,Faible
+199,Réactions chimiques,78,8,10,1.1,Bon
+199,Chimie organique,72,7,10,0.3,Bon
+200,Nombres réels,20,2,10,1.0,Faible
+200,Suites,53,5,10,1.1,Moyen
+200,Limites,92,9,10,1.2,Excellent
+200,Dérivation,27,3,10,0.3,Faible
+200,Électricité,36,4,10,1.1,Faible
+200,Mécanique,50,5,10,0.3,Moyen
+200,Ondes,20,2,10,0.8,Faible
+200,Acides et bases,80,8,10,1.8,Bon
+200,Réactions chimiques,22,2,10,0.7,Faible
+200,Chimie organique,68,7,10,1.7,Moyen
+201,Nombres réels,75,8,10,1.0,Bon
+201,Suites,64,6,10,1.9,Moyen
+201,Limites,62,6,10,1.4,Moyen
+201,Dérivation,51,5,10,1.4,Moyen
+201,Électricité,85,8,10,0.8,Excellent
+201,Mécanique,54,5,10,0.9,Moyen
+201,Ondes,61,6,10,1.2,Moyen
+201,Acides et bases,92,9,10,0.5,Excellent
+201,Réactions chimiques,26,3,10,0.9,Faible
+201,Chimie organique,96,10,10,0.8,Excellent
+202,Nombres réels,92,9,10,0.5,Excellent
+202,Suites,85,8,10,0.8,Excellent
+202,Limites,75,8,10,1.6,Bon
+202,Dérivation,70,7,10,0.5,Bon
+202,Électricité,47,5,10,0.4,Faible
+202,Mécanique,97,10,10,1.0,Excellent
+202,Ondes,47,5,10,0.9,Faible
+202,Acides et bases,89,9,10,1.3,Excellent
+202,Réactions chimiques,48,5,10,0.2,Faible
+202,Chimie organique,88,9,10,0.8,Excellent
+203,Nombres réels,32,3,10,1.9,Faible
+203,Suites,72,7,10,1.4,Bon
+203,Limites,88,9,10,0.7,Excellent
+203,Dérivation,70,7,10,1.5,Bon
+203,Électricité,45,4,10,0.4,Faible
+203,Mécanique,82,8,10,1.4,Bon
+203,Ondes,76,8,10,1.2,Bon
+203,Acides et bases,58,6,10,1.7,Moyen
+203,Réactions chimiques,34,3,10,1.9,Faible
+203,Chimie organique,49,5,10,1.5,Faible
+204,Nombres réels,97,10,10,0.5,Excellent
+204,Suites,54,5,10,1.3,Moyen
+204,Limites,89,9,10,0.4,Excellent
+204,Dérivation,56,6,10,1.3,Moyen
+204,Électricité,71,7,10,2.0,Bon
+204,Mécanique,90,9,10,1.6,Excellent
+204,Ondes,53,5,10,0.9,Moyen
+204,Acides et bases,38,4,10,1.9,Faible
+204,Réactions chimiques,98,10,10,1.4,Excellent
+204,Chimie organique,42,4,10,0.9,Faible
+205,Nombres réels,27,3,10,0.2,Faible
+205,Suites,48,5,10,0.2,Faible
+205,Limites,22,2,10,0.5,Faible
+205,Dérivation,35,4,10,1.7,Faible
+205,Électricité,75,8,10,0.2,Bon
+205,Mécanique,21,2,10,1.6,Faible
+205,Ondes,70,7,10,1.9,Bon
+205,Acides et bases,44,4,10,1.9,Faible
+205,Réactions chimiques,23,2,10,1.2,Faible
+205,Chimie organique,44,4,10,1.3,Faible
+206,Nombres réels,39,4,10,0.7,Faible
+206,Suites,87,9,10,1.2,Excellent
+206,Limites,34,3,10,1.2,Faible
+206,Dérivation,63,6,10,1.1,Moyen
+206,Électricité,44,4,10,0.8,Faible
+206,Mécanique,43,4,10,1.4,Faible
+206,Ondes,74,7,10,0.9,Bon
+206,Acides et bases,93,9,10,0.8,Excellent
+206,Réactions chimiques,76,8,10,0.6,Bon
+206,Chimie organique,66,7,10,1.4,Moyen
+207,Nombres réels,72,7,10,1.1,Bon
+207,Suites,63,6,10,1.2,Moyen
+207,Limites,58,6,10,1.2,Moyen
+207,Dérivation,97,10,10,1.6,Excellent
+207,Électricité,67,7,10,1.9,Moyen
+207,Mécanique,76,8,10,1.2,Bon
+207,Ondes,32,3,10,1.6,Faible
+207,Acides et bases,74,7,10,1.9,Bon
+207,Réactions chimiques,21,2,10,0.3,Faible
+207,Chimie organique,66,7,10,0.3,Moyen
+208,Nombres réels,72,7,10,1.6,Bon
+208,Suites,34,3,10,1.8,Faible
+208,Limites,51,5,10,1.5,Moyen
+208,Dérivation,57,6,10,0.3,Moyen
+208,Électricité,85,8,10,1.0,Excellent
+208,Mécanique,77,8,10,1.3,Bon
+208,Ondes,32,3,10,0.7,Faible
+208,Acides et bases,98,10,10,1.9,Excellent
+208,Réactions chimiques,23,2,10,0.5,Faible
+208,Chimie organique,31,3,10,1.0,Faible
+209,Nombres réels,65,6,10,2.0,Moyen
+209,Suites,68,7,10,1.6,Moyen
+209,Limites,41,4,10,1.8,Faible
+209,Dérivation,23,2,10,1.8,Faible
+209,Électricité,82,8,10,1.2,Bon
+209,Mécanique,69,7,10,0.7,Moyen
+209,Ondes,26,3,10,1.6,Faible
+209,Acides et bases,29,3,10,1.3,Faible
+209,Réactions chimiques,88,9,10,0.4,Excellent
+209,Chimie organique,41,4,10,0.6,Faible
+210,Nombres réels,91,9,10,0.9,Excellent
+210,Suites,78,8,10,1.6,Bon
+210,Limites,46,5,10,0.8,Faible
+210,Dérivation,54,5,10,0.9,Moyen
+210,Électricité,95,10,10,0.3,Excellent
+210,Mécanique,81,8,10,1.1,Bon
+210,Ondes,46,5,10,1.3,Faible
+210,Acides et bases,46,5,10,1.1,Faible
+210,Réactions chimiques,39,4,10,1.7,Faible
+210,Chimie organique,44,4,10,1.9,Faible
+211,Nombres réels,52,5,10,0.3,Moyen
+211,Suites,38,4,10,0.7,Faible
+211,Limites,50,5,10,0.6,Moyen
+211,Dérivation,96,10,10,0.3,Excellent
+211,Électricité,39,4,10,0.8,Faible
+211,Mécanique,79,8,10,1.3,Bon
+211,Ondes,27,3,10,1.4,Faible
+211,Acides et bases,43,4,10,0.4,Faible
+211,Réactions chimiques,27,3,10,1.1,Faible
+211,Chimie organique,34,3,10,1.5,Faible
+212,Nombres réels,58,6,10,0.7,Moyen
+212,Suites,95,10,10,0.6,Excellent
+212,Limites,59,6,10,2.0,Moyen
+212,Dérivation,82,8,10,1.7,Bon
+212,Électricité,76,8,10,1.0,Bon
+212,Mécanique,79,8,10,1.1,Bon
+212,Ondes,70,7,10,0.7,Bon
+212,Acides et bases,32,3,10,1.5,Faible
+212,Réactions chimiques,81,8,10,1.0,Bon
+212,Chimie organique,63,6,10,0.4,Moyen
+213,Nombres réels,34,3,10,0.4,Faible
+213,Suites,71,7,10,2.0,Bon
+213,Limites,40,4,10,0.2,Faible
+213,Dérivation,63,6,10,1.7,Moyen
+213,Électricité,92,9,10,1.1,Excellent
+213,Mécanique,52,5,10,0.8,Moyen
+213,Ondes,62,6,10,1.0,Moyen
+213,Acides et bases,90,9,10,1.2,Excellent
+213,Réactions chimiques,39,4,10,1.9,Faible
+213,Chimie organique,30,3,10,0.6,Faible
+214,Nombres réels,87,9,10,0.4,Excellent
+214,Suites,77,8,10,0.6,Bon
+214,Limites,72,7,10,1.5,Bon
+214,Dérivation,67,7,10,1.2,Moyen
+214,Électricité,44,4,10,1.8,Faible
+214,Mécanique,37,4,10,1.6,Faible
+214,Ondes,90,9,10,1.6,Excellent
+214,Acides et bases,29,3,10,0.8,Faible
+214,Réactions chimiques,94,9,10,1.3,Excellent
+214,Chimie organique,33,3,10,1.6,Faible
+215,Nombres réels,84,8,10,1.9,Bon
+215,Suites,73,7,10,1.7,Bon
+215,Limites,55,6,10,1.3,Moyen
+215,Dérivation,26,3,10,0.7,Faible
+215,Électricité,99,10,10,1.1,Excellent
+215,Mécanique,77,8,10,0.8,Bon
+215,Ondes,55,6,10,1.7,Moyen
+215,Acides et bases,32,3,10,0.8,Faible
+215,Réactions chimiques,79,8,10,1.1,Bon
+215,Chimie organique,39,4,10,0.6,Faible
+216,Nombres réels,83,8,10,0.9,Bon
+216,Suites,91,9,10,0.7,Excellent
+216,Limites,95,10,10,0.8,Excellent
+216,Dérivation,53,5,10,1.6,Moyen
+216,Électricité,97,10,10,1.7,Excellent
+216,Mécanique,29,3,10,1.2,Faible
+216,Ondes,45,4,10,1.5,Faible
+216,Acides et bases,45,4,10,1.9,Faible
+216,Réactions chimiques,40,4,10,1.9,Faible
+216,Chimie organique,96,10,10,0.4,Excellent
+217,Nombres réels,97,10,10,1.2,Excellent
+217,Suites,75,8,10,0.7,Bon
+217,Limites,98,10,10,0.8,Excellent
+217,Dérivation,25,2,10,0.3,Faible
+217,Électricité,69,7,10,1.8,Moyen
+217,Mécanique,93,9,10,1.9,Excellent
+217,Ondes,30,3,10,1.3,Faible
+217,Acides et bases,37,4,10,0.2,Faible
+217,Réactions chimiques,96,10,10,0.7,Excellent
+217,Chimie organique,53,5,10,0.9,Moyen
+218,Nombres réels,50,5,10,0.8,Moyen
+218,Suites,85,8,10,1.8,Excellent
+218,Limites,44,4,10,1.8,Faible
+218,Dérivation,63,6,10,0.5,Moyen
+218,Électricité,64,6,10,1.6,Moyen
+218,Mécanique,47,5,10,1.2,Faible
+218,Ondes,41,4,10,1.5,Faible
+218,Acides et bases,78,8,10,1.9,Bon
+218,Réactions chimiques,44,4,10,1.8,Faible
+218,Chimie organique,85,8,10,1.3,Excellent
+219,Nombres réels,29,3,10,0.9,Faible
+219,Suites,54,5,10,1.5,Moyen
+219,Limites,21,2,10,0.7,Faible
+219,Dérivation,23,2,10,1.4,Faible
+219,Électricité,26,3,10,1.1,Faible
+219,Mécanique,90,9,10,1.7,Excellent
+219,Ondes,76,8,10,1.1,Bon
+219,Acides et bases,36,4,10,1.2,Faible
+219,Réactions chimiques,87,9,10,1.5,Excellent
+219,Chimie organique,46,5,10,1.4,Faible
+220,Nombres réels,58,6,10,0.3,Moyen
+220,Suites,72,7,10,1.6,Bon
+220,Limites,38,4,10,1.2,Faible
+220,Dérivation,75,8,10,1.6,Bon
+220,Électricité,58,6,10,1.9,Moyen
+220,Mécanique,60,6,10,1.8,Moyen
+220,Ondes,90,9,10,0.7,Excellent
+220,Acides et bases,85,8,10,1.4,Excellent
+220,Réactions chimiques,100,10,10,1.0,Excellent
+220,Chimie organique,30,3,10,0.3,Faible
+221,Nombres réels,57,6,10,1.6,Moyen
+221,Suites,61,6,10,1.2,Moyen
+221,Limites,65,6,10,1.1,Moyen
+221,Dérivation,42,4,10,0.5,Faible
+221,Électricité,69,7,10,1.1,Moyen
+221,Mécanique,34,3,10,1.9,Faible
+221,Ondes,75,8,10,1.2,Bon
+221,Acides et bases,81,8,10,1.4,Bon
+221,Réactions chimiques,77,8,10,0.5,Bon
+221,Chimie organique,52,5,10,1.4,Moyen
+222,Nombres réels,29,3,10,1.2,Faible
+222,Suites,22,2,10,0.4,Faible
+222,Limites,42,4,10,0.2,Faible
+222,Dérivation,37,4,10,0.9,Faible
+222,Électricité,38,4,10,1.6,Faible
+222,Mécanique,40,4,10,0.4,Faible
+222,Ondes,35,4,10,0.3,Faible
+222,Acides et bases,88,9,10,1.0,Excellent
+222,Réactions chimiques,26,3,10,0.6,Faible
+222,Chimie organique,53,5,10,2.0,Moyen
+223,Nombres réels,38,4,10,0.8,Faible
+223,Suites,77,8,10,1.3,Bon
+223,Limites,40,4,10,1.0,Faible
+223,Dérivation,41,4,10,1.6,Faible
+223,Électricité,76,8,10,1.5,Bon
+223,Mécanique,80,8,10,0.6,Bon
+223,Ondes,51,5,10,1.3,Moyen
+223,Acides et bases,100,10,10,1.6,Excellent
+223,Réactions chimiques,21,2,10,0.6,Faible
+223,Chimie organique,50,5,10,1.7,Moyen
+224,Nombres réels,57,6,10,1.6,Moyen
+224,Suites,60,6,10,1.4,Moyen
+224,Limites,77,8,10,1.7,Bon
+224,Dérivation,100,10,10,0.9,Excellent
+224,Électricité,76,8,10,1.1,Bon
+224,Mécanique,79,8,10,0.2,Bon
+224,Ondes,62,6,10,0.3,Moyen
+224,Acides et bases,99,10,10,0.3,Excellent
+224,Réactions chimiques,43,4,10,1.7,Faible
+224,Chimie organique,56,6,10,0.9,Moyen
+225,Nombres réels,36,4,10,0.5,Faible
+225,Suites,21,2,10,1.0,Faible
+225,Limites,95,10,10,1.7,Excellent
+225,Dérivation,99,10,10,0.9,Excellent
+225,Électricité,33,3,10,1.9,Faible
+225,Mécanique,29,3,10,1.8,Faible
+225,Ondes,44,4,10,1.5,Faible
+225,Acides et bases,21,2,10,0.2,Faible
+225,Réactions chimiques,51,5,10,0.7,Moyen
+225,Chimie organique,82,8,10,0.5,Bon
+226,Nombres réels,49,5,10,1.2,Faible
+226,Suites,30,3,10,0.3,Faible
+226,Limites,89,9,10,0.6,Excellent
+226,Dérivation,79,8,10,0.2,Bon
+226,Électricité,39,4,10,1.2,Faible
+226,Mécanique,79,8,10,0.6,Bon
+226,Ondes,80,8,10,1.4,Bon
+226,Acides et bases,95,10,10,0.7,Excellent
+226,Réactions chimiques,26,3,10,0.3,Faible
+226,Chimie organique,64,6,10,0.3,Moyen
+227,Nombres réels,48,5,10,1.6,Faible
+227,Suites,65,6,10,1.9,Moyen
+227,Limites,79,8,10,1.6,Bon
+227,Dérivation,43,4,10,1.9,Faible
+227,Électricité,49,5,10,1.7,Faible
+227,Mécanique,73,7,10,1.1,Bon
+227,Ondes,73,7,10,0.5,Bon
+227,Acides et bases,26,3,10,0.4,Faible
+227,Réactions chimiques,35,4,10,1.5,Faible
+227,Chimie organique,27,3,10,0.3,Faible
+228,Nombres réels,51,5,10,1.0,Moyen
+228,Suites,100,10,10,1.1,Excellent
+228,Limites,28,3,10,1.6,Faible
+228,Dérivation,77,8,10,0.7,Bon
+228,Électricité,60,6,10,1.0,Moyen
+228,Mécanique,81,8,10,2.0,Bon
+228,Ondes,79,8,10,1.1,Bon
+228,Acides et bases,53,5,10,1.2,Moyen
+228,Réactions chimiques,21,2,10,2.0,Faible
+228,Chimie organique,77,8,10,1.8,Bon
+229,Nombres réels,58,6,10,0.6,Moyen
+229,Suites,72,7,10,1.0,Bon
+229,Limites,80,8,10,1.3,Bon
+229,Dérivation,75,8,10,0.9,Bon
+229,Électricité,47,5,10,0.4,Faible
+229,Mécanique,73,7,10,0.5,Bon
+229,Ondes,94,9,10,1.8,Excellent
+229,Acides et bases,97,10,10,1.9,Excellent
+229,Réactions chimiques,88,9,10,1.6,Excellent
+229,Chimie organique,74,7,10,1.8,Bon
+230,Nombres réels,83,8,10,0.8,Bon
+230,Suites,96,10,10,0.4,Excellent
+230,Limites,75,8,10,1.8,Bon
+230,Dérivation,97,10,10,0.8,Excellent
+230,Électricité,28,3,10,0.4,Faible
+230,Mécanique,34,3,10,1.6,Faible
+230,Ondes,24,2,10,1.9,Faible
+230,Acides et bases,22,2,10,0.7,Faible
+230,Réactions chimiques,35,4,10,0.4,Faible
+230,Chimie organique,40,4,10,1.4,Faible
+231,Nombres réels,42,4,10,1.1,Faible
+231,Suites,76,8,10,1.0,Bon
+231,Limites,24,2,10,0.3,Faible
+231,Dérivation,55,6,10,0.8,Moyen
+231,Électricité,69,7,10,0.8,Moyen
+231,Mécanique,61,6,10,0.7,Moyen
+231,Ondes,45,4,10,1.1,Faible
+231,Acides et bases,30,3,10,1.3,Faible
+231,Réactions chimiques,34,3,10,1.3,Faible
+231,Chimie organique,53,5,10,1.5,Moyen
+232,Nombres réels,20,2,10,0.3,Faible
+232,Suites,94,9,10,0.4,Excellent
+232,Limites,58,6,10,1.0,Moyen
+232,Dérivation,25,2,10,0.9,Faible
+232,Électricité,51,5,10,0.5,Moyen
+232,Mécanique,40,4,10,0.4,Faible
+232,Ondes,43,4,10,0.3,Faible
+232,Acides et bases,64,6,10,1.3,Moyen
+232,Réactions chimiques,30,3,10,1.4,Faible
+232,Chimie organique,94,9,10,1.2,Excellent
+233,Nombres réels,42,4,10,1.4,Faible
+233,Suites,81,8,10,1.2,Bon
+233,Limites,40,4,10,0.6,Faible
+233,Dérivation,85,8,10,1.3,Excellent
+233,Électricité,30,3,10,0.7,Faible
+233,Mécanique,94,9,10,1.4,Excellent
+233,Ondes,98,10,10,1.3,Excellent
+233,Acides et bases,64,6,10,0.3,Moyen
+233,Réactions chimiques,50,5,10,0.4,Moyen
+233,Chimie organique,89,9,10,1.8,Excellent
+234,Nombres réels,99,10,10,1.9,Excellent
+234,Suites,77,8,10,0.5,Bon
+234,Limites,28,3,10,0.7,Faible
+234,Dérivation,46,5,10,1.7,Faible
+234,Électricité,93,9,10,1.3,Excellent
+234,Mécanique,35,4,10,1.4,Faible
+234,Ondes,99,10,10,1.4,Excellent
+234,Acides et bases,44,4,10,1.1,Faible
+234,Réactions chimiques,48,5,10,0.8,Faible
+234,Chimie organique,59,6,10,1.1,Moyen
+235,Nombres réels,85,8,10,0.6,Excellent
+235,Suites,38,4,10,0.7,Faible
+235,Limites,21,2,10,0.7,Faible
+235,Dérivation,23,2,10,1.9,Faible
+235,Électricité,71,7,10,1.4,Bon
+235,Mécanique,30,3,10,1.5,Faible
+235,Ondes,43,4,10,0.7,Faible
+235,Acides et bases,23,2,10,1.2,Faible
+235,Réactions chimiques,43,4,10,1.8,Faible
+235,Chimie organique,62,6,10,0.7,Moyen
+236,Nombres réels,84,8,10,0.8,Bon
+236,Suites,35,4,10,0.7,Faible
+236,Limites,22,2,10,1.6,Faible
+236,Dérivation,34,3,10,0.4,Faible
+236,Électricité,73,7,10,0.5,Bon
+236,Mécanique,52,5,10,1.0,Moyen
+236,Ondes,49,5,10,1.1,Faible
+236,Acides et bases,21,2,10,0.8,Faible
+236,Réactions chimiques,62,6,10,0.7,Moyen
+236,Chimie organique,92,9,10,0.3,Excellent
+237,Nombres réels,94,9,10,1.5,Excellent
+237,Suites,48,5,10,0.7,Faible
+237,Limites,52,5,10,1.1,Moyen
+237,Dérivation,25,2,10,0.6,Faible
+237,Électricité,74,7,10,1.8,Bon
+237,Mécanique,34,3,10,0.8,Faible
+237,Ondes,22,2,10,1.3,Faible
+237,Acides et bases,70,7,10,0.6,Bon
+237,Réactions chimiques,49,5,10,1.9,Faible
+237,Chimie organique,20,2,10,0.7,Faible
+238,Nombres réels,31,3,10,0.6,Faible
+238,Suites,56,6,10,0.4,Moyen
+238,Limites,39,4,10,1.3,Faible
+238,Dérivation,71,7,10,1.5,Bon
+238,Électricité,89,9,10,0.3,Excellent
+238,Mécanique,72,7,10,1.4,Bon
+238,Ondes,77,8,10,1.3,Bon
+238,Acides et bases,81,8,10,0.9,Bon
+238,Réactions chimiques,90,9,10,2.0,Excellent
+238,Chimie organique,86,9,10,1.6,Excellent
+239,Nombres réels,42,4,10,1.0,Faible
+239,Suites,70,7,10,0.3,Bon
+239,Limites,57,6,10,0.6,Moyen
+239,Dérivation,42,4,10,0.6,Faible
+239,Électricité,88,9,10,0.5,Excellent
+239,Mécanique,91,9,10,2.0,Excellent
+239,Ondes,60,6,10,1.1,Moyen
+239,Acides et bases,57,6,10,1.1,Moyen
+239,Réactions chimiques,20,2,10,0.4,Faible
+239,Chimie organique,32,3,10,1.6,Faible
+240,Nombres réels,58,6,10,1.2,Moyen
+240,Suites,39,4,10,1.4,Faible
+240,Limites,68,7,10,0.5,Moyen
+240,Dérivation,75,8,10,1.1,Bon
+240,Électricité,65,6,10,1.1,Moyen
+240,Mécanique,77,8,10,0.8,Bon
+240,Ondes,79,8,10,0.6,Bon
+240,Acides et bases,62,6,10,2.0,Moyen
+240,Réactions chimiques,63,6,10,0.3,Moyen
+240,Chimie organique,58,6,10,0.6,Moyen
+241,Nombres réels,88,9,10,1.9,Excellent
+241,Suites,25,2,10,1.2,Faible
+241,Limites,81,8,10,1.5,Bon
+241,Dérivation,64,6,10,0.8,Moyen
+241,Électricité,52,5,10,0.8,Moyen
+241,Mécanique,37,4,10,1.5,Faible
+241,Ondes,68,7,10,0.4,Moyen
+241,Acides et bases,22,2,10,0.4,Faible
+241,Réactions chimiques,87,9,10,1.1,Excellent
+241,Chimie organique,61,6,10,1.0,Moyen
+242,Nombres réels,20,2,10,1.6,Faible
+242,Suites,26,3,10,1.8,Faible
+242,Limites,69,7,10,1.7,Moyen
+242,Dérivation,36,4,10,1.1,Faible
+242,Électricité,67,7,10,0.3,Moyen
+242,Mécanique,84,8,10,0.8,Bon
+242,Ondes,71,7,10,1.4,Bon
+242,Acides et bases,73,7,10,0.7,Bon
+242,Réactions chimiques,66,7,10,1.8,Moyen
+242,Chimie organique,89,9,10,0.6,Excellent
+243,Nombres réels,30,3,10,0.9,Faible
+243,Suites,63,6,10,1.1,Moyen
+243,Limites,23,2,10,0.7,Faible
+243,Dérivation,85,8,10,1.6,Excellent
+243,Électricité,87,9,10,0.9,Excellent
+243,Mécanique,27,3,10,0.3,Faible
+243,Ondes,98,10,10,1.1,Excellent
+243,Acides et bases,68,7,10,0.3,Moyen
+243,Réactions chimiques,57,6,10,0.9,Moyen
+243,Chimie organique,90,9,10,1.9,Excellent
+244,Nombres réels,90,9,10,1.1,Excellent
+244,Suites,71,7,10,0.6,Bon
+244,Limites,84,8,10,2.0,Bon
+244,Dérivation,62,6,10,1.4,Moyen
+244,Électricité,43,4,10,0.6,Faible
+244,Mécanique,20,2,10,1.7,Faible
+244,Ondes,100,10,10,0.7,Excellent
+244,Acides et bases,31,3,10,1.9,Faible
+244,Réactions chimiques,22,2,10,1.1,Faible
+244,Chimie organique,40,4,10,1.8,Faible
+245,Nombres réels,87,9,10,0.9,Excellent
+245,Suites,44,4,10,0.6,Faible
+245,Limites,82,8,10,1.8,Bon
+245,Dérivation,26,3,10,1.2,Faible
+245,Électricité,77,8,10,1.9,Bon
+245,Mécanique,53,5,10,1.8,Moyen
+245,Ondes,64,6,10,0.5,Moyen
+245,Acides et bases,73,7,10,1.7,Bon
+245,Réactions chimiques,59,6,10,1.9,Moyen
+245,Chimie organique,41,4,10,1.4,Faible
+246,Nombres réels,57,6,10,1.3,Moyen
+246,Suites,37,4,10,1.3,Faible
+246,Limites,25,2,10,1.2,Faible
+246,Dérivation,82,8,10,1.0,Bon
+246,Électricité,87,9,10,1.1,Excellent
+246,Mécanique,56,6,10,0.6,Moyen
+246,Ondes,43,4,10,0.8,Faible
+246,Acides et bases,77,8,10,1.0,Bon
+246,Réactions chimiques,56,6,10,0.7,Moyen
+246,Chimie organique,68,7,10,0.5,Moyen
+247,Nombres réels,33,3,10,1.9,Faible
+247,Suites,39,4,10,1.8,Faible
+247,Limites,27,3,10,1.5,Faible
+247,Dérivation,49,5,10,1.1,Faible
+247,Électricité,97,10,10,1.0,Excellent
+247,Mécanique,40,4,10,0.3,Faible
+247,Ondes,44,4,10,1.4,Faible
+247,Acides et bases,89,9,10,1.5,Excellent
+247,Réactions chimiques,51,5,10,0.4,Moyen
+247,Chimie organique,33,3,10,1.3,Faible
+248,Nombres réels,66,7,10,1.3,Moyen
+248,Suites,56,6,10,1.3,Moyen
+248,Limites,64,6,10,1.5,Moyen
+248,Dérivation,54,5,10,1.8,Moyen
+248,Électricité,81,8,10,0.6,Bon
+248,Mécanique,35,4,10,0.4,Faible
+248,Ondes,35,4,10,0.5,Faible
+248,Acides et bases,47,5,10,1.3,Faible
+248,Réactions chimiques,76,8,10,0.7,Bon
+248,Chimie organique,68,7,10,1.9,Moyen
+249,Nombres réels,92,9,10,0.5,Excellent
+249,Suites,47,5,10,1.6,Faible
+249,Limites,41,4,10,1.9,Faible
+249,Dérivation,36,4,10,1.3,Faible
+249,Électricité,29,3,10,0.6,Faible
+249,Mécanique,68,7,10,1.9,Moyen
+249,Ondes,22,2,10,1.7,Faible
+249,Acides et bases,80,8,10,1.4,Bon
+249,Réactions chimiques,59,6,10,1.0,Moyen
+249,Chimie organique,68,7,10,1.3,Moyen
+250,Nombres réels,86,9,10,0.4,Excellent
+250,Suites,74,7,10,0.8,Bon
+250,Limites,87,9,10,0.9,Excellent
+250,Dérivation,32,3,10,0.5,Faible
+250,Électricité,81,8,10,1.5,Bon
+250,Mécanique,78,8,10,0.3,Bon
+250,Ondes,35,4,10,0.7,Faible
+250,Acides et bases,80,8,10,1.8,Bon
+250,Réactions chimiques,65,6,10,1.6,Moyen
+250,Chimie organique,61,6,10,1.2,Moyen
+251,Nombres réels,56,6,10,0.2,Moyen
+251,Suites,29,3,10,0.9,Faible
+251,Limites,94,9,10,1.7,Excellent
+251,Dérivation,60,6,10,1.2,Moyen
+251,Électricité,63,6,10,0.5,Moyen
+251,Mécanique,81,8,10,1.5,Bon
+251,Ondes,98,10,10,0.4,Excellent
+251,Acides et bases,100,10,10,0.7,Excellent
+251,Réactions chimiques,24,2,10,1.0,Faible
+251,Chimie organique,22,2,10,0.3,Faible
+252,Nombres réels,66,7,10,1.8,Moyen
+252,Suites,50,5,10,1.0,Moyen
+252,Limites,55,6,10,0.5,Moyen
+252,Dérivation,46,5,10,1.0,Faible
+252,Électricité,69,7,10,1.8,Moyen
+252,Mécanique,23,2,10,1.1,Faible
+252,Ondes,46,5,10,0.7,Faible
+252,Acides et bases,44,4,10,0.5,Faible
+252,Réactions chimiques,42,4,10,0.5,Faible
+252,Chimie organique,62,6,10,2.0,Moyen
+253,Nombres réels,81,8,10,0.6,Bon
+253,Suites,41,4,10,0.8,Faible
+253,Limites,35,4,10,0.8,Faible
+253,Dérivation,62,6,10,1.6,Moyen
+253,Électricité,75,8,10,0.3,Bon
+253,Mécanique,31,3,10,0.2,Faible
+253,Ondes,91,9,10,1.0,Excellent
+253,Acides et bases,50,5,10,1.8,Moyen
+253,Réactions chimiques,43,4,10,1.0,Faible
+253,Chimie organique,83,8,10,1.5,Bon
+254,Nombres réels,54,5,10,0.4,Moyen
+254,Suites,48,5,10,1.3,Faible
+254,Limites,48,5,10,1.3,Faible
+254,Dérivation,66,7,10,1.8,Moyen
+254,Électricité,81,8,10,0.7,Bon
+254,Mécanique,47,5,10,1.0,Faible
+254,Ondes,86,9,10,1.5,Excellent
+254,Acides et bases,39,4,10,1.0,Faible
+254,Réactions chimiques,32,3,10,1.4,Faible
+254,Chimie organique,25,2,10,0.7,Faible
+255,Nombres réels,23,2,10,1.5,Faible
+255,Suites,31,3,10,0.7,Faible
+255,Limites,95,10,10,0.4,Excellent
+255,Dérivation,22,2,10,1.9,Faible
+255,Électricité,90,9,10,1.6,Excellent
+255,Mécanique,99,10,10,1.2,Excellent
+255,Ondes,25,2,10,0.6,Faible
+255,Acides et bases,57,6,10,0.8,Moyen
+255,Réactions chimiques,96,10,10,1.7,Excellent
+255,Chimie organique,82,8,10,1.5,Bon
+256,Nombres réels,54,5,10,0.3,Moyen
+256,Suites,43,4,10,0.3,Faible
+256,Limites,100,10,10,1.7,Excellent
+256,Dérivation,76,8,10,0.8,Bon
+256,Électricité,25,2,10,1.4,Faible
+256,Mécanique,31,3,10,1.8,Faible
+256,Ondes,92,9,10,0.3,Excellent
+256,Acides et bases,39,4,10,0.3,Faible
+256,Réactions chimiques,58,6,10,1.8,Moyen
+256,Chimie organique,63,6,10,1.5,Moyen
+257,Nombres réels,37,4,10,1.6,Faible
+257,Suites,70,7,10,1.6,Bon
+257,Limites,49,5,10,1.3,Faible
+257,Dérivation,41,4,10,1.3,Faible
+257,Électricité,68,7,10,1.7,Moyen
+257,Mécanique,37,4,10,1.0,Faible
+257,Ondes,87,9,10,1.9,Excellent
+257,Acides et bases,70,7,10,0.3,Bon
+257,Réactions chimiques,98,10,10,1.2,Excellent
+257,Chimie organique,20,2,10,1.8,Faible
+258,Nombres réels,81,8,10,0.8,Bon
+258,Suites,35,4,10,0.7,Faible
+258,Limites,69,7,10,0.4,Moyen
+258,Dérivation,89,9,10,1.7,Excellent
+258,Électricité,96,10,10,1.4,Excellent
+258,Mécanique,49,5,10,0.9,Faible
+258,Ondes,29,3,10,1.5,Faible
+258,Acides et bases,56,6,10,0.2,Moyen
+258,Réactions chimiques,64,6,10,2.0,Moyen
+258,Chimie organique,84,8,10,0.3,Bon
+259,Nombres réels,43,4,10,1.2,Faible
+259,Suites,28,3,10,1.1,Faible
+259,Limites,72,7,10,1.4,Bon
+259,Dérivation,37,4,10,1.5,Faible
+259,Électricité,44,4,10,1.4,Faible
+259,Mécanique,29,3,10,0.3,Faible
+259,Ondes,47,5,10,0.9,Faible
+259,Acides et bases,26,3,10,0.6,Faible
+259,Réactions chimiques,38,4,10,0.5,Faible
+259,Chimie organique,64,6,10,1.9,Moyen
+260,Nombres réels,88,9,10,0.6,Excellent
+260,Suites,79,8,10,2.0,Bon
+260,Limites,90,9,10,0.5,Excellent
+260,Dérivation,75,8,10,0.7,Bon
+260,Électricité,49,5,10,1.3,Faible
+260,Mécanique,28,3,10,0.9,Faible
+260,Ondes,86,9,10,0.9,Excellent
+260,Acides et bases,25,2,10,0.3,Faible
+260,Réactions chimiques,89,9,10,0.7,Excellent
+260,Chimie organique,75,8,10,1.3,Bon
+261,Nombres réels,88,9,10,1.7,Excellent
+261,Suites,71,7,10,1.9,Bon
+261,Limites,78,8,10,0.7,Bon
+261,Dérivation,69,7,10,0.8,Moyen
+261,Électricité,80,8,10,1.0,Bon
+261,Mécanique,96,10,10,1.7,Excellent
+261,Ondes,45,4,10,1.7,Faible
+261,Acides et bases,27,3,10,1.9,Faible
+261,Réactions chimiques,79,8,10,1.1,Bon
+261,Chimie organique,28,3,10,1.0,Faible
+262,Nombres réels,93,9,10,1.3,Excellent
+262,Suites,80,8,10,1.8,Bon
+262,Limites,50,5,10,1.8,Moyen
+262,Dérivation,66,7,10,1.4,Moyen
+262,Électricité,25,2,10,1.0,Faible
+262,Mécanique,79,8,10,1.3,Bon
+262,Ondes,32,3,10,1.0,Faible
+262,Acides et bases,84,8,10,0.5,Bon
+262,Réactions chimiques,48,5,10,1.8,Faible
+262,Chimie organique,93,9,10,1.4,Excellent
+263,Nombres réels,94,9,10,0.2,Excellent
+263,Suites,68,7,10,0.7,Moyen
+263,Limites,60,6,10,1.2,Moyen
+263,Dérivation,73,7,10,2.0,Bon
+263,Électricité,22,2,10,0.4,Faible
+263,Mécanique,75,8,10,0.3,Bon
+263,Ondes,76,8,10,1.4,Bon
+263,Acides et bases,88,9,10,1.0,Excellent
+263,Réactions chimiques,47,5,10,0.4,Faible
+263,Chimie organique,60,6,10,1.1,Moyen
+264,Nombres réels,60,6,10,2.0,Moyen
+264,Suites,26,3,10,0.6,Faible
+264,Limites,29,3,10,1.1,Faible
+264,Dérivation,80,8,10,1.0,Bon
+264,Électricité,77,8,10,0.2,Bon
+264,Mécanique,39,4,10,1.7,Faible
+264,Ondes,40,4,10,0.2,Faible
+264,Acides et bases,66,7,10,0.5,Moyen
+264,Réactions chimiques,80,8,10,1.3,Bon
+264,Chimie organique,37,4,10,1.0,Faible
+265,Nombres réels,95,10,10,0.2,Excellent
+265,Suites,32,3,10,1.7,Faible
+265,Limites,84,8,10,0.4,Bon
+265,Dérivation,20,2,10,0.6,Faible
+265,Électricité,31,3,10,0.4,Faible
+265,Mécanique,93,9,10,1.7,Excellent
+265,Ondes,81,8,10,0.4,Bon
+265,Acides et bases,98,10,10,0.7,Excellent
+265,Réactions chimiques,52,5,10,1.1,Moyen
+265,Chimie organique,79,8,10,0.5,Bon
+266,Nombres réels,38,4,10,1.5,Faible
+266,Suites,32,3,10,1.2,Faible
+266,Limites,41,4,10,0.7,Faible
+266,Dérivation,89,9,10,1.5,Excellent
+266,Électricité,76,8,10,0.4,Bon
+266,Mécanique,28,3,10,1.4,Faible
+266,Ondes,33,3,10,0.8,Faible
+266,Acides et bases,42,4,10,0.2,Faible
+266,Réactions chimiques,24,2,10,0.5,Faible
+266,Chimie organique,37,4,10,1.5,Faible
+267,Nombres réels,92,9,10,0.8,Excellent
+267,Suites,76,8,10,0.7,Bon
+267,Limites,89,9,10,1.3,Excellent
+267,Dérivation,49,5,10,0.9,Faible
+267,Électricité,73,7,10,2.0,Bon
+267,Mécanique,58,6,10,1.9,Moyen
+267,Ondes,73,7,10,0.3,Bon
+267,Acides et bases,43,4,10,1.1,Faible
+267,Réactions chimiques,72,7,10,0.2,Bon
+267,Chimie organique,58,6,10,1.4,Moyen
+268,Nombres réels,87,9,10,1.3,Excellent
+268,Suites,31,3,10,1.7,Faible
+268,Limites,87,9,10,0.6,Excellent
+268,Dérivation,58,6,10,0.7,Moyen
+268,Électricité,41,4,10,1.0,Faible
+268,Mécanique,28,3,10,0.4,Faible
+268,Ondes,38,4,10,0.7,Faible
+268,Acides et bases,98,10,10,0.8,Excellent
+268,Réactions chimiques,21,2,10,1.2,Faible
+268,Chimie organique,94,9,10,0.7,Excellent
+269,Nombres réels,38,4,10,1.7,Faible
+269,Suites,48,5,10,0.8,Faible
+269,Limites,23,2,10,1.9,Faible
+269,Dérivation,91,9,10,1.4,Excellent
+269,Électricité,24,2,10,1.5,Faible
+269,Mécanique,74,7,10,1.1,Bon
+269,Ondes,52,5,10,1.2,Moyen
+269,Acides et bases,33,3,10,1.8,Faible
+269,Réactions chimiques,70,7,10,0.5,Bon
+269,Chimie organique,82,8,10,1.4,Bon
+270,Nombres réels,83,8,10,2.0,Bon
+270,Suites,81,8,10,1.7,Bon
+270,Limites,63,6,10,1.1,Moyen
+270,Dérivation,36,4,10,0.8,Faible
+270,Électricité,38,4,10,0.9,Faible
+270,Mécanique,71,7,10,1.2,Bon
+270,Ondes,65,6,10,2.0,Moyen
+270,Acides et bases,85,8,10,1.8,Excellent
+270,Réactions chimiques,29,3,10,1.4,Faible
+270,Chimie organique,24,2,10,0.8,Faible
+271,Nombres réels,92,9,10,1.2,Excellent
+271,Suites,28,3,10,1.5,Faible
+271,Limites,51,5,10,0.6,Moyen
+271,Dérivation,65,6,10,0.8,Moyen
+271,Électricité,83,8,10,0.9,Bon
+271,Mécanique,99,10,10,1.4,Excellent
+271,Ondes,85,8,10,0.9,Excellent
+271,Acides et bases,90,9,10,1.9,Excellent
+271,Réactions chimiques,55,6,10,1.3,Moyen
+271,Chimie organique,62,6,10,1.2,Moyen
+272,Nombres réels,90,9,10,1.2,Excellent
+272,Suites,32,3,10,1.5,Faible
+272,Limites,21,2,10,1.7,Faible
+272,Dérivation,100,10,10,1.5,Excellent
+272,Électricité,52,5,10,1.0,Moyen
+272,Mécanique,73,7,10,1.1,Bon
+272,Ondes,99,10,10,2.0,Excellent
+272,Acides et bases,94,9,10,0.4,Excellent
+272,Réactions chimiques,27,3,10,0.5,Faible
+272,Chimie organique,78,8,10,0.5,Bon
+273,Nombres réels,48,5,10,1.1,Faible
+273,Suites,76,8,10,0.3,Bon
+273,Limites,32,3,10,0.7,Faible
+273,Dérivation,76,8,10,0.3,Bon
+273,Électricité,86,9,10,0.6,Excellent
+273,Mécanique,56,6,10,1.0,Moyen
+273,Ondes,93,9,10,0.7,Excellent
+273,Acides et bases,34,3,10,1.4,Faible
+273,Réactions chimiques,86,9,10,0.5,Excellent
+273,Chimie organique,69,7,10,0.4,Moyen
+274,Nombres réels,99,10,10,0.8,Excellent
+274,Suites,86,9,10,1.4,Excellent
+274,Limites,98,10,10,1.0,Excellent
+274,Dérivation,34,3,10,0.8,Faible
+274,Électricité,87,9,10,0.8,Excellent
+274,Mécanique,34,3,10,1.6,Faible
+274,Ondes,29,3,10,0.7,Faible
+274,Acides et bases,28,3,10,0.5,Faible
+274,Réactions chimiques,26,3,10,0.5,Faible
+274,Chimie organique,81,8,10,1.5,Bon
+275,Nombres réels,21,2,10,1.4,Faible
+275,Suites,32,3,10,1.7,Faible
+275,Limites,79,8,10,1.3,Bon
+275,Dérivation,68,7,10,0.9,Moyen
+275,Électricité,73,7,10,1.9,Bon
+275,Mécanique,95,10,10,0.8,Excellent
+275,Ondes,34,3,10,0.4,Faible
+275,Acides et bases,20,2,10,1.1,Faible
+275,Réactions chimiques,91,9,10,0.8,Excellent
+275,Chimie organique,49,5,10,1.4,Faible
+276,Nombres réels,52,5,10,1.4,Moyen
+276,Suites,49,5,10,1.8,Faible
+276,Limites,26,3,10,0.8,Faible
+276,Dérivation,31,3,10,0.3,Faible
+276,Électricité,36,4,10,0.4,Faible
+276,Mécanique,20,2,10,1.0,Faible
+276,Ondes,91,9,10,1.0,Excellent
+276,Acides et bases,32,3,10,0.4,Faible
+276,Réactions chimiques,84,8,10,0.3,Bon
+276,Chimie organique,20,2,10,0.4,Faible
+277,Nombres réels,87,9,10,0.5,Excellent
+277,Suites,77,8,10,1.9,Bon
+277,Limites,37,4,10,1.4,Faible
+277,Dérivation,37,4,10,1.6,Faible
+277,Électricité,83,8,10,1.2,Bon
+277,Mécanique,68,7,10,0.3,Moyen
+277,Ondes,74,7,10,1.1,Bon
+277,Acides et bases,58,6,10,1.8,Moyen
+277,Réactions chimiques,50,5,10,1.9,Moyen
+277,Chimie organique,92,9,10,1.7,Excellent
+278,Nombres réels,40,4,10,0.3,Faible
+278,Suites,80,8,10,1.6,Bon
+278,Limites,85,8,10,1.7,Excellent
+278,Dérivation,81,8,10,1.8,Bon
+278,Électricité,30,3,10,1.4,Faible
+278,Mécanique,71,7,10,1.7,Bon
+278,Ondes,72,7,10,0.3,Bon
+278,Acides et bases,40,4,10,1.1,Faible
+278,Réactions chimiques,50,5,10,0.3,Moyen
+278,Chimie organique,56,6,10,0.5,Moyen
+279,Nombres réels,52,5,10,1.5,Moyen
+279,Suites,98,10,10,1.9,Excellent
+279,Limites,20,2,10,0.9,Faible
+279,Dérivation,31,3,10,1.7,Faible
+279,Électricité,53,5,10,0.2,Moyen
+279,Mécanique,56,6,10,0.6,Moyen
+279,Ondes,91,9,10,0.6,Excellent
+279,Acides et bases,38,4,10,0.3,Faible
+279,Réactions chimiques,79,8,10,0.7,Bon
+279,Chimie organique,95,10,10,1.1,Excellent
+280,Nombres réels,50,5,10,1.5,Moyen
+280,Suites,34,3,10,1.5,Faible
+280,Limites,44,4,10,1.5,Faible
+280,Dérivation,32,3,10,0.4,Faible
+280,Électricité,56,6,10,0.4,Moyen
+280,Mécanique,94,9,10,1.7,Excellent
+280,Ondes,91,9,10,0.5,Excellent
+280,Acides et bases,56,6,10,1.1,Moyen
+280,Réactions chimiques,91,9,10,1.7,Excellent
+280,Chimie organique,50,5,10,1.4,Moyen
+281,Nombres réels,21,2,10,1.6,Faible
+281,Suites,81,8,10,1.9,Bon
+281,Limites,96,10,10,1.9,Excellent
+281,Dérivation,87,9,10,1.0,Excellent
+281,Électricité,56,6,10,0.6,Moyen
+281,Mécanique,30,3,10,0.8,Faible
+281,Ondes,94,9,10,0.5,Excellent
+281,Acides et bases,91,9,10,1.3,Excellent
+281,Réactions chimiques,89,9,10,1.5,Excellent
+281,Chimie organique,40,4,10,1.0,Faible
+282,Nombres réels,48,5,10,1.4,Faible
+282,Suites,82,8,10,0.6,Bon
+282,Limites,55,6,10,1.0,Moyen
+282,Dérivation,75,8,10,1.3,Bon
+282,Électricité,26,3,10,0.5,Faible
+282,Mécanique,81,8,10,1.0,Bon
+282,Ondes,35,4,10,1.8,Faible
+282,Acides et bases,63,6,10,1.2,Moyen
+282,Réactions chimiques,99,10,10,1.9,Excellent
+282,Chimie organique,87,9,10,1.3,Excellent
+283,Nombres réels,64,6,10,1.9,Moyen
+283,Suites,30,3,10,0.4,Faible
+283,Limites,20,2,10,0.3,Faible
+283,Dérivation,89,9,10,1.2,Excellent
+283,Électricité,28,3,10,1.6,Faible
+283,Mécanique,94,9,10,1.5,Excellent
+283,Ondes,73,7,10,1.8,Bon
+283,Acides et bases,70,7,10,1.3,Bon
+283,Réactions chimiques,54,5,10,0.4,Moyen
+283,Chimie organique,81,8,10,1.0,Bon
+284,Nombres réels,76,8,10,1.1,Bon
+284,Suites,39,4,10,1.1,Faible
+284,Limites,76,8,10,1.3,Bon
+284,Dérivation,35,4,10,1.4,Faible
+284,Électricité,51,5,10,1.2,Moyen
+284,Mécanique,26,3,10,0.8,Faible
+284,Ondes,39,4,10,1.6,Faible
+284,Acides et bases,68,7,10,1.5,Moyen
+284,Réactions chimiques,30,3,10,1.8,Faible
+284,Chimie organique,79,8,10,2.0,Bon
+285,Nombres réels,83,8,10,1.1,Bon
+285,Suites,28,3,10,1.9,Faible
+285,Limites,24,2,10,0.4,Faible
+285,Dérivation,86,9,10,1.8,Excellent
+285,Électricité,28,3,10,1.0,Faible
+285,Mécanique,60,6,10,0.4,Moyen
+285,Ondes,84,8,10,0.9,Bon
+285,Acides et bases,85,8,10,1.8,Excellent
+285,Réactions chimiques,29,3,10,0.7,Faible
+285,Chimie organique,75,8,10,0.3,Bon
+286,Nombres réels,93,9,10,0.6,Excellent
+286,Suites,33,3,10,1.7,Faible
+286,Limites,79,8,10,1.4,Bon
+286,Dérivation,66,7,10,1.9,Moyen
+286,Électricité,52,5,10,0.5,Moyen
+286,Mécanique,78,8,10,1.1,Bon
+286,Ondes,70,7,10,1.2,Bon
+286,Acides et bases,65,6,10,1.4,Moyen
+286,Réactions chimiques,86,9,10,1.3,Excellent
+286,Chimie organique,55,6,10,0.7,Moyen
+287,Nombres réels,35,4,10,2.0,Faible
+287,Suites,39,4,10,1.4,Faible
+287,Limites,32,3,10,1.5,Faible
+287,Dérivation,96,10,10,0.5,Excellent
+287,Électricité,82,8,10,2.0,Bon
+287,Mécanique,94,9,10,1.7,Excellent
+287,Ondes,51,5,10,0.3,Moyen
+287,Acides et bases,29,3,10,1.0,Faible
+287,Réactions chimiques,96,10,10,0.9,Excellent
+287,Chimie organique,23,2,10,0.6,Faible
+288,Nombres réels,32,3,10,0.5,Faible
+288,Suites,26,3,10,0.2,Faible
+288,Limites,20,2,10,0.2,Faible
+288,Dérivation,52,5,10,1.4,Moyen
+288,Électricité,72,7,10,0.7,Bon
+288,Mécanique,73,7,10,0.9,Bon
+288,Ondes,70,7,10,1.6,Bon
+288,Acides et bases,59,6,10,0.3,Moyen
+288,Réactions chimiques,36,4,10,0.2,Faible
+288,Chimie organique,53,5,10,1.3,Moyen
+289,Nombres réels,84,8,10,1.0,Bon
+289,Suites,21,2,10,2.0,Faible
+289,Limites,24,2,10,1.9,Faible
+289,Dérivation,57,6,10,1.1,Moyen
+289,Électricité,42,4,10,0.7,Faible
+289,Mécanique,51,5,10,0.5,Moyen
+289,Ondes,63,6,10,1.6,Moyen
+289,Acides et bases,70,7,10,0.4,Bon
+289,Réactions chimiques,56,6,10,0.2,Moyen
+289,Chimie organique,45,4,10,0.4,Faible
+290,Nombres réels,33,3,10,1.2,Faible
+290,Suites,39,4,10,0.6,Faible
+290,Limites,34,3,10,2.0,Faible
+290,Dérivation,67,7,10,1.7,Moyen
+290,Électricité,82,8,10,1.1,Bon
+290,Mécanique,67,7,10,1.1,Moyen
+290,Ondes,70,7,10,1.8,Bon
+290,Acides et bases,33,3,10,1.5,Faible
+290,Réactions chimiques,29,3,10,0.7,Faible
+290,Chimie organique,73,7,10,1.8,Bon
+291,Nombres réels,34,3,10,1.0,Faible
+291,Suites,38,4,10,0.9,Faible
+291,Limites,37,4,10,1.3,Faible
+291,Dérivation,49,5,10,0.8,Faible
+291,Électricité,47,5,10,0.4,Faible
+291,Mécanique,77,8,10,0.6,Bon
+291,Ondes,66,7,10,1.7,Moyen
+291,Acides et bases,69,7,10,0.6,Moyen
+291,Réactions chimiques,37,4,10,1.4,Faible
+291,Chimie organique,30,3,10,0.7,Faible
+292,Nombres réels,96,10,10,1.8,Excellent
+292,Suites,22,2,10,1.6,Faible
+292,Limites,85,8,10,1.4,Excellent
+292,Dérivation,48,5,10,0.9,Faible
+292,Électricité,38,4,10,0.8,Faible
+292,Mécanique,20,2,10,1.8,Faible
+292,Ondes,68,7,10,1.7,Moyen
+292,Acides et bases,60,6,10,0.9,Moyen
+292,Réactions chimiques,85,8,10,0.5,Excellent
+292,Chimie organique,57,6,10,1.9,Moyen
+293,Nombres réels,85,8,10,0.9,Excellent
+293,Suites,74,7,10,0.4,Bon
+293,Limites,32,3,10,0.4,Faible
+293,Dérivation,79,8,10,1.2,Bon
+293,Électricité,40,4,10,1.8,Faible
+293,Mécanique,26,3,10,0.8,Faible
+293,Ondes,97,10,10,1.8,Excellent
+293,Acides et bases,96,10,10,1.3,Excellent
+293,Réactions chimiques,72,7,10,1.2,Bon
+293,Chimie organique,98,10,10,1.3,Excellent
+294,Nombres réels,74,7,10,0.9,Bon
+294,Suites,97,10,10,0.6,Excellent
+294,Limites,85,8,10,1.7,Excellent
+294,Dérivation,66,7,10,1.3,Moyen
+294,Électricité,53,5,10,0.8,Moyen
+294,Mécanique,63,6,10,0.5,Moyen
+294,Ondes,85,8,10,1.2,Excellent
+294,Acides et bases,86,9,10,0.3,Excellent
+294,Réactions chimiques,85,8,10,0.8,Excellent
+294,Chimie organique,68,7,10,1.3,Moyen
+295,Nombres réels,47,5,10,0.4,Faible
+295,Suites,23,2,10,1.7,Faible
+295,Limites,64,6,10,0.6,Moyen
+295,Dérivation,83,8,10,1.1,Bon
+295,Électricité,66,7,10,0.8,Moyen
+295,Mécanique,44,4,10,1.8,Faible
+295,Ondes,71,7,10,1.9,Bon
+295,Acides et bases,41,4,10,1.1,Faible
+295,Réactions chimiques,59,6,10,1.8,Moyen
+295,Chimie organique,66,7,10,1.7,Moyen
+296,Nombres réels,97,10,10,0.7,Excellent
+296,Suites,42,4,10,1.6,Faible
+296,Limites,35,4,10,1.9,Faible
+296,Dérivation,97,10,10,0.5,Excellent
+296,Électricité,99,10,10,1.4,Excellent
+296,Mécanique,72,7,10,0.6,Bon
+296,Ondes,77,8,10,1.1,Bon
+296,Acides et bases,81,8,10,0.7,Bon
+296,Réactions chimiques,40,4,10,1.1,Faible
+296,Chimie organique,89,9,10,1.7,Excellent
+297,Nombres réels,67,7,10,1.0,Moyen
+297,Suites,36,4,10,0.7,Faible
+297,Limites,24,2,10,1.3,Faible
+297,Dérivation,90,9,10,0.9,Excellent
+297,Électricité,65,6,10,1.3,Moyen
+297,Mécanique,88,9,10,1.9,Excellent
+297,Ondes,60,6,10,1.5,Moyen
+297,Acides et bases,55,6,10,0.2,Moyen
+297,Réactions chimiques,95,10,10,1.4,Excellent
+297,Chimie organique,88,9,10,1.1,Excellent
+298,Nombres réels,58,6,10,0.8,Moyen
+298,Suites,78,8,10,1.5,Bon
+298,Limites,62,6,10,0.7,Moyen
+298,Dérivation,49,5,10,1.4,Faible
+298,Électricité,76,8,10,0.6,Bon
+298,Mécanique,88,9,10,1.0,Excellent
+298,Ondes,32,3,10,1.8,Faible
+298,Acides et bases,89,9,10,1.0,Excellent
+298,Réactions chimiques,99,10,10,2.0,Excellent
+298,Chimie organique,22,2,10,1.2,Faible
+299,Nombres réels,55,6,10,1.8,Moyen
+299,Suites,72,7,10,0.5,Bon
+299,Limites,34,3,10,0.6,Faible
+299,Dérivation,70,7,10,1.9,Bon
+299,Électricité,44,4,10,0.5,Faible
+299,Mécanique,55,6,10,1.3,Moyen
+299,Ondes,31,3,10,1.1,Faible
+299,Acides et bases,65,6,10,1.4,Moyen
+299,Réactions chimiques,62,6,10,1.8,Moyen
+299,Chimie organique,93,9,10,0.3,Excellent
+300,Nombres réels,89,9,10,1.6,Excellent
+300,Suites,60,6,10,1.2,Moyen
+300,Limites,49,5,10,0.6,Faible
+300,Dérivation,86,9,10,1.4,Excellent
+300,Électricité,60,6,10,0.5,Moyen
+300,Mécanique,35,4,10,0.7,Faible
+300,Ondes,49,5,10,1.2,Faible
+300,Acides et bases,34,3,10,0.7,Faible
+300,Réactions chimiques,38,4,10,1.6,Faible
+300,Chimie organique,52,5,10,1.8,Moyen
+301,Nombres réels,30,3,10,0.7,Faible
+301,Suites,83,8,10,0.7,Bon
+301,Limites,59,6,10,0.5,Moyen
+301,Dérivation,51,5,10,0.9,Moyen
+301,Électricité,91,9,10,0.3,Excellent
+301,Mécanique,39,4,10,0.5,Faible
+301,Ondes,26,3,10,0.9,Faible
+301,Acides et bases,37,4,10,0.7,Faible
+301,Réactions chimiques,82,8,10,0.6,Bon
+301,Chimie organique,57,6,10,0.6,Moyen
+302,Nombres réels,87,9,10,1.3,Excellent
+302,Suites,75,8,10,0.6,Bon
+302,Limites,97,10,10,1.5,Excellent
+302,Dérivation,67,7,10,1.7,Moyen
+302,Électricité,31,3,10,1.6,Faible
+302,Mécanique,73,7,10,1.5,Bon
+302,Ondes,53,5,10,0.7,Moyen
+302,Acides et bases,59,6,10,0.7,Moyen
+302,Réactions chimiques,36,4,10,0.9,Faible
+302,Chimie organique,29,3,10,0.3,Faible
+303,Nombres réels,85,8,10,0.8,Excellent
+303,Suites,37,4,10,0.5,Faible
+303,Limites,33,3,10,0.7,Faible
+303,Dérivation,98,10,10,1.7,Excellent
+303,Électricité,82,8,10,0.9,Bon
+303,Mécanique,35,4,10,1.4,Faible
+303,Ondes,64,6,10,0.5,Moyen
+303,Acides et bases,87,9,10,1.1,Excellent
+303,Réactions chimiques,92,9,10,1.1,Excellent
+303,Chimie organique,85,8,10,0.9,Excellent
+304,Nombres réels,94,9,10,0.8,Excellent
+304,Suites,63,6,10,1.1,Moyen
+304,Limites,90,9,10,0.5,Excellent
+304,Dérivation,31,3,10,1.5,Faible
+304,Électricité,72,7,10,0.5,Bon
+304,Mécanique,79,8,10,1.1,Bon
+304,Ondes,37,4,10,1.2,Faible
+304,Acides et bases,89,9,10,1.1,Excellent
+304,Réactions chimiques,61,6,10,1.4,Moyen
+304,Chimie organique,23,2,10,1.7,Faible
+305,Nombres réels,44,4,10,1.1,Faible
+305,Suites,61,6,10,1.3,Moyen
+305,Limites,56,6,10,0.9,Moyen
+305,Dérivation,90,9,10,0.5,Excellent
+305,Électricité,79,8,10,1.7,Bon
+305,Mécanique,87,9,10,1.2,Excellent
+305,Ondes,27,3,10,0.5,Faible
+305,Acides et bases,25,2,10,1.2,Faible
+305,Réactions chimiques,92,9,10,0.7,Excellent
+305,Chimie organique,90,9,10,1.0,Excellent
+306,Nombres réels,75,8,10,1.6,Bon
+306,Suites,39,4,10,1.0,Faible
+306,Limites,53,5,10,1.2,Moyen
+306,Dérivation,83,8,10,0.5,Bon
+306,Électricité,76,8,10,1.9,Bon
+306,Mécanique,29,3,10,0.3,Faible
+306,Ondes,38,4,10,1.1,Faible
+306,Acides et bases,55,6,10,1.6,Moyen
+306,Réactions chimiques,26,3,10,0.9,Faible
+306,Chimie organique,22,2,10,0.9,Faible
+307,Nombres réels,55,6,10,1.6,Moyen
+307,Suites,66,7,10,0.5,Moyen
+307,Limites,21,2,10,1.3,Faible
+307,Dérivation,66,7,10,0.7,Moyen
+307,Électricité,26,3,10,1.2,Faible
+307,Mécanique,72,7,10,1.0,Bon
+307,Ondes,82,8,10,1.5,Bon
+307,Acides et bases,82,8,10,0.8,Bon
+307,Réactions chimiques,93,9,10,1.2,Excellent
+307,Chimie organique,96,10,10,1.3,Excellent
+308,Nombres réels,33,3,10,1.0,Faible
+308,Suites,88,9,10,1.3,Excellent
+308,Limites,60,6,10,1.2,Moyen
+308,Dérivation,85,8,10,0.5,Excellent
+308,Électricité,84,8,10,1.7,Bon
+308,Mécanique,51,5,10,1.7,Moyen
+308,Ondes,63,6,10,0.5,Moyen
+308,Acides et bases,87,9,10,0.9,Excellent
+308,Réactions chimiques,77,8,10,0.3,Bon
+308,Chimie organique,60,6,10,1.3,Moyen
+309,Nombres réels,43,4,10,0.5,Faible
+309,Suites,65,6,10,0.2,Moyen
+309,Limites,96,10,10,0.6,Excellent
+309,Dérivation,49,5,10,1.9,Faible
+309,Électricité,27,3,10,0.6,Faible
+309,Mécanique,77,8,10,1.1,Bon
+309,Ondes,67,7,10,1.4,Moyen
+309,Acides et bases,45,4,10,0.7,Faible
+309,Réactions chimiques,52,5,10,1.8,Moyen
+309,Chimie organique,83,8,10,1.8,Bon
+310,Nombres réels,26,3,10,0.3,Faible
+310,Suites,80,8,10,1.2,Bon
+310,Limites,83,8,10,1.1,Bon
+310,Dérivation,57,6,10,0.8,Moyen
+310,Électricité,24,2,10,1.5,Faible
+310,Mécanique,70,7,10,1.4,Bon
+310,Ondes,70,7,10,0.6,Bon
+310,Acides et bases,67,7,10,0.7,Moyen
+310,Réactions chimiques,71,7,10,1.7,Bon
+310,Chimie organique,74,7,10,0.7,Bon
+311,Nombres réels,71,7,10,1.4,Bon
+311,Suites,29,3,10,1.8,Faible
+311,Limites,100,10,10,1.5,Excellent
+311,Dérivation,40,4,10,1.9,Faible
+311,Électricité,62,6,10,1.2,Moyen
+311,Mécanique,23,2,10,1.8,Faible
+311,Ondes,84,8,10,0.5,Bon
+311,Acides et bases,47,5,10,1.9,Faible
+311,Réactions chimiques,67,7,10,0.3,Moyen
+311,Chimie organique,91,9,10,0.4,Excellent
+312,Nombres réels,76,8,10,1.4,Bon
+312,Suites,98,10,10,0.9,Excellent
+312,Limites,86,9,10,1.2,Excellent
+312,Dérivation,66,7,10,1.9,Moyen
+312,Électricité,58,6,10,1.6,Moyen
+312,Mécanique,62,6,10,0.9,Moyen
+312,Ondes,96,10,10,0.9,Excellent
+312,Acides et bases,52,5,10,1.3,Moyen
+312,Réactions chimiques,81,8,10,1.9,Bon
+312,Chimie organique,96,10,10,0.7,Excellent
+313,Nombres réels,90,9,10,0.2,Excellent
+313,Suites,47,5,10,1.7,Faible
+313,Limites,86,9,10,0.8,Excellent
+313,Dérivation,45,4,10,0.6,Faible
+313,Électricité,88,9,10,1.6,Excellent
+313,Mécanique,74,7,10,1.2,Bon
+313,Ondes,53,5,10,1.9,Moyen
+313,Acides et bases,49,5,10,1.1,Faible
+313,Réactions chimiques,76,8,10,1.6,Bon
+313,Chimie organique,67,7,10,1.4,Moyen
+314,Nombres réels,87,9,10,0.3,Excellent
+314,Suites,41,4,10,1.9,Faible
+314,Limites,54,5,10,1.4,Moyen
+314,Dérivation,44,4,10,0.3,Faible
+314,Électricité,28,3,10,1.7,Faible
+314,Mécanique,91,9,10,1.1,Excellent
+314,Ondes,68,7,10,1.3,Moyen
+314,Acides et bases,67,7,10,1.0,Moyen
+314,Réactions chimiques,74,7,10,0.8,Bon
+314,Chimie organique,22,2,10,0.8,Faible
+315,Nombres réels,38,4,10,1.1,Faible
+315,Suites,61,6,10,0.9,Moyen
+315,Limites,36,4,10,0.4,Faible
+315,Dérivation,40,4,10,1.5,Faible
+315,Électricité,41,4,10,0.8,Faible
+315,Mécanique,38,4,10,1.9,Faible
+315,Ondes,32,3,10,0.3,Faible
+315,Acides et bases,24,2,10,0.3,Faible
+315,Réactions chimiques,35,4,10,1.1,Faible
+315,Chimie organique,56,6,10,1.0,Moyen
+316,Nombres réels,71,7,10,1.9,Bon
+316,Suites,32,3,10,1.4,Faible
+316,Limites,48,5,10,1.7,Faible
+316,Dérivation,37,4,10,0.8,Faible
+316,Électricité,89,9,10,0.4,Excellent
+316,Mécanique,32,3,10,0.8,Faible
+316,Ondes,80,8,10,0.6,Bon
+316,Acides et bases,21,2,10,1.1,Faible
+316,Réactions chimiques,61,6,10,1.8,Moyen
+316,Chimie organique,66,7,10,1.2,Moyen
+317,Nombres réels,79,8,10,0.6,Bon
+317,Suites,41,4,10,1.2,Faible
+317,Limites,60,6,10,1.5,Moyen
+317,Dérivation,97,10,10,1.7,Excellent
+317,Électricité,93,9,10,0.3,Excellent
+317,Mécanique,36,4,10,0.8,Faible
+317,Ondes,80,8,10,1.5,Bon
+317,Acides et bases,77,8,10,1.6,Bon
+317,Réactions chimiques,95,10,10,1.1,Excellent
+317,Chimie organique,25,2,10,0.7,Faible
+318,Nombres réels,55,6,10,0.9,Moyen
+318,Suites,92,9,10,0.5,Excellent
+318,Limites,80,8,10,0.4,Bon
+318,Dérivation,81,8,10,0.5,Bon
+318,Électricité,41,4,10,1.4,Faible
+318,Mécanique,75,8,10,0.9,Bon
+318,Ondes,75,8,10,0.8,Bon
+318,Acides et bases,26,3,10,1.4,Faible
+318,Réactions chimiques,70,7,10,1.3,Bon
+318,Chimie organique,92,9,10,1.0,Excellent
+319,Nombres réels,80,8,10,1.7,Bon
+319,Suites,70,7,10,1.2,Bon
+319,Limites,43,4,10,1.0,Faible
+319,Dérivation,41,4,10,1.5,Faible
+319,Électricité,21,2,10,0.5,Faible
+319,Mécanique,81,8,10,1.6,Bon
+319,Ondes,91,9,10,1.5,Excellent
+319,Acides et bases,53,5,10,1.5,Moyen
+319,Réactions chimiques,58,6,10,1.2,Moyen
+319,Chimie organique,85,8,10,1.0,Excellent
+320,Nombres réels,92,9,10,1.2,Excellent
+320,Suites,79,8,10,0.4,Bon
+320,Limites,47,5,10,1.6,Faible
+320,Dérivation,48,5,10,0.7,Faible
+320,Électricité,25,2,10,0.9,Faible
+320,Mécanique,95,10,10,1.2,Excellent
+320,Ondes,42,4,10,1.0,Faible
+320,Acides et bases,31,3,10,0.5,Faible
+320,Réactions chimiques,31,3,10,0.6,Faible
+320,Chimie organique,73,7,10,1.4,Bon
+321,Nombres réels,46,5,10,0.3,Faible
+321,Suites,50,5,10,0.7,Moyen
+321,Limites,27,3,10,1.6,Faible
+321,Dérivation,91,9,10,1.6,Excellent
+321,Électricité,67,7,10,0.7,Moyen
+321,Mécanique,63,6,10,0.5,Moyen
+321,Ondes,21,2,10,1.4,Faible
+321,Acides et bases,83,8,10,1.4,Bon
+321,Réactions chimiques,25,2,10,1.1,Faible
+321,Chimie organique,72,7,10,0.6,Bon
+322,Nombres réels,20,2,10,0.6,Faible
+322,Suites,68,7,10,0.8,Moyen
+322,Limites,67,7,10,1.9,Moyen
+322,Dérivation,73,7,10,0.8,Bon
+322,Électricité,73,7,10,1.0,Bon
+322,Mécanique,20,2,10,0.8,Faible
+322,Ondes,51,5,10,1.1,Moyen
+322,Acides et bases,36,4,10,1.0,Faible
+322,Réactions chimiques,74,7,10,1.4,Bon
+322,Chimie organique,34,3,10,1.2,Faible
+323,Nombres réels,77,8,10,1.2,Bon
+323,Suites,94,9,10,1.2,Excellent
+323,Limites,38,4,10,0.6,Faible
+323,Dérivation,56,6,10,1.8,Moyen
+323,Électricité,20,2,10,0.6,Faible
+323,Mécanique,37,4,10,1.1,Faible
+323,Ondes,52,5,10,1.9,Moyen
+323,Acides et bases,52,5,10,0.8,Moyen
+323,Réactions chimiques,55,6,10,0.4,Moyen
+323,Chimie organique,100,10,10,0.2,Excellent
+324,Nombres réels,74,7,10,0.3,Bon
+324,Suites,35,4,10,0.8,Faible
+324,Limites,44,4,10,0.4,Faible
+324,Dérivation,88,9,10,0.4,Excellent
+324,Électricité,84,8,10,1.9,Bon
+324,Mécanique,26,3,10,1.5,Faible
+324,Ondes,76,8,10,1.8,Bon
+324,Acides et bases,56,6,10,1.4,Moyen
+324,Réactions chimiques,82,8,10,1.4,Bon
+324,Chimie organique,97,10,10,1.2,Excellent
+325,Nombres réels,83,8,10,0.9,Bon
+325,Suites,96,10,10,1.9,Excellent
+325,Limites,21,2,10,0.7,Faible
+325,Dérivation,23,2,10,1.9,Faible
+325,Électricité,48,5,10,1.4,Faible
+325,Mécanique,20,2,10,1.5,Faible
+325,Ondes,22,2,10,0.8,Faible
+325,Acides et bases,92,9,10,1.1,Excellent
+325,Réactions chimiques,35,4,10,1.8,Faible
+325,Chimie organique,25,2,10,0.2,Faible
+326,Nombres réels,29,3,10,1.4,Faible
+326,Suites,43,4,10,0.9,Faible
+326,Limites,83,8,10,1.1,Bon
+326,Dérivation,37,4,10,0.7,Faible
+326,Électricité,76,8,10,1.7,Bon
+326,Mécanique,71,7,10,1.3,Bon
+326,Ondes,38,4,10,0.7,Faible
+326,Acides et bases,69,7,10,0.8,Moyen
+326,Réactions chimiques,66,7,10,0.6,Moyen
+326,Chimie organique,63,6,10,1.7,Moyen
+327,Nombres réels,58,6,10,1.3,Moyen
+327,Suites,36,4,10,1.3,Faible
+327,Limites,62,6,10,1.1,Moyen
+327,Dérivation,37,4,10,1.7,Faible
+327,Électricité,99,10,10,0.9,Excellent
+327,Mécanique,41,4,10,0.5,Faible
+327,Ondes,69,7,10,1.3,Moyen
+327,Acides et bases,23,2,10,0.4,Faible
+327,Réactions chimiques,58,6,10,0.3,Moyen
+327,Chimie organique,43,4,10,1.6,Faible
+328,Nombres réels,46,5,10,0.3,Faible
+328,Suites,63,6,10,1.7,Moyen
+328,Limites,84,8,10,1.2,Bon
+328,Dérivation,58,6,10,1.6,Moyen
+328,Électricité,78,8,10,0.9,Bon
+328,Mécanique,84,8,10,1.0,Bon
+328,Ondes,94,9,10,1.0,Excellent
+328,Acides et bases,25,2,10,1.0,Faible
+328,Réactions chimiques,37,4,10,1.7,Faible
+328,Chimie organique,86,9,10,1.7,Excellent
+329,Nombres réels,31,3,10,0.7,Faible
+329,Suites,78,8,10,1.0,Bon
+329,Limites,34,3,10,0.7,Faible
+329,Dérivation,20,2,10,0.4,Faible
+329,Électricité,72,7,10,1.3,Bon
+329,Mécanique,40,4,10,1.5,Faible
+329,Ondes,50,5,10,0.2,Moyen
+329,Acides et bases,55,6,10,1.9,Moyen
+329,Réactions chimiques,97,10,10,0.5,Excellent
+329,Chimie organique,88,9,10,1.1,Excellent
+330,Nombres réels,72,7,10,1.9,Bon
+330,Suites,29,3,10,0.8,Faible
+330,Limites,57,6,10,1.7,Moyen
+330,Dérivation,92,9,10,1.3,Excellent
+330,Électricité,25,2,10,1.5,Faible
+330,Mécanique,84,8,10,1.5,Bon
+330,Ondes,47,5,10,1.5,Faible
+330,Acides et bases,79,8,10,1.8,Bon
+330,Réactions chimiques,35,4,10,0.7,Faible
+330,Chimie organique,97,10,10,1.5,Excellent
+331,Nombres réels,56,6,10,1.0,Moyen
+331,Suites,75,8,10,0.7,Bon
+331,Limites,29,3,10,1.6,Faible
+331,Dérivation,89,9,10,0.8,Excellent
+331,Électricité,39,4,10,0.5,Faible
+331,Mécanique,41,4,10,1.5,Faible
+331,Ondes,90,9,10,0.4,Excellent
+331,Acides et bases,45,4,10,0.5,Faible
+331,Réactions chimiques,42,4,10,1.2,Faible
+331,Chimie organique,35,4,10,1.3,Faible
+332,Nombres réels,92,9,10,1.5,Excellent
+332,Suites,48,5,10,1.5,Faible
+332,Limites,20,2,10,1.3,Faible
+332,Dérivation,59,6,10,0.8,Moyen
+332,Électricité,45,4,10,1.6,Faible
+332,Mécanique,35,4,10,1.3,Faible
+332,Ondes,49,5,10,0.8,Faible
+332,Acides et bases,20,2,10,1.3,Faible
+332,Réactions chimiques,94,9,10,0.6,Excellent
+332,Chimie organique,99,10,10,1.4,Excellent
+333,Nombres réels,73,7,10,0.5,Bon
+333,Suites,76,8,10,1.5,Bon
+333,Limites,20,2,10,0.4,Faible
+333,Dérivation,65,6,10,0.6,Moyen
+333,Électricité,64,6,10,1.5,Moyen
+333,Mécanique,88,9,10,1.8,Excellent
+333,Ondes,40,4,10,1.8,Faible
+333,Acides et bases,98,10,10,0.3,Excellent
+333,Réactions chimiques,53,5,10,0.9,Moyen
+333,Chimie organique,67,7,10,1.8,Moyen
+334,Nombres réels,100,10,10,0.9,Excellent
+334,Suites,75,8,10,0.4,Bon
+334,Limites,30,3,10,0.7,Faible
+334,Dérivation,24,2,10,1.5,Faible
+334,Électricité,95,10,10,1.6,Excellent
+334,Mécanique,77,8,10,0.9,Bon
+334,Ondes,92,9,10,0.2,Excellent
+334,Acides et bases,100,10,10,0.4,Excellent
+334,Réactions chimiques,27,3,10,0.2,Faible
+334,Chimie organique,39,4,10,0.9,Faible
+335,Nombres réels,25,2,10,1.6,Faible
+335,Suites,98,10,10,0.7,Excellent
+335,Limites,50,5,10,0.4,Moyen
+335,Dérivation,30,3,10,1.6,Faible
+335,Électricité,24,2,10,1.2,Faible
+335,Mécanique,69,7,10,0.2,Moyen
+335,Ondes,27,3,10,1.3,Faible
+335,Acides et bases,44,4,10,0.4,Faible
+335,Réactions chimiques,68,7,10,1.0,Moyen
+335,Chimie organique,40,4,10,0.3,Faible
+336,Nombres réels,68,7,10,1.5,Moyen
+336,Suites,31,3,10,0.7,Faible
+336,Limites,58,6,10,1.8,Moyen
+336,Dérivation,20,2,10,1.3,Faible
+336,Électricité,44,4,10,0.5,Faible
+336,Mécanique,73,7,10,1.4,Bon
+336,Ondes,58,6,10,1.1,Moyen
+336,Acides et bases,45,4,10,1.2,Faible
+336,Réactions chimiques,72,7,10,1.8,Bon
+336,Chimie organique,71,7,10,1.3,Bon
+337,Nombres réels,48,5,10,0.3,Faible
+337,Suites,83,8,10,0.7,Bon
+337,Limites,38,4,10,1.6,Faible
+337,Dérivation,47,5,10,0.8,Faible
+337,Électricité,39,4,10,0.2,Faible
+337,Mécanique,31,3,10,1.5,Faible
+337,Ondes,42,4,10,1.4,Faible
+337,Acides et bases,85,8,10,1.0,Excellent
+337,Réactions chimiques,94,9,10,1.5,Excellent
+337,Chimie organique,68,7,10,1.2,Moyen
+338,Nombres réels,46,5,10,0.3,Faible
+338,Suites,50,5,10,2.0,Moyen
+338,Limites,61,6,10,0.5,Moyen
+338,Dérivation,43,4,10,2.0,Faible
+338,Électricité,87,9,10,0.8,Excellent
+338,Mécanique,86,9,10,1.8,Excellent
+338,Ondes,51,5,10,0.2,Moyen
+338,Acides et bases,46,5,10,1.3,Faible
+338,Réactions chimiques,85,8,10,1.7,Excellent
+338,Chimie organique,50,5,10,1.5,Moyen
+339,Nombres réels,86,9,10,1.1,Excellent
+339,Suites,34,3,10,1.9,Faible
+339,Limites,92,9,10,1.1,Excellent
+339,Dérivation,32,3,10,1.5,Faible
+339,Électricité,90,9,10,0.8,Excellent
+339,Mécanique,57,6,10,1.8,Moyen
+339,Ondes,47,5,10,0.7,Faible
+339,Acides et bases,61,6,10,1.1,Moyen
+339,Réactions chimiques,53,5,10,1.2,Moyen
+339,Chimie organique,30,3,10,1.7,Faible
+340,Nombres réels,30,3,10,0.2,Faible
+340,Suites,48,5,10,1.3,Faible
+340,Limites,58,6,10,0.4,Moyen
+340,Dérivation,70,7,10,0.8,Bon
+340,Électricité,60,6,10,1.0,Moyen
+340,Mécanique,49,5,10,0.4,Faible
+340,Ondes,31,3,10,0.6,Faible
+340,Acides et bases,63,6,10,0.4,Moyen
+340,Réactions chimiques,30,3,10,0.3,Faible
+340,Chimie organique,37,4,10,0.5,Faible
+341,Nombres réels,43,4,10,0.6,Faible
+341,Suites,92,9,10,0.8,Excellent
+341,Limites,83,8,10,1.6,Bon
+341,Dérivation,44,4,10,0.3,Faible
+341,Électricité,21,2,10,0.6,Faible
+341,Mécanique,97,10,10,1.3,Excellent
+341,Ondes,88,9,10,0.3,Excellent
+341,Acides et bases,53,5,10,0.7,Moyen
+341,Réactions chimiques,56,6,10,1.4,Moyen
+341,Chimie organique,36,4,10,0.8,Faible
+342,Nombres réels,34,3,10,0.2,Faible
+342,Suites,29,3,10,0.7,Faible
+342,Limites,66,7,10,1.2,Moyen
+342,Dérivation,28,3,10,0.4,Faible
+342,Électricité,27,3,10,1.2,Faible
+342,Mécanique,81,8,10,0.9,Bon
+342,Ondes,94,9,10,0.6,Excellent
+342,Acides et bases,47,5,10,1.9,Faible
+342,Réactions chimiques,82,8,10,0.8,Bon
+342,Chimie organique,96,10,10,0.2,Excellent
+343,Nombres réels,65,6,10,1.2,Moyen
+343,Suites,23,2,10,1.5,Faible
+343,Limites,61,6,10,0.8,Moyen
+343,Dérivation,70,7,10,1.3,Bon
+343,Électricité,59,6,10,0.7,Moyen
+343,Mécanique,62,6,10,1.7,Moyen
+343,Ondes,31,3,10,1.2,Faible
+343,Acides et bases,99,10,10,1.8,Excellent
+343,Réactions chimiques,55,6,10,0.3,Moyen
+343,Chimie organique,76,8,10,0.7,Bon
+344,Nombres réels,81,8,10,1.7,Bon
+344,Suites,20,2,10,0.8,Faible
+344,Limites,58,6,10,0.9,Moyen
+344,Dérivation,34,3,10,1.7,Faible
+344,Électricité,90,9,10,1.0,Excellent
+344,Mécanique,75,8,10,0.9,Bon
+344,Ondes,73,7,10,0.5,Bon
+344,Acides et bases,88,9,10,1.6,Excellent
+344,Réactions chimiques,30,3,10,1.2,Faible
+344,Chimie organique,67,7,10,1.8,Moyen
+345,Nombres réels,54,5,10,0.6,Moyen
+345,Suites,38,4,10,1.0,Faible
+345,Limites,50,5,10,1.9,Moyen
+345,Dérivation,94,9,10,1.7,Excellent
+345,Électricité,87,9,10,0.6,Excellent
+345,Mécanique,71,7,10,0.5,Bon
+345,Ondes,21,2,10,1.0,Faible
+345,Acides et bases,40,4,10,0.2,Faible
+345,Réactions chimiques,26,3,10,0.4,Faible
+345,Chimie organique,57,6,10,1.4,Moyen
+346,Nombres réels,72,7,10,1.0,Bon
+346,Suites,30,3,10,1.9,Faible
+346,Limites,60,6,10,0.9,Moyen
+346,Dérivation,36,4,10,0.8,Faible
+346,Électricité,74,7,10,1.2,Bon
+346,Mécanique,83,8,10,1.4,Bon
+346,Ondes,81,8,10,1.9,Bon
+346,Acides et bases,35,4,10,1.2,Faible
+346,Réactions chimiques,82,8,10,1.7,Bon
+346,Chimie organique,65,6,10,2.0,Moyen
+347,Nombres réels,66,7,10,1.6,Moyen
+347,Suites,52,5,10,1.0,Moyen
+347,Limites,25,2,10,0.9,Faible
+347,Dérivation,97,10,10,1.6,Excellent
+347,Électricité,73,7,10,0.4,Bon
+347,Mécanique,76,8,10,1.9,Bon
+347,Ondes,61,6,10,0.8,Moyen
+347,Acides et bases,71,7,10,0.6,Bon
+347,Réactions chimiques,52,5,10,0.6,Moyen
+347,Chimie organique,98,10,10,0.5,Excellent
+348,Nombres réels,93,9,10,1.0,Excellent
+348,Suites,100,10,10,2.0,Excellent
+348,Limites,61,6,10,0.2,Moyen
+348,Dérivation,90,9,10,1.5,Excellent
+348,Électricité,86,9,10,1.3,Excellent
+348,Mécanique,92,9,10,1.8,Excellent
+348,Ondes,63,6,10,1.9,Moyen
+348,Acides et bases,56,6,10,1.1,Moyen
+348,Réactions chimiques,37,4,10,1.9,Faible
+348,Chimie organique,64,6,10,0.5,Moyen
+349,Nombres réels,32,3,10,1.5,Faible
+349,Suites,62,6,10,1.4,Moyen
+349,Limites,39,4,10,0.9,Faible
+349,Dérivation,86,9,10,1.7,Excellent
+349,Électricité,93,9,10,1.6,Excellent
+349,Mécanique,86,9,10,1.6,Excellent
+349,Ondes,25,2,10,1.5,Faible
+349,Acides et bases,99,10,10,1.1,Excellent
+349,Réactions chimiques,52,5,10,1.1,Moyen
+349,Chimie organique,96,10,10,1.9,Excellent
+350,Nombres réels,20,2,10,0.5,Faible
+350,Suites,49,5,10,1.7,Faible
+350,Limites,63,6,10,1.4,Moyen
+350,Dérivation,23,2,10,0.3,Faible
+350,Électricité,95,10,10,1.0,Excellent
+350,Mécanique,35,4,10,0.5,Faible
+350,Ondes,94,9,10,1.5,Excellent
+350,Acides et bases,81,8,10,1.1,Bon
+350,Réactions chimiques,32,3,10,0.7,Faible
+350,Chimie organique,47,5,10,0.5,Faible
+351,Nombres réels,68,7,10,1.3,Moyen
+351,Suites,30,3,10,1.4,Faible
+351,Limites,99,10,10,0.5,Excellent
+351,Dérivation,96,10,10,1.0,Excellent
+351,Électricité,32,3,10,1.2,Faible
+351,Mécanique,35,4,10,0.5,Faible
+351,Ondes,24,2,10,1.2,Faible
+351,Acides et bases,57,6,10,0.4,Moyen
+351,Réactions chimiques,31,3,10,1.7,Faible
+351,Chimie organique,72,7,10,0.2,Bon
+352,Nombres réels,64,6,10,0.6,Moyen
+352,Suites,70,7,10,1.9,Bon
+352,Limites,66,7,10,0.6,Moyen
+352,Dérivation,29,3,10,1.9,Faible
+352,Électricité,49,5,10,0.3,Faible
+352,Mécanique,47,5,10,1.5,Faible
+352,Ondes,78,8,10,1.3,Bon
+352,Acides et bases,43,4,10,1.0,Faible
+352,Réactions chimiques,22,2,10,0.8,Faible
+352,Chimie organique,66,7,10,0.8,Moyen
+353,Nombres réels,78,8,10,0.4,Bon
+353,Suites,40,4,10,0.9,Faible
+353,Limites,48,5,10,0.5,Faible
+353,Dérivation,82,8,10,1.2,Bon
+353,Électricité,60,6,10,1.2,Moyen
+353,Mécanique,96,10,10,1.4,Excellent
+353,Ondes,90,9,10,1.9,Excellent
+353,Acides et bases,87,9,10,1.4,Excellent
+353,Réactions chimiques,91,9,10,1.3,Excellent
+353,Chimie organique,65,6,10,1.7,Moyen
+354,Nombres réels,91,9,10,0.3,Excellent
+354,Suites,31,3,10,0.6,Faible
+354,Limites,76,8,10,0.9,Bon
+354,Dérivation,54,5,10,1.8,Moyen
+354,Électricité,74,7,10,0.7,Bon
+354,Mécanique,35,4,10,1.7,Faible
+354,Ondes,25,2,10,0.5,Faible
+354,Acides et bases,28,3,10,1.3,Faible
+354,Réactions chimiques,33,3,10,1.2,Faible
+354,Chimie organique,32,3,10,1.0,Faible
+355,Nombres réels,84,8,10,1.9,Bon
+355,Suites,27,3,10,0.4,Faible
+355,Limites,82,8,10,0.7,Bon
+355,Dérivation,46,5,10,0.5,Faible
+355,Électricité,80,8,10,1.2,Bon
+355,Mécanique,83,8,10,1.4,Bon
+355,Ondes,28,3,10,0.2,Faible
+355,Acides et bases,92,9,10,1.8,Excellent
+355,Réactions chimiques,81,8,10,1.9,Bon
+355,Chimie organique,49,5,10,1.6,Faible
+356,Nombres réels,24,2,10,1.0,Faible
+356,Suites,28,3,10,0.8,Faible
+356,Limites,45,4,10,0.3,Faible
+356,Dérivation,90,9,10,1.2,Excellent
+356,Électricité,92,9,10,0.9,Excellent
+356,Mécanique,85,8,10,1.9,Excellent
+356,Ondes,37,4,10,0.6,Faible
+356,Acides et bases,52,5,10,1.7,Moyen
+356,Réactions chimiques,37,4,10,0.8,Faible
+356,Chimie organique,70,7,10,1.0,Bon
+357,Nombres réels,99,10,10,0.7,Excellent
+357,Suites,38,4,10,1.5,Faible
+357,Limites,25,2,10,0.7,Faible
+357,Dérivation,60,6,10,0.6,Moyen
+357,Électricité,91,9,10,1.9,Excellent
+357,Mécanique,91,9,10,0.7,Excellent
+357,Ondes,99,10,10,1.6,Excellent
+357,Acides et bases,48,5,10,0.6,Faible
+357,Réactions chimiques,70,7,10,0.7,Bon
+357,Chimie organique,24,2,10,2.0,Faible
+358,Nombres réels,63,6,10,1.1,Moyen
+358,Suites,31,3,10,1.6,Faible
+358,Limites,98,10,10,1.5,Excellent
+358,Dérivation,75,8,10,0.5,Bon
+358,Électricité,96,10,10,1.4,Excellent
+358,Mécanique,96,10,10,0.6,Excellent
+358,Ondes,43,4,10,0.6,Faible
+358,Acides et bases,54,5,10,1.3,Moyen
+358,Réactions chimiques,79,8,10,1.7,Bon
+358,Chimie organique,82,8,10,1.0,Bon
+359,Nombres réels,40,4,10,1.7,Faible
+359,Suites,34,3,10,1.7,Faible
+359,Limites,82,8,10,1.4,Bon
+359,Dérivation,31,3,10,1.2,Faible
+359,Électricité,86,9,10,1.8,Excellent
+359,Mécanique,99,10,10,1.2,Excellent
+359,Ondes,56,6,10,0.8,Moyen
+359,Acides et bases,46,5,10,0.4,Faible
+359,Réactions chimiques,62,6,10,1.4,Moyen
+359,Chimie organique,86,9,10,0.7,Excellent
+360,Nombres réels,42,4,10,0.8,Faible
+360,Suites,89,9,10,1.4,Excellent
+360,Limites,31,3,10,0.5,Faible
+360,Dérivation,88,9,10,0.9,Excellent
+360,Électricité,78,8,10,0.4,Bon
+360,Mécanique,60,6,10,1.4,Moyen
+360,Ondes,72,7,10,1.8,Bon
+360,Acides et bases,76,8,10,1.2,Bon
+360,Réactions chimiques,32,3,10,1.8,Faible
+360,Chimie organique,26,3,10,1.7,Faible
+361,Nombres réels,44,4,10,0.5,Faible
+361,Suites,64,6,10,1.9,Moyen
+361,Limites,51,5,10,1.5,Moyen
+361,Dérivation,50,5,10,1.4,Moyen
+361,Électricité,54,5,10,0.5,Moyen
+361,Mécanique,84,8,10,0.7,Bon
+361,Ondes,89,9,10,0.6,Excellent
+361,Acides et bases,96,10,10,1.2,Excellent
+361,Réactions chimiques,68,7,10,0.7,Moyen
+361,Chimie organique,75,8,10,0.8,Bon
+362,Nombres réels,28,3,10,2.0,Faible
+362,Suites,81,8,10,0.5,Bon
+362,Limites,73,7,10,0.7,Bon
+362,Dérivation,33,3,10,1.8,Faible
+362,Électricité,90,9,10,0.4,Excellent
+362,Mécanique,73,7,10,1.7,Bon
+362,Ondes,95,10,10,0.6,Excellent
+362,Acides et bases,42,4,10,1.6,Faible
+362,Réactions chimiques,21,2,10,1.0,Faible
+362,Chimie organique,23,2,10,0.7,Faible
+363,Nombres réels,21,2,10,0.6,Faible
+363,Suites,93,9,10,1.2,Excellent
+363,Limites,56,6,10,1.0,Moyen
+363,Dérivation,31,3,10,0.4,Faible
+363,Électricité,65,6,10,1.2,Moyen
+363,Mécanique,73,7,10,1.9,Bon
+363,Ondes,47,5,10,1.6,Faible
+363,Acides et bases,85,8,10,1.3,Excellent
+363,Réactions chimiques,33,3,10,0.3,Faible
+363,Chimie organique,66,7,10,0.6,Moyen
+364,Nombres réels,63,6,10,1.3,Moyen
+364,Suites,72,7,10,1.2,Bon
+364,Limites,100,10,10,2.0,Excellent
+364,Dérivation,56,6,10,1.1,Moyen
+364,Électricité,93,9,10,1.5,Excellent
+364,Mécanique,53,5,10,0.4,Moyen
+364,Ondes,38,4,10,1.5,Faible
+364,Acides et bases,59,6,10,0.4,Moyen
+364,Réactions chimiques,69,7,10,0.5,Moyen
+364,Chimie organique,46,5,10,0.7,Faible
+365,Nombres réels,47,5,10,1.9,Faible
+365,Suites,42,4,10,1.4,Faible
+365,Limites,67,7,10,0.6,Moyen
+365,Dérivation,35,4,10,0.8,Faible
+365,Électricité,83,8,10,1.8,Bon
+365,Mécanique,41,4,10,0.8,Faible
+365,Ondes,33,3,10,1.8,Faible
+365,Acides et bases,43,4,10,1.9,Faible
+365,Réactions chimiques,100,10,10,1.4,Excellent
+365,Chimie organique,80,8,10,1.9,Bon
+366,Nombres réels,33,3,10,1.7,Faible
+366,Suites,88,9,10,0.9,Excellent
+366,Limites,59,6,10,0.9,Moyen
+366,Dérivation,41,4,10,1.6,Faible
+366,Électricité,22,2,10,1.9,Faible
+366,Mécanique,77,8,10,0.6,Bon
+366,Ondes,94,9,10,0.8,Excellent
+366,Acides et bases,93,9,10,1.4,Excellent
+366,Réactions chimiques,58,6,10,1.9,Moyen
+366,Chimie organique,48,5,10,0.3,Faible
+367,Nombres réels,72,7,10,0.4,Bon
+367,Suites,32,3,10,0.4,Faible
+367,Limites,43,4,10,0.9,Faible
+367,Dérivation,39,4,10,0.7,Faible
+367,Électricité,69,7,10,0.7,Moyen
+367,Mécanique,43,4,10,1.6,Faible
+367,Ondes,36,4,10,0.8,Faible
+367,Acides et bases,57,6,10,1.7,Moyen
+367,Réactions chimiques,33,3,10,0.7,Faible
+367,Chimie organique,94,9,10,1.4,Excellent
+368,Nombres réels,38,4,10,1.8,Faible
+368,Suites,77,8,10,1.9,Bon
+368,Limites,78,8,10,0.2,Bon
+368,Dérivation,82,8,10,1.2,Bon
+368,Électricité,76,8,10,1.4,Bon
+368,Mécanique,55,6,10,2.0,Moyen
+368,Ondes,70,7,10,1.0,Bon
+368,Acides et bases,51,5,10,1.2,Moyen
+368,Réactions chimiques,35,4,10,1.3,Faible
+368,Chimie organique,58,6,10,0.6,Moyen
+369,Nombres réels,88,9,10,1.5,Excellent
+369,Suites,43,4,10,1.3,Faible
+369,Limites,67,7,10,0.2,Moyen
+369,Dérivation,25,2,10,0.7,Faible
+369,Électricité,30,3,10,0.5,Faible
+369,Mécanique,72,7,10,1.1,Bon
+369,Ondes,40,4,10,1.4,Faible
+369,Acides et bases,25,2,10,1.3,Faible
+369,Réactions chimiques,95,10,10,0.7,Excellent
+369,Chimie organique,46,5,10,0.8,Faible
+370,Nombres réels,65,6,10,0.6,Moyen
+370,Suites,93,9,10,0.3,Excellent
+370,Limites,21,2,10,0.3,Faible
+370,Dérivation,32,3,10,0.5,Faible
+370,Électricité,76,8,10,1.7,Bon
+370,Mécanique,92,9,10,1.5,Excellent
+370,Ondes,40,4,10,0.5,Faible
+370,Acides et bases,83,8,10,0.6,Bon
+370,Réactions chimiques,67,7,10,1.5,Moyen
+370,Chimie organique,53,5,10,0.4,Moyen
+371,Nombres réels,45,4,10,1.6,Faible
+371,Suites,23,2,10,1.6,Faible
+371,Limites,40,4,10,0.5,Faible
+371,Dérivation,83,8,10,1.4,Bon
+371,Électricité,26,3,10,0.4,Faible
+371,Mécanique,75,8,10,0.8,Bon
+371,Ondes,39,4,10,0.4,Faible
+371,Acides et bases,74,7,10,1.7,Bon
+371,Réactions chimiques,67,7,10,1.9,Moyen
+371,Chimie organique,43,4,10,0.6,Faible
+372,Nombres réels,90,9,10,1.7,Excellent
+372,Suites,70,7,10,0.3,Bon
+372,Limites,72,7,10,0.5,Bon
+372,Dérivation,100,10,10,0.6,Excellent
+372,Électricité,90,9,10,1.4,Excellent
+372,Mécanique,52,5,10,0.5,Moyen
+372,Ondes,26,3,10,1.9,Faible
+372,Acides et bases,91,9,10,1.8,Excellent
+372,Réactions chimiques,57,6,10,0.8,Moyen
+372,Chimie organique,83,8,10,1.9,Bon
+373,Nombres réels,67,7,10,1.5,Moyen
+373,Suites,44,4,10,1.2,Faible
+373,Limites,29,3,10,0.2,Faible
+373,Dérivation,48,5,10,1.0,Faible
+373,Électricité,87,9,10,2.0,Excellent
+373,Mécanique,75,8,10,0.4,Bon
+373,Ondes,55,6,10,0.6,Moyen
+373,Acides et bases,39,4,10,1.7,Faible
+373,Réactions chimiques,41,4,10,0.7,Faible
+373,Chimie organique,34,3,10,1.9,Faible
+374,Nombres réels,62,6,10,0.8,Moyen
+374,Suites,38,4,10,0.6,Faible
+374,Limites,70,7,10,0.7,Bon
+374,Dérivation,63,6,10,2.0,Moyen
+374,Électricité,34,3,10,0.9,Faible
+374,Mécanique,94,9,10,1.6,Excellent
+374,Ondes,20,2,10,0.7,Faible
+374,Acides et bases,37,4,10,1.1,Faible
+374,Réactions chimiques,60,6,10,0.5,Moyen
+374,Chimie organique,70,7,10,0.6,Bon
+375,Nombres réels,59,6,10,1.0,Moyen
+375,Suites,46,5,10,0.3,Faible
+375,Limites,93,9,10,0.3,Excellent
+375,Dérivation,48,5,10,1.9,Faible
+375,Électricité,31,3,10,1.2,Faible
+375,Mécanique,25,2,10,0.2,Faible
+375,Ondes,93,9,10,1.2,Excellent
+375,Acides et bases,87,9,10,1.4,Excellent
+375,Réactions chimiques,69,7,10,0.9,Moyen
+375,Chimie organique,58,6,10,1.9,Moyen
+376,Nombres réels,22,2,10,0.3,Faible
+376,Suites,40,4,10,1.8,Faible
+376,Limites,78,8,10,1.6,Bon
+376,Dérivation,97,10,10,1.0,Excellent
+376,Électricité,99,10,10,0.5,Excellent
+376,Mécanique,89,9,10,1.4,Excellent
+376,Ondes,29,3,10,1.6,Faible
+376,Acides et bases,100,10,10,1.5,Excellent
+376,Réactions chimiques,60,6,10,1.8,Moyen
+376,Chimie organique,87,9,10,1.5,Excellent
+377,Nombres réels,84,8,10,0.9,Bon
+377,Suites,44,4,10,1.8,Faible
+377,Limites,32,3,10,1.8,Faible
+377,Dérivation,48,5,10,1.1,Faible
+377,Électricité,60,6,10,1.1,Moyen
+377,Mécanique,100,10,10,1.7,Excellent
+377,Ondes,36,4,10,1.4,Faible
+377,Acides et bases,87,9,10,1.7,Excellent
+377,Réactions chimiques,21,2,10,2.0,Faible
+377,Chimie organique,94,9,10,1.3,Excellent
+378,Nombres réels,33,3,10,0.4,Faible
+378,Suites,82,8,10,0.9,Bon
+378,Limites,55,6,10,1.9,Moyen
+378,Dérivation,37,4,10,0.3,Faible
+378,Électricité,100,10,10,1.9,Excellent
+378,Mécanique,40,4,10,0.5,Faible
+378,Ondes,63,6,10,1.1,Moyen
+378,Acides et bases,93,9,10,1.4,Excellent
+378,Réactions chimiques,99,10,10,0.3,Excellent
+378,Chimie organique,76,8,10,0.2,Bon
+379,Nombres réels,56,6,10,1.0,Moyen
+379,Suites,53,5,10,1.8,Moyen
+379,Limites,65,6,10,0.6,Moyen
+379,Dérivation,68,7,10,1.1,Moyen
+379,Électricité,82,8,10,1.9,Bon
+379,Mécanique,97,10,10,0.9,Excellent
+379,Ondes,21,2,10,1.0,Faible
+379,Acides et bases,28,3,10,0.4,Faible
+379,Réactions chimiques,46,5,10,0.3,Faible
+379,Chimie organique,29,3,10,1.8,Faible
+380,Nombres réels,26,3,10,1.7,Faible
+380,Suites,34,3,10,0.4,Faible
+380,Limites,47,5,10,0.2,Faible
+380,Dérivation,51,5,10,1.9,Moyen
+380,Électricité,87,9,10,0.4,Excellent
+380,Mécanique,45,4,10,1.5,Faible
+380,Ondes,77,8,10,1.0,Bon
+380,Acides et bases,38,4,10,0.8,Faible
+380,Réactions chimiques,51,5,10,0.9,Moyen
+380,Chimie organique,90,9,10,1.2,Excellent
+381,Nombres réels,21,2,10,0.7,Faible
+381,Suites,56,6,10,1.2,Moyen
+381,Limites,78,8,10,1.8,Bon
+381,Dérivation,40,4,10,1.5,Faible
+381,Électricité,42,4,10,1.3,Faible
+381,Mécanique,53,5,10,1.1,Moyen
+381,Ondes,84,8,10,1.4,Bon
+381,Acides et bases,63,6,10,0.3,Moyen
+381,Réactions chimiques,78,8,10,1.7,Bon
+381,Chimie organique,97,10,10,1.2,Excellent
+382,Nombres réels,47,5,10,0.8,Faible
+382,Suites,52,5,10,1.1,Moyen
+382,Limites,78,8,10,1.8,Bon
+382,Dérivation,83,8,10,1.5,Bon
+382,Électricité,65,6,10,1.1,Moyen
+382,Mécanique,73,7,10,1.2,Bon
+382,Ondes,72,7,10,0.8,Bon
+382,Acides et bases,98,10,10,0.7,Excellent
+382,Réactions chimiques,47,5,10,1.7,Faible
+382,Chimie organique,53,5,10,1.5,Moyen
+383,Nombres réels,73,7,10,1.2,Bon
+383,Suites,47,5,10,2.0,Faible
+383,Limites,80,8,10,1.0,Bon
+383,Dérivation,92,9,10,1.1,Excellent
+383,Électricité,81,8,10,0.6,Bon
+383,Mécanique,24,2,10,0.5,Faible
+383,Ondes,79,8,10,1.2,Bon
+383,Acides et bases,46,5,10,1.5,Faible
+383,Réactions chimiques,25,2,10,1.7,Faible
+383,Chimie organique,45,4,10,1.3,Faible
+384,Nombres réels,23,2,10,0.5,Faible
+384,Suites,82,8,10,1.6,Bon
+384,Limites,30,3,10,1.7,Faible
+384,Dérivation,51,5,10,1.6,Moyen
+384,Électricité,69,7,10,1.3,Moyen
+384,Mécanique,93,9,10,1.8,Excellent
+384,Ondes,29,3,10,1.3,Faible
+384,Acides et bases,60,6,10,1.5,Moyen
+384,Réactions chimiques,54,5,10,1.4,Moyen
+384,Chimie organique,80,8,10,0.2,Bon
+385,Nombres réels,21,2,10,1.0,Faible
+385,Suites,34,3,10,0.6,Faible
+385,Limites,82,8,10,1.1,Bon
+385,Dérivation,83,8,10,1.8,Bon
+385,Électricité,84,8,10,0.7,Bon
+385,Mécanique,72,7,10,0.3,Bon
+385,Ondes,57,6,10,1.7,Moyen
+385,Acides et bases,71,7,10,1.0,Bon
+385,Réactions chimiques,72,7,10,2.0,Bon
+385,Chimie organique,27,3,10,1.3,Faible
+386,Nombres réels,72,7,10,1.1,Bon
+386,Suites,55,6,10,0.6,Moyen
+386,Limites,43,4,10,1.4,Faible
+386,Dérivation,87,9,10,1.1,Excellent
+386,Électricité,52,5,10,1.7,Moyen
+386,Mécanique,38,4,10,1.3,Faible
+386,Ondes,26,3,10,0.4,Faible
+386,Acides et bases,20,2,10,1.3,Faible
+386,Réactions chimiques,46,5,10,1.1,Faible
+386,Chimie organique,91,9,10,0.3,Excellent
+387,Nombres réels,50,5,10,1.7,Moyen
+387,Suites,50,5,10,1.5,Moyen
+387,Limites,75,8,10,1.0,Bon
+387,Dérivation,52,5,10,0.8,Moyen
+387,Électricité,50,5,10,0.5,Moyen
+387,Mécanique,34,3,10,0.3,Faible
+387,Ondes,91,9,10,0.2,Excellent
+387,Acides et bases,62,6,10,1.7,Moyen
+387,Réactions chimiques,25,2,10,0.9,Faible
+387,Chimie organique,34,3,10,1.7,Faible
+388,Nombres réels,61,6,10,1.5,Moyen
+388,Suites,89,9,10,1.1,Excellent
+388,Limites,63,6,10,1.7,Moyen
+388,Dérivation,49,5,10,1.0,Faible
+388,Électricité,84,8,10,1.4,Bon
+388,Mécanique,77,8,10,0.7,Bon
+388,Ondes,29,3,10,0.7,Faible
+388,Acides et bases,62,6,10,0.7,Moyen
+388,Réactions chimiques,31,3,10,0.3,Faible
+388,Chimie organique,76,8,10,1.8,Bon
+389,Nombres réels,42,4,10,0.6,Faible
+389,Suites,50,5,10,1.9,Moyen
+389,Limites,58,6,10,0.5,Moyen
+389,Dérivation,76,8,10,0.6,Bon
+389,Électricité,29,3,10,1.5,Faible
+389,Mécanique,86,9,10,1.2,Excellent
+389,Ondes,92,9,10,0.8,Excellent
+389,Acides et bases,31,3,10,1.8,Faible
+389,Réactions chimiques,95,10,10,0.3,Excellent
+389,Chimie organique,82,8,10,1.9,Bon
+390,Nombres réels,75,8,10,1.9,Bon
+390,Suites,88,9,10,1.8,Excellent
+390,Limites,82,8,10,1.7,Bon
+390,Dérivation,98,10,10,2.0,Excellent
+390,Électricité,46,5,10,1.6,Faible
+390,Mécanique,47,5,10,1.7,Faible
+390,Ondes,28,3,10,1.6,Faible
+390,Acides et bases,72,7,10,1.7,Bon
+390,Réactions chimiques,91,9,10,0.6,Excellent
+390,Chimie organique,33,3,10,0.8,Faible
+391,Nombres réels,91,9,10,1.6,Excellent
+391,Suites,58,6,10,0.5,Moyen
+391,Limites,20,2,10,0.5,Faible
+391,Dérivation,83,8,10,1.4,Bon
+391,Électricité,36,4,10,1.4,Faible
+391,Mécanique,65,6,10,1.1,Moyen
+391,Ondes,34,3,10,1.6,Faible
+391,Acides et bases,83,8,10,1.9,Bon
+391,Réactions chimiques,61,6,10,1.3,Moyen
+391,Chimie organique,99,10,10,1.6,Excellent
+392,Nombres réels,34,3,10,1.5,Faible
+392,Suites,93,9,10,0.8,Excellent
+392,Limites,57,6,10,1.2,Moyen
+392,Dérivation,30,3,10,1.0,Faible
+392,Électricité,74,7,10,0.2,Bon
+392,Mécanique,53,5,10,0.2,Moyen
+392,Ondes,72,7,10,1.8,Bon
+392,Acides et bases,36,4,10,0.8,Faible
+392,Réactions chimiques,20,2,10,1.2,Faible
+392,Chimie organique,64,6,10,0.6,Moyen
+393,Nombres réels,66,7,10,1.4,Moyen
+393,Suites,72,7,10,0.9,Bon
+393,Limites,85,8,10,0.5,Excellent
+393,Dérivation,66,7,10,0.8,Moyen
+393,Électricité,87,9,10,0.5,Excellent
+393,Mécanique,44,4,10,0.2,Faible
+393,Ondes,61,6,10,1.5,Moyen
+393,Acides et bases,37,4,10,0.6,Faible
+393,Réactions chimiques,57,6,10,0.9,Moyen
+393,Chimie organique,81,8,10,1.1,Bon
+394,Nombres réels,64,6,10,0.2,Moyen
+394,Suites,75,8,10,0.7,Bon
+394,Limites,71,7,10,1.5,Bon
+394,Dérivation,30,3,10,0.8,Faible
+394,Électricité,95,10,10,0.3,Excellent
+394,Mécanique,82,8,10,1.9,Bon
+394,Ondes,62,6,10,0.2,Moyen
+394,Acides et bases,24,2,10,0.8,Faible
+394,Réactions chimiques,84,8,10,1.5,Bon
+394,Chimie organique,30,3,10,0.4,Faible
+395,Nombres réels,30,3,10,0.9,Faible
+395,Suites,100,10,10,0.5,Excellent
+395,Limites,32,3,10,0.7,Faible
+395,Dérivation,86,9,10,0.5,Excellent
+395,Électricité,65,6,10,0.2,Moyen
+395,Mécanique,78,8,10,0.7,Bon
+395,Ondes,59,6,10,1.4,Moyen
+395,Acides et bases,78,8,10,1.7,Bon
+395,Réactions chimiques,46,5,10,1.1,Faible
+395,Chimie organique,52,5,10,0.7,Moyen
+396,Nombres réels,76,8,10,0.8,Bon
+396,Suites,22,2,10,1.0,Faible
+396,Limites,32,3,10,1.8,Faible
+396,Dérivation,76,8,10,0.9,Bon
+396,Électricité,25,2,10,1.3,Faible
+396,Mécanique,81,8,10,0.8,Bon
+396,Ondes,52,5,10,1.8,Moyen
+396,Acides et bases,39,4,10,1.0,Faible
+396,Réactions chimiques,66,7,10,1.3,Moyen
+396,Chimie organique,38,4,10,1.3,Faible
+397,Nombres réels,49,5,10,0.6,Faible
+397,Suites,30,3,10,0.9,Faible
+397,Limites,68,7,10,0.5,Moyen
+397,Dérivation,21,2,10,1.0,Faible
+397,Électricité,56,6,10,1.8,Moyen
+397,Mécanique,88,9,10,1.6,Excellent
+397,Ondes,67,7,10,1.3,Moyen
+397,Acides et bases,73,7,10,1.1,Bon
+397,Réactions chimiques,29,3,10,0.9,Faible
+397,Chimie organique,34,3,10,1.8,Faible
+398,Nombres réels,34,3,10,0.5,Faible
+398,Suites,96,10,10,0.7,Excellent
+398,Limites,70,7,10,0.6,Bon
+398,Dérivation,35,4,10,0.3,Faible
+398,Électricité,80,8,10,0.8,Bon
+398,Mécanique,58,6,10,0.9,Moyen
+398,Ondes,66,7,10,1.9,Moyen
+398,Acides et bases,55,6,10,1.7,Moyen
+398,Réactions chimiques,88,9,10,1.4,Excellent
+398,Chimie organique,33,3,10,1.7,Faible
+399,Nombres réels,37,4,10,0.5,Faible
+399,Suites,77,8,10,0.8,Bon
+399,Limites,30,3,10,0.8,Faible
+399,Dérivation,80,8,10,0.2,Bon
+399,Électricité,42,4,10,1.7,Faible
+399,Mécanique,93,9,10,1.3,Excellent
+399,Ondes,80,8,10,0.8,Bon
+399,Acides et bases,72,7,10,1.0,Bon
+399,Réactions chimiques,86,9,10,0.6,Excellent
+399,Chimie organique,61,6,10,0.5,Moyen
+400,Nombres réels,29,3,10,0.9,Faible
+400,Suites,82,8,10,0.7,Bon
+400,Limites,67,7,10,0.9,Moyen
+400,Dérivation,54,5,10,1.6,Moyen
+400,Électricité,37,4,10,1.2,Faible
+400,Mécanique,90,9,10,1.1,Excellent
+400,Ondes,63,6,10,1.4,Moyen
+400,Acides et bases,69,7,10,1.0,Moyen
+400,Réactions chimiques,79,8,10,1.9,Bon
+400,Chimie organique,51,5,10,0.6,Moyen
+401,Nombres réels,67,7,10,1.5,Moyen
+401,Suites,91,9,10,1.1,Excellent
+401,Limites,82,8,10,0.6,Bon
+401,Dérivation,49,5,10,0.8,Faible
+401,Électricité,62,6,10,0.6,Moyen
+401,Mécanique,74,7,10,0.3,Bon
+401,Ondes,31,3,10,0.6,Faible
+401,Acides et bases,83,8,10,0.5,Bon
+401,Réactions chimiques,22,2,10,0.7,Faible
+401,Chimie organique,45,4,10,1.3,Faible
+402,Nombres réels,79,8,10,0.9,Bon
+402,Suites,64,6,10,1.4,Moyen
+402,Limites,69,7,10,1.4,Moyen
+402,Dérivation,22,2,10,1.3,Faible
+402,Électricité,67,7,10,1.7,Moyen
+402,Mécanique,76,8,10,0.9,Bon
+402,Ondes,57,6,10,1.6,Moyen
+402,Acides et bases,20,2,10,1.2,Faible
+402,Réactions chimiques,98,10,10,1.4,Excellent
+402,Chimie organique,44,4,10,0.5,Faible
+403,Nombres réels,21,2,10,1.8,Faible
+403,Suites,57,6,10,0.4,Moyen
+403,Limites,92,9,10,0.8,Excellent
+403,Dérivation,96,10,10,0.3,Excellent
+403,Électricité,27,3,10,1.5,Faible
+403,Mécanique,88,9,10,2.0,Excellent
+403,Ondes,33,3,10,1.6,Faible
+403,Acides et bases,24,2,10,1.3,Faible
+403,Réactions chimiques,98,10,10,1.3,Excellent
+403,Chimie organique,81,8,10,0.4,Bon
+404,Nombres réels,51,5,10,0.2,Moyen
+404,Suites,93,9,10,0.2,Excellent
+404,Limites,95,10,10,0.3,Excellent
+404,Dérivation,80,8,10,0.3,Bon
+404,Électricité,66,7,10,0.9,Moyen
+404,Mécanique,23,2,10,0.6,Faible
+404,Ondes,80,8,10,0.5,Bon
+404,Acides et bases,74,7,10,1.9,Bon
+404,Réactions chimiques,55,6,10,1.8,Moyen
+404,Chimie organique,95,10,10,0.2,Excellent
+405,Nombres réels,84,8,10,1.1,Bon
+405,Suites,93,9,10,1.5,Excellent
+405,Limites,38,4,10,1.6,Faible
+405,Dérivation,44,4,10,1.1,Faible
+405,Électricité,87,9,10,0.2,Excellent
+405,Mécanique,94,9,10,1.2,Excellent
+405,Ondes,35,4,10,1.4,Faible
+405,Acides et bases,79,8,10,1.8,Bon
+405,Réactions chimiques,40,4,10,0.4,Faible
+405,Chimie organique,57,6,10,1.7,Moyen
+406,Nombres réels,69,7,10,1.5,Moyen
+406,Suites,72,7,10,2.0,Bon
+406,Limites,80,8,10,1.5,Bon
+406,Dérivation,58,6,10,1.7,Moyen
+406,Électricité,34,3,10,0.6,Faible
+406,Mécanique,21,2,10,1.6,Faible
+406,Ondes,77,8,10,0.2,Bon
+406,Acides et bases,47,5,10,1.2,Faible
+406,Réactions chimiques,81,8,10,0.9,Bon
+406,Chimie organique,53,5,10,1.6,Moyen
+407,Nombres réels,67,7,10,0.8,Moyen
+407,Suites,58,6,10,0.6,Moyen
+407,Limites,42,4,10,0.8,Faible
+407,Dérivation,61,6,10,2.0,Moyen
+407,Électricité,61,6,10,0.6,Moyen
+407,Mécanique,81,8,10,0.5,Bon
+407,Ondes,35,4,10,1.1,Faible
+407,Acides et bases,25,2,10,1.9,Faible
+407,Réactions chimiques,48,5,10,1.3,Faible
+407,Chimie organique,32,3,10,0.3,Faible
+408,Nombres réels,90,9,10,1.2,Excellent
+408,Suites,20,2,10,1.4,Faible
+408,Limites,84,8,10,1.3,Bon
+408,Dérivation,87,9,10,1.0,Excellent
+408,Électricité,37,4,10,0.6,Faible
+408,Mécanique,69,7,10,1.2,Moyen
+408,Ondes,81,8,10,0.3,Bon
+408,Acides et bases,69,7,10,1.4,Moyen
+408,Réactions chimiques,64,6,10,0.4,Moyen
+408,Chimie organique,67,7,10,2.0,Moyen
+409,Nombres réels,100,10,10,1.9,Excellent
+409,Suites,80,8,10,1.4,Bon
+409,Limites,33,3,10,2.0,Faible
+409,Dérivation,96,10,10,1.8,Excellent
+409,Électricité,53,5,10,1.6,Moyen
+409,Mécanique,54,5,10,0.4,Moyen
+409,Ondes,33,3,10,1.4,Faible
+409,Acides et bases,78,8,10,0.4,Bon
+409,Réactions chimiques,80,8,10,0.5,Bon
+409,Chimie organique,22,2,10,1.0,Faible
+410,Nombres réels,24,2,10,1.7,Faible
+410,Suites,36,4,10,1.6,Faible
+410,Limites,95,10,10,0.6,Excellent
+410,Dérivation,57,6,10,0.8,Moyen
+410,Électricité,49,5,10,0.8,Faible
+410,Mécanique,75,8,10,1.5,Bon
+410,Ondes,37,4,10,1.9,Faible
+410,Acides et bases,77,8,10,1.9,Bon
+410,Réactions chimiques,48,5,10,1.7,Faible
+410,Chimie organique,42,4,10,0.7,Faible
+411,Nombres réels,49,5,10,0.6,Faible
+411,Suites,30,3,10,0.4,Faible
+411,Limites,79,8,10,1.2,Bon
+411,Dérivation,43,4,10,0.8,Faible
+411,Électricité,56,6,10,1.9,Moyen
+411,Mécanique,87,9,10,1.7,Excellent
+411,Ondes,95,10,10,0.7,Excellent
+411,Acides et bases,71,7,10,0.8,Bon
+411,Réactions chimiques,64,6,10,1.3,Moyen
+411,Chimie organique,58,6,10,1.2,Moyen
+412,Nombres réels,89,9,10,0.4,Excellent
+412,Suites,74,7,10,1.1,Bon
+412,Limites,37,4,10,0.6,Faible
+412,Dérivation,21,2,10,0.3,Faible
+412,Électricité,31,3,10,0.9,Faible
+412,Mécanique,44,4,10,0.8,Faible
+412,Ondes,54,5,10,0.3,Moyen
+412,Acides et bases,96,10,10,1.4,Excellent
+412,Réactions chimiques,47,5,10,0.7,Faible
+412,Chimie organique,86,9,10,0.3,Excellent
+413,Nombres réels,73,7,10,1.6,Bon
+413,Suites,93,9,10,1.1,Excellent
+413,Limites,99,10,10,0.4,Excellent
+413,Dérivation,47,5,10,0.6,Faible
+413,Électricité,86,9,10,0.6,Excellent
+413,Mécanique,92,9,10,2.0,Excellent
+413,Ondes,95,10,10,1.1,Excellent
+413,Acides et bases,36,4,10,1.9,Faible
+413,Réactions chimiques,65,6,10,2.0,Moyen
+413,Chimie organique,35,4,10,1.0,Faible
+414,Nombres réels,66,7,10,0.6,Moyen
+414,Suites,37,4,10,1.5,Faible
+414,Limites,49,5,10,1.2,Faible
+414,Dérivation,78,8,10,1.5,Bon
+414,Électricité,81,8,10,0.8,Bon
+414,Mécanique,63,6,10,1.8,Moyen
+414,Ondes,34,3,10,0.9,Faible
+414,Acides et bases,61,6,10,1.4,Moyen
+414,Réactions chimiques,28,3,10,0.6,Faible
+414,Chimie organique,40,4,10,1.1,Faible
+415,Nombres réels,50,5,10,0.4,Moyen
+415,Suites,96,10,10,1.3,Excellent
+415,Limites,36,4,10,1.7,Faible
+415,Dérivation,65,6,10,0.9,Moyen
+415,Électricité,30,3,10,1.7,Faible
+415,Mécanique,86,9,10,0.3,Excellent
+415,Ondes,22,2,10,1.2,Faible
+415,Acides et bases,66,7,10,0.9,Moyen
+415,Réactions chimiques,42,4,10,0.4,Faible
+415,Chimie organique,37,4,10,1.4,Faible
+416,Nombres réels,92,9,10,1.8,Excellent
+416,Suites,94,9,10,0.5,Excellent
+416,Limites,71,7,10,1.4,Bon
+416,Dérivation,67,7,10,0.3,Moyen
+416,Électricité,39,4,10,0.9,Faible
+416,Mécanique,42,4,10,0.4,Faible
+416,Ondes,68,7,10,1.0,Moyen
+416,Acides et bases,71,7,10,0.8,Bon
+416,Réactions chimiques,87,9,10,1.3,Excellent
+416,Chimie organique,35,4,10,0.5,Faible
+417,Nombres réels,54,5,10,1.7,Moyen
+417,Suites,98,10,10,1.8,Excellent
+417,Limites,97,10,10,1.6,Excellent
+417,Dérivation,78,8,10,1.7,Bon
+417,Électricité,29,3,10,1.8,Faible
+417,Mécanique,22,2,10,1.2,Faible
+417,Ondes,75,8,10,1.4,Bon
+417,Acides et bases,30,3,10,1.8,Faible
+417,Réactions chimiques,91,9,10,0.3,Excellent
+417,Chimie organique,76,8,10,0.3,Bon
+418,Nombres réels,92,9,10,1.0,Excellent
+418,Suites,26,3,10,0.2,Faible
+418,Limites,96,10,10,1.4,Excellent
+418,Dérivation,89,9,10,1.7,Excellent
+418,Électricité,93,9,10,0.7,Excellent
+418,Mécanique,98,10,10,0.4,Excellent
+418,Ondes,34,3,10,0.2,Faible
+418,Acides et bases,45,4,10,0.8,Faible
+418,Réactions chimiques,49,5,10,0.4,Faible
+418,Chimie organique,71,7,10,0.3,Bon
+419,Nombres réels,62,6,10,0.6,Moyen
+419,Suites,84,8,10,1.1,Bon
+419,Limites,61,6,10,1.2,Moyen
+419,Dérivation,44,4,10,1.8,Faible
+419,Électricité,28,3,10,1.3,Faible
+419,Mécanique,52,5,10,0.5,Moyen
+419,Ondes,95,10,10,0.6,Excellent
+419,Acides et bases,46,5,10,0.6,Faible
+419,Réactions chimiques,52,5,10,1.4,Moyen
+419,Chimie organique,70,7,10,0.4,Bon
+420,Nombres réels,56,6,10,0.5,Moyen
+420,Suites,77,8,10,1.1,Bon
+420,Limites,46,5,10,2.0,Faible
+420,Dérivation,57,6,10,0.6,Moyen
+420,Électricité,68,7,10,0.4,Moyen
+420,Mécanique,76,8,10,0.8,Bon
+420,Ondes,88,9,10,0.3,Excellent
+420,Acides et bases,49,5,10,0.5,Faible
+420,Réactions chimiques,24,2,10,1.8,Faible
+420,Chimie organique,35,4,10,0.9,Faible
+421,Nombres réels,100,10,10,1.9,Excellent
+421,Suites,40,4,10,1.5,Faible
+421,Limites,41,4,10,1.0,Faible
+421,Dérivation,33,3,10,0.5,Faible
+421,Électricité,70,7,10,1.7,Bon
+421,Mécanique,34,3,10,1.7,Faible
+421,Ondes,72,7,10,1.3,Bon
+421,Acides et bases,33,3,10,0.6,Faible
+421,Réactions chimiques,53,5,10,0.7,Moyen
+421,Chimie organique,25,2,10,1.3,Faible
+422,Nombres réels,92,9,10,0.3,Excellent
+422,Suites,34,3,10,0.9,Faible
+422,Limites,25,2,10,1.8,Faible
+422,Dérivation,95,10,10,1.7,Excellent
+422,Électricité,75,8,10,1.7,Bon
+422,Mécanique,100,10,10,1.4,Excellent
+422,Ondes,99,10,10,1.4,Excellent
+422,Acides et bases,90,9,10,1.8,Excellent
+422,Réactions chimiques,23,2,10,0.4,Faible
+422,Chimie organique,90,9,10,1.2,Excellent
+423,Nombres réels,85,8,10,1.1,Excellent
+423,Suites,40,4,10,1.0,Faible
+423,Limites,51,5,10,1.5,Moyen
+423,Dérivation,55,6,10,1.5,Moyen
+423,Électricité,58,6,10,0.7,Moyen
+423,Mécanique,24,2,10,1.7,Faible
+423,Ondes,52,5,10,1.4,Moyen
+423,Acides et bases,35,4,10,1.8,Faible
+423,Réactions chimiques,42,4,10,1.3,Faible
+423,Chimie organique,92,9,10,1.1,Excellent
+424,Nombres réels,54,5,10,1.7,Moyen
+424,Suites,56,6,10,0.6,Moyen
+424,Limites,33,3,10,1.9,Faible
+424,Dérivation,46,5,10,1.4,Faible
+424,Électricité,45,4,10,1.5,Faible
+424,Mécanique,87,9,10,0.5,Excellent
+424,Ondes,80,8,10,1.0,Bon
+424,Acides et bases,39,4,10,0.4,Faible
+424,Réactions chimiques,64,6,10,1.4,Moyen
+424,Chimie organique,70,7,10,0.3,Bon
+425,Nombres réels,37,4,10,1.9,Faible
+425,Suites,35,4,10,0.2,Faible
+425,Limites,75,8,10,1.0,Bon
+425,Dérivation,96,10,10,1.0,Excellent
+425,Électricité,99,10,10,0.9,Excellent
+425,Mécanique,34,3,10,1.0,Faible
+425,Ondes,77,8,10,1.9,Bon
+425,Acides et bases,62,6,10,1.1,Moyen
+425,Réactions chimiques,55,6,10,1.5,Moyen
+425,Chimie organique,22,2,10,1.0,Faible
+426,Nombres réels,92,9,10,0.9,Excellent
+426,Suites,62,6,10,1.6,Moyen
+426,Limites,100,10,10,1.6,Excellent
+426,Dérivation,49,5,10,0.7,Faible
+426,Électricité,83,8,10,0.4,Bon
+426,Mécanique,61,6,10,0.5,Moyen
+426,Ondes,93,9,10,1.5,Excellent
+426,Acides et bases,64,6,10,0.5,Moyen
+426,Réactions chimiques,85,8,10,1.6,Excellent
+426,Chimie organique,99,10,10,0.7,Excellent
+427,Nombres réels,57,6,10,1.0,Moyen
+427,Suites,93,9,10,1.0,Excellent
+427,Limites,56,6,10,1.2,Moyen
+427,Dérivation,93,9,10,1.4,Excellent
+427,Électricité,40,4,10,1.5,Faible
+427,Mécanique,63,6,10,0.8,Moyen
+427,Ondes,63,6,10,1.6,Moyen
+427,Acides et bases,36,4,10,1.7,Faible
+427,Réactions chimiques,99,10,10,0.3,Excellent
+427,Chimie organique,42,4,10,1.1,Faible
+428,Nombres réels,72,7,10,0.7,Bon
+428,Suites,78,8,10,0.5,Bon
+428,Limites,57,6,10,1.8,Moyen
+428,Dérivation,99,10,10,1.6,Excellent
+428,Électricité,36,4,10,1.4,Faible
+428,Mécanique,22,2,10,1.8,Faible
+428,Ondes,61,6,10,1.7,Moyen
+428,Acides et bases,73,7,10,1.1,Bon
+428,Réactions chimiques,84,8,10,0.5,Bon
+428,Chimie organique,40,4,10,1.5,Faible
+429,Nombres réels,64,6,10,0.6,Moyen
+429,Suites,59,6,10,0.2,Moyen
+429,Limites,28,3,10,0.9,Faible
+429,Dérivation,72,7,10,0.3,Bon
+429,Électricité,46,5,10,0.2,Faible
+429,Mécanique,62,6,10,1.9,Moyen
+429,Ondes,71,7,10,1.9,Bon
+429,Acides et bases,39,4,10,1.3,Faible
+429,Réactions chimiques,96,10,10,0.7,Excellent
+429,Chimie organique,37,4,10,1.7,Faible
+430,Nombres réels,97,10,10,1.0,Excellent
+430,Suites,24,2,10,0.3,Faible
+430,Limites,51,5,10,0.5,Moyen
+430,Dérivation,82,8,10,1.7,Bon
+430,Électricité,72,7,10,1.4,Bon
+430,Mécanique,73,7,10,0.6,Bon
+430,Ondes,91,9,10,1.2,Excellent
+430,Acides et bases,48,5,10,1.9,Faible
+430,Réactions chimiques,21,2,10,1.5,Faible
+430,Chimie organique,66,7,10,1.5,Moyen
+431,Nombres réels,37,4,10,1.3,Faible
+431,Suites,49,5,10,0.8,Faible
+431,Limites,72,7,10,1.5,Bon
+431,Dérivation,74,7,10,0.3,Bon
+431,Électricité,95,10,10,1.3,Excellent
+431,Mécanique,40,4,10,1.6,Faible
+431,Ondes,82,8,10,0.4,Bon
+431,Acides et bases,60,6,10,0.8,Moyen
+431,Réactions chimiques,63,6,10,1.0,Moyen
+431,Chimie organique,50,5,10,1.0,Moyen
+432,Nombres réels,31,3,10,0.5,Faible
+432,Suites,85,8,10,1.7,Excellent
+432,Limites,45,4,10,0.4,Faible
+432,Dérivation,88,9,10,0.9,Excellent
+432,Électricité,22,2,10,1.9,Faible
+432,Mécanique,87,9,10,0.4,Excellent
+432,Ondes,55,6,10,0.9,Moyen
+432,Acides et bases,61,6,10,1.9,Moyen
+432,Réactions chimiques,90,9,10,1.4,Excellent
+432,Chimie organique,68,7,10,1.2,Moyen
+433,Nombres réels,43,4,10,1.9,Faible
+433,Suites,22,2,10,0.9,Faible
+433,Limites,91,9,10,1.0,Excellent
+433,Dérivation,92,9,10,2.0,Excellent
+433,Électricité,95,10,10,2.0,Excellent
+433,Mécanique,75,8,10,0.8,Bon
+433,Ondes,84,8,10,0.4,Bon
+433,Acides et bases,53,5,10,1.8,Moyen
+433,Réactions chimiques,77,8,10,1.2,Bon
+433,Chimie organique,54,5,10,1.4,Moyen
+434,Nombres réels,61,6,10,0.9,Moyen
+434,Suites,57,6,10,1.7,Moyen
+434,Limites,52,5,10,0.5,Moyen
+434,Dérivation,20,2,10,0.5,Faible
+434,Électricité,58,6,10,0.5,Moyen
+434,Mécanique,68,7,10,1.6,Moyen
+434,Ondes,91,9,10,1.9,Excellent
+434,Acides et bases,45,4,10,1.3,Faible
+434,Réactions chimiques,28,3,10,1.8,Faible
+434,Chimie organique,29,3,10,0.4,Faible
+435,Nombres réels,61,6,10,1.3,Moyen
+435,Suites,99,10,10,1.5,Excellent
+435,Limites,21,2,10,1.3,Faible
+435,Dérivation,31,3,10,0.3,Faible
+435,Électricité,39,4,10,1.6,Faible
+435,Mécanique,27,3,10,1.4,Faible
+435,Ondes,99,10,10,1.6,Excellent
+435,Acides et bases,53,5,10,0.5,Moyen
+435,Réactions chimiques,24,2,10,1.8,Faible
+435,Chimie organique,32,3,10,0.7,Faible
+436,Nombres réels,43,4,10,0.6,Faible
+436,Suites,27,3,10,0.7,Faible
+436,Limites,94,9,10,1.4,Excellent
+436,Dérivation,47,5,10,1.6,Faible
+436,Électricité,75,8,10,1.5,Bon
+436,Mécanique,60,6,10,0.9,Moyen
+436,Ondes,85,8,10,1.8,Excellent
+436,Acides et bases,63,6,10,1.9,Moyen
+436,Réactions chimiques,31,3,10,0.6,Faible
+436,Chimie organique,33,3,10,0.4,Faible
+437,Nombres réels,23,2,10,0.4,Faible
+437,Suites,97,10,10,0.7,Excellent
+437,Limites,62,6,10,2.0,Moyen
+437,Dérivation,38,4,10,1.9,Faible
+437,Électricité,97,10,10,0.6,Excellent
+437,Mécanique,20,2,10,2.0,Faible
+437,Ondes,96,10,10,1.0,Excellent
+437,Acides et bases,64,6,10,0.6,Moyen
+437,Réactions chimiques,34,3,10,0.3,Faible
+437,Chimie organique,60,6,10,1.6,Moyen
+438,Nombres réels,60,6,10,0.3,Moyen
+438,Suites,21,2,10,1.3,Faible
+438,Limites,77,8,10,0.3,Bon
+438,Dérivation,61,6,10,1.1,Moyen
+438,Électricité,91,9,10,1.4,Excellent
+438,Mécanique,29,3,10,0.4,Faible
+438,Ondes,52,5,10,1.1,Moyen
+438,Acides et bases,81,8,10,0.5,Bon
+438,Réactions chimiques,40,4,10,1.8,Faible
+438,Chimie organique,47,5,10,0.8,Faible
+439,Nombres réels,95,10,10,0.5,Excellent
+439,Suites,94,9,10,1.5,Excellent
+439,Limites,59,6,10,0.8,Moyen
+439,Dérivation,81,8,10,1.1,Bon
+439,Électricité,30,3,10,1.4,Faible
+439,Mécanique,39,4,10,1.5,Faible
+439,Ondes,93,9,10,2.0,Excellent
+439,Acides et bases,44,4,10,1.7,Faible
+439,Réactions chimiques,73,7,10,0.8,Bon
+439,Chimie organique,79,8,10,0.5,Bon
+440,Nombres réels,48,5,10,1.7,Faible
+440,Suites,50,5,10,2.0,Moyen
+440,Limites,98,10,10,0.5,Excellent
+440,Dérivation,88,9,10,0.6,Excellent
+440,Électricité,89,9,10,1.1,Excellent
+440,Mécanique,94,9,10,2.0,Excellent
+440,Ondes,89,9,10,0.7,Excellent
+440,Acides et bases,26,3,10,1.9,Faible
+440,Réactions chimiques,45,4,10,1.5,Faible
+440,Chimie organique,84,8,10,0.2,Bon
+441,Nombres réels,36,4,10,0.4,Faible
+441,Suites,73,7,10,0.8,Bon
+441,Limites,26,3,10,0.8,Faible
+441,Dérivation,32,3,10,0.6,Faible
+441,Électricité,84,8,10,1.1,Bon
+441,Mécanique,62,6,10,1.8,Moyen
+441,Ondes,94,9,10,0.4,Excellent
+441,Acides et bases,45,4,10,1.8,Faible
+441,Réactions chimiques,49,5,10,1.9,Faible
+441,Chimie organique,99,10,10,1.8,Excellent
+442,Nombres réels,87,9,10,1.9,Excellent
+442,Suites,85,8,10,2.0,Excellent
+442,Limites,45,4,10,1.9,Faible
+442,Dérivation,94,9,10,0.9,Excellent
+442,Électricité,72,7,10,2.0,Bon
+442,Mécanique,29,3,10,0.3,Faible
+442,Ondes,65,6,10,0.9,Moyen
+442,Acides et bases,89,9,10,0.9,Excellent
+442,Réactions chimiques,53,5,10,1.5,Moyen
+442,Chimie organique,71,7,10,1.7,Bon
+443,Nombres réels,63,6,10,0.8,Moyen
+443,Suites,21,2,10,1.0,Faible
+443,Limites,25,2,10,1.1,Faible
+443,Dérivation,95,10,10,1.0,Excellent
+443,Électricité,82,8,10,1.6,Bon
+443,Mécanique,56,6,10,1.8,Moyen
+443,Ondes,82,8,10,0.7,Bon
+443,Acides et bases,93,9,10,1.2,Excellent
+443,Réactions chimiques,74,7,10,1.0,Bon
+443,Chimie organique,26,3,10,0.8,Faible
+444,Nombres réels,25,2,10,1.7,Faible
+444,Suites,49,5,10,0.4,Faible
+444,Limites,86,9,10,1.0,Excellent
+444,Dérivation,26,3,10,0.4,Faible
+444,Électricité,36,4,10,1.4,Faible
+444,Mécanique,56,6,10,0.5,Moyen
+444,Ondes,67,7,10,0.2,Moyen
+444,Acides et bases,74,7,10,0.4,Bon
+444,Réactions chimiques,54,5,10,1.8,Moyen
+444,Chimie organique,25,2,10,2.0,Faible
+445,Nombres réels,23,2,10,0.2,Faible
+445,Suites,91,9,10,1.5,Excellent
+445,Limites,31,3,10,1.0,Faible
+445,Dérivation,27,3,10,1.9,Faible
+445,Électricité,30,3,10,0.7,Faible
+445,Mécanique,80,8,10,0.5,Bon
+445,Ondes,27,3,10,1.6,Faible
+445,Acides et bases,54,5,10,1.8,Moyen
+445,Réactions chimiques,97,10,10,0.9,Excellent
+445,Chimie organique,20,2,10,0.7,Faible
+446,Nombres réels,80,8,10,1.0,Bon
+446,Suites,63,6,10,1.3,Moyen
+446,Limites,97,10,10,0.7,Excellent
+446,Dérivation,88,9,10,1.6,Excellent
+446,Électricité,66,7,10,1.8,Moyen
+446,Mécanique,44,4,10,1.5,Faible
+446,Ondes,85,8,10,1.6,Excellent
+446,Acides et bases,62,6,10,1.2,Moyen
+446,Réactions chimiques,86,9,10,1.8,Excellent
+446,Chimie organique,91,9,10,1.6,Excellent
+447,Nombres réels,76,8,10,0.8,Bon
+447,Suites,67,7,10,1.3,Moyen
+447,Limites,40,4,10,0.9,Faible
+447,Dérivation,80,8,10,0.8,Bon
+447,Électricité,87,9,10,1.1,Excellent
+447,Mécanique,84,8,10,1.3,Bon
+447,Ondes,31,3,10,1.0,Faible
+447,Acides et bases,46,5,10,1.4,Faible
+447,Réactions chimiques,59,6,10,0.7,Moyen
+447,Chimie organique,96,10,10,1.5,Excellent
+448,Nombres réels,32,3,10,1.7,Faible
+448,Suites,35,4,10,0.2,Faible
+448,Limites,56,6,10,1.5,Moyen
+448,Dérivation,79,8,10,1.5,Bon
+448,Électricité,51,5,10,1.6,Moyen
+448,Mécanique,49,5,10,0.3,Faible
+448,Ondes,47,5,10,0.6,Faible
+448,Acides et bases,22,2,10,1.8,Faible
+448,Réactions chimiques,63,6,10,1.2,Moyen
+448,Chimie organique,98,10,10,1.9,Excellent
+449,Nombres réels,31,3,10,1.8,Faible
+449,Suites,67,7,10,1.1,Moyen
+449,Limites,28,3,10,1.6,Faible
+449,Dérivation,48,5,10,0.5,Faible
+449,Électricité,58,6,10,1.5,Moyen
+449,Mécanique,20,2,10,0.5,Faible
+449,Ondes,63,6,10,0.8,Moyen
+449,Acides et bases,48,5,10,1.2,Faible
+449,Réactions chimiques,32,3,10,1.7,Faible
+449,Chimie organique,99,10,10,1.9,Excellent
+450,Nombres réels,37,4,10,1.9,Faible
+450,Suites,99,10,10,0.8,Excellent
+450,Limites,60,6,10,0.8,Moyen
+450,Dérivation,74,7,10,0.6,Bon
+450,Électricité,61,6,10,0.8,Moyen
+450,Mécanique,97,10,10,1.0,Excellent
+450,Ondes,52,5,10,1.1,Moyen
+450,Acides et bases,75,8,10,1.9,Bon
+450,Réactions chimiques,74,7,10,1.8,Bon
+450,Chimie organique,93,9,10,0.7,Excellent
+451,Nombres réels,21,2,10,1.0,Faible
+451,Suites,97,10,10,1.5,Excellent
+451,Limites,41,4,10,1.4,Faible
+451,Dérivation,81,8,10,1.8,Bon
+451,Électricité,75,8,10,1.8,Bon
+451,Mécanique,26,3,10,0.7,Faible
+451,Ondes,30,3,10,0.7,Faible
+451,Acides et bases,80,8,10,0.9,Bon
+451,Réactions chimiques,67,7,10,1.9,Moyen
+451,Chimie organique,29,3,10,1.5,Faible
+452,Nombres réels,79,8,10,1.5,Bon
+452,Suites,24,2,10,0.7,Faible
+452,Limites,23,2,10,0.8,Faible
+452,Dérivation,80,8,10,0.4,Bon
+452,Électricité,76,8,10,1.0,Bon
+452,Mécanique,22,2,10,1.1,Faible
+452,Ondes,92,9,10,1.3,Excellent
+452,Acides et bases,35,4,10,0.5,Faible
+452,Réactions chimiques,85,8,10,1.0,Excellent
+452,Chimie organique,21,2,10,1.8,Faible
+453,Nombres réels,97,10,10,0.2,Excellent
+453,Suites,72,7,10,1.7,Bon
+453,Limites,77,8,10,1.4,Bon
+453,Dérivation,76,8,10,1.7,Bon
+453,Électricité,43,4,10,1.8,Faible
+453,Mécanique,44,4,10,1.8,Faible
+453,Ondes,78,8,10,0.6,Bon
+453,Acides et bases,61,6,10,1.6,Moyen
+453,Réactions chimiques,69,7,10,1.7,Moyen
+453,Chimie organique,79,8,10,0.9,Bon
+454,Nombres réels,97,10,10,1.5,Excellent
+454,Suites,57,6,10,1.9,Moyen
+454,Limites,81,8,10,1.9,Bon
+454,Dérivation,69,7,10,0.5,Moyen
+454,Électricité,22,2,10,1.0,Faible
+454,Mécanique,49,5,10,0.9,Faible
+454,Ondes,70,7,10,0.3,Bon
+454,Acides et bases,26,3,10,0.3,Faible
+454,Réactions chimiques,79,8,10,1.7,Bon
+454,Chimie organique,77,8,10,1.5,Bon
+455,Nombres réels,37,4,10,1.7,Faible
+455,Suites,73,7,10,1.0,Bon
+455,Limites,80,8,10,0.6,Bon
+455,Dérivation,71,7,10,1.0,Bon
+455,Électricité,79,8,10,0.2,Bon
+455,Mécanique,62,6,10,1.6,Moyen
+455,Ondes,58,6,10,1.3,Moyen
+455,Acides et bases,71,7,10,1.1,Bon
+455,Réactions chimiques,53,5,10,1.7,Moyen
+455,Chimie organique,24,2,10,2.0,Faible
+456,Nombres réels,50,5,10,1.7,Moyen
+456,Suites,59,6,10,0.7,Moyen
+456,Limites,25,2,10,1.7,Faible
+456,Dérivation,62,6,10,1.0,Moyen
+456,Électricité,90,9,10,1.3,Excellent
+456,Mécanique,77,8,10,1.1,Bon
+456,Ondes,72,7,10,0.4,Bon
+456,Acides et bases,58,6,10,0.2,Moyen
+456,Réactions chimiques,92,9,10,1.6,Excellent
+456,Chimie organique,25,2,10,1.2,Faible
+457,Nombres réels,20,2,10,1.4,Faible
+457,Suites,68,7,10,1.6,Moyen
+457,Limites,60,6,10,1.8,Moyen
+457,Dérivation,45,4,10,1.1,Faible
+457,Électricité,53,5,10,1.8,Moyen
+457,Mécanique,49,5,10,1.0,Faible
+457,Ondes,41,4,10,0.7,Faible
+457,Acides et bases,33,3,10,0.3,Faible
+457,Réactions chimiques,35,4,10,0.9,Faible
+457,Chimie organique,58,6,10,1.6,Moyen
+458,Nombres réels,49,5,10,0.3,Faible
+458,Suites,51,5,10,0.9,Moyen
+458,Limites,58,6,10,0.5,Moyen
+458,Dérivation,82,8,10,1.9,Bon
+458,Électricité,95,10,10,0.5,Excellent
+458,Mécanique,23,2,10,1.4,Faible
+458,Ondes,68,7,10,0.8,Moyen
+458,Acides et bases,87,9,10,1.9,Excellent
+458,Réactions chimiques,25,2,10,0.4,Faible
+458,Chimie organique,66,7,10,0.3,Moyen
+459,Nombres réels,59,6,10,0.9,Moyen
+459,Suites,35,4,10,1.5,Faible
+459,Limites,36,4,10,1.9,Faible
+459,Dérivation,71,7,10,1.0,Bon
+459,Électricité,49,5,10,1.5,Faible
+459,Mécanique,60,6,10,1.2,Moyen
+459,Ondes,75,8,10,1.3,Bon
+459,Acides et bases,93,9,10,1.6,Excellent
+459,Réactions chimiques,78,8,10,1.7,Bon
+459,Chimie organique,81,8,10,1.1,Bon
+460,Nombres réels,73,7,10,0.9,Bon
+460,Suites,80,8,10,1.5,Bon
+460,Limites,72,7,10,1.7,Bon
+460,Dérivation,47,5,10,0.8,Faible
+460,Électricité,97,10,10,1.4,Excellent
+460,Mécanique,86,9,10,0.3,Excellent
+460,Ondes,63,6,10,0.4,Moyen
+460,Acides et bases,30,3,10,0.3,Faible
+460,Réactions chimiques,34,3,10,1.0,Faible
+460,Chimie organique,35,4,10,0.3,Faible
+461,Nombres réels,64,6,10,1.2,Moyen
+461,Suites,32,3,10,1.1,Faible
+461,Limites,59,6,10,0.3,Moyen
+461,Dérivation,66,7,10,0.3,Moyen
+461,Électricité,89,9,10,1.6,Excellent
+461,Mécanique,21,2,10,0.6,Faible
+461,Ondes,44,4,10,1.3,Faible
+461,Acides et bases,54,5,10,1.6,Moyen
+461,Réactions chimiques,68,7,10,0.5,Moyen
+461,Chimie organique,39,4,10,0.3,Faible
+462,Nombres réels,28,3,10,0.5,Faible
+462,Suites,98,10,10,1.8,Excellent
+462,Limites,52,5,10,0.6,Moyen
+462,Dérivation,99,10,10,1.1,Excellent
+462,Électricité,90,9,10,0.6,Excellent
+462,Mécanique,38,4,10,1.7,Faible
+462,Ondes,85,8,10,1.3,Excellent
+462,Acides et bases,21,2,10,1.1,Faible
+462,Réactions chimiques,43,4,10,0.4,Faible
+462,Chimie organique,80,8,10,0.4,Bon
+463,Nombres réels,36,4,10,0.9,Faible
+463,Suites,88,9,10,0.9,Excellent
+463,Limites,79,8,10,0.6,Bon
+463,Dérivation,43,4,10,0.5,Faible
+463,Électricité,91,9,10,0.7,Excellent
+463,Mécanique,66,7,10,0.3,Moyen
+463,Ondes,92,9,10,0.7,Excellent
+463,Acides et bases,28,3,10,0.3,Faible
+463,Réactions chimiques,68,7,10,0.2,Moyen
+463,Chimie organique,61,6,10,1.8,Moyen
+464,Nombres réels,31,3,10,1.3,Faible
+464,Suites,77,8,10,1.9,Bon
+464,Limites,36,4,10,0.5,Faible
+464,Dérivation,40,4,10,1.7,Faible
+464,Électricité,50,5,10,1.6,Moyen
+464,Mécanique,29,3,10,1.7,Faible
+464,Ondes,46,5,10,0.3,Faible
+464,Acides et bases,37,4,10,1.6,Faible
+464,Réactions chimiques,100,10,10,1.8,Excellent
+464,Chimie organique,53,5,10,1.8,Moyen
+465,Nombres réels,95,10,10,0.7,Excellent
+465,Suites,29,3,10,0.3,Faible
+465,Limites,73,7,10,1.6,Bon
+465,Dérivation,91,9,10,1.7,Excellent
+465,Électricité,70,7,10,0.5,Bon
+465,Mécanique,85,8,10,0.6,Excellent
+465,Ondes,65,6,10,0.3,Moyen
+465,Acides et bases,47,5,10,1.9,Faible
+465,Réactions chimiques,67,7,10,0.8,Moyen
+465,Chimie organique,65,6,10,0.7,Moyen
+466,Nombres réels,44,4,10,1.2,Faible
+466,Suites,54,5,10,1.4,Moyen
+466,Limites,87,9,10,0.9,Excellent
+466,Dérivation,90,9,10,0.7,Excellent
+466,Électricité,70,7,10,0.4,Bon
+466,Mécanique,25,2,10,0.4,Faible
+466,Ondes,36,4,10,1.5,Faible
+466,Acides et bases,86,9,10,0.8,Excellent
+466,Réactions chimiques,22,2,10,0.3,Faible
+466,Chimie organique,52,5,10,1.2,Moyen
+467,Nombres réels,49,5,10,1.6,Faible
+467,Suites,23,2,10,0.9,Faible
+467,Limites,58,6,10,1.4,Moyen
+467,Dérivation,66,7,10,0.5,Moyen
+467,Électricité,97,10,10,0.2,Excellent
+467,Mécanique,69,7,10,1.9,Moyen
+467,Ondes,49,5,10,0.6,Faible
+467,Acides et bases,37,4,10,0.8,Faible
+467,Réactions chimiques,64,6,10,0.7,Moyen
+467,Chimie organique,82,8,10,1.6,Bon
+468,Nombres réels,28,3,10,0.5,Faible
+468,Suites,86,9,10,0.2,Excellent
+468,Limites,42,4,10,0.5,Faible
+468,Dérivation,90,9,10,0.8,Excellent
+468,Électricité,82,8,10,1.4,Bon
+468,Mécanique,58,6,10,1.0,Moyen
+468,Ondes,94,9,10,1.3,Excellent
+468,Acides et bases,81,8,10,1.1,Bon
+468,Réactions chimiques,70,7,10,0.9,Bon
+468,Chimie organique,71,7,10,1.3,Bon
+469,Nombres réels,64,6,10,1.7,Moyen
+469,Suites,39,4,10,1.3,Faible
+469,Limites,65,6,10,1.1,Moyen
+469,Dérivation,29,3,10,0.2,Faible
+469,Électricité,71,7,10,0.5,Bon
+469,Mécanique,44,4,10,1.1,Faible
+469,Ondes,48,5,10,1.7,Faible
+469,Acides et bases,39,4,10,1.0,Faible
+469,Réactions chimiques,84,8,10,0.8,Bon
+469,Chimie organique,76,8,10,1.3,Bon
+470,Nombres réels,66,7,10,1.5,Moyen
+470,Suites,53,5,10,1.2,Moyen
+470,Limites,88,9,10,1.0,Excellent
+470,Dérivation,33,3,10,1.3,Faible
+470,Électricité,87,9,10,0.4,Excellent
+470,Mécanique,90,9,10,1.2,Excellent
+470,Ondes,72,7,10,1.9,Bon
+470,Acides et bases,24,2,10,1.3,Faible
+470,Réactions chimiques,71,7,10,0.2,Bon
+470,Chimie organique,31,3,10,1.7,Faible
+471,Nombres réels,26,3,10,1.2,Faible
+471,Suites,62,6,10,0.8,Moyen
+471,Limites,38,4,10,1.9,Faible
+471,Dérivation,25,2,10,1.5,Faible
+471,Électricité,92,9,10,1.5,Excellent
+471,Mécanique,21,2,10,0.7,Faible
+471,Ondes,51,5,10,0.8,Moyen
+471,Acides et bases,92,9,10,1.9,Excellent
+471,Réactions chimiques,35,4,10,1.1,Faible
+471,Chimie organique,52,5,10,1.9,Moyen
+472,Nombres réels,57,6,10,1.9,Moyen
+472,Suites,38,4,10,0.8,Faible
+472,Limites,73,7,10,1.1,Bon
+472,Dérivation,94,9,10,1.6,Excellent
+472,Électricité,53,5,10,0.4,Moyen
+472,Mécanique,35,4,10,1.6,Faible
+472,Ondes,94,9,10,1.3,Excellent
+472,Acides et bases,95,10,10,1.7,Excellent
+472,Réactions chimiques,97,10,10,1.6,Excellent
+472,Chimie organique,90,9,10,0.9,Excellent
+473,Nombres réels,43,4,10,1.1,Faible
+473,Suites,53,5,10,0.4,Moyen
+473,Limites,100,10,10,1.1,Excellent
+473,Dérivation,80,8,10,1.9,Bon
+473,Électricité,30,3,10,1.3,Faible
+473,Mécanique,87,9,10,0.4,Excellent
+473,Ondes,31,3,10,0.9,Faible
+473,Acides et bases,99,10,10,1.6,Excellent
+473,Réactions chimiques,98,10,10,0.3,Excellent
+473,Chimie organique,72,7,10,2.0,Bon
+474,Nombres réels,40,4,10,1.2,Faible
+474,Suites,62,6,10,1.1,Moyen
+474,Limites,45,4,10,1.9,Faible
+474,Dérivation,21,2,10,1.1,Faible
+474,Électricité,33,3,10,1.5,Faible
+474,Mécanique,62,6,10,1.9,Moyen
+474,Ondes,94,9,10,0.7,Excellent
+474,Acides et bases,73,7,10,0.3,Bon
+474,Réactions chimiques,98,10,10,0.9,Excellent
+474,Chimie organique,91,9,10,0.5,Excellent
+475,Nombres réels,66,7,10,1.9,Moyen
+475,Suites,55,6,10,1.4,Moyen
+475,Limites,74,7,10,0.3,Bon
+475,Dérivation,35,4,10,1.3,Faible
+475,Électricité,34,3,10,1.1,Faible
+475,Mécanique,82,8,10,1.0,Bon
+475,Ondes,30,3,10,1.9,Faible
+475,Acides et bases,38,4,10,1.3,Faible
+475,Réactions chimiques,91,9,10,1.9,Excellent
+475,Chimie organique,87,9,10,1.9,Excellent
+476,Nombres réels,78,8,10,1.9,Bon
+476,Suites,90,9,10,1.5,Excellent
+476,Limites,21,2,10,1.5,Faible
+476,Dérivation,86,9,10,0.8,Excellent
+476,Électricité,71,7,10,1.1,Bon
+476,Mécanique,42,4,10,1.1,Faible
+476,Ondes,86,9,10,1.3,Excellent
+476,Acides et bases,49,5,10,1.2,Faible
+476,Réactions chimiques,98,10,10,1.5,Excellent
+476,Chimie organique,79,8,10,1.7,Bon
+477,Nombres réels,65,6,10,0.8,Moyen
+477,Suites,93,9,10,0.5,Excellent
+477,Limites,87,9,10,1.8,Excellent
+477,Dérivation,36,4,10,0.3,Faible
+477,Électricité,60,6,10,0.8,Moyen
+477,Mécanique,43,4,10,1.7,Faible
+477,Ondes,57,6,10,1.2,Moyen
+477,Acides et bases,38,4,10,0.7,Faible
+477,Réactions chimiques,72,7,10,1.0,Bon
+477,Chimie organique,74,7,10,0.6,Bon
+478,Nombres réels,55,6,10,1.7,Moyen
+478,Suites,45,4,10,0.4,Faible
+478,Limites,39,4,10,1.9,Faible
+478,Dérivation,70,7,10,1.1,Bon
+478,Électricité,25,2,10,1.2,Faible
+478,Mécanique,32,3,10,1.0,Faible
+478,Ondes,29,3,10,0.6,Faible
+478,Acides et bases,62,6,10,1.2,Moyen
+478,Réactions chimiques,45,4,10,1.0,Faible
+478,Chimie organique,40,4,10,0.6,Faible
+479,Nombres réels,38,4,10,0.2,Faible
+479,Suites,50,5,10,1.2,Moyen
+479,Limites,86,9,10,1.6,Excellent
+479,Dérivation,75,8,10,1.5,Bon
+479,Électricité,32,3,10,0.3,Faible
+479,Mécanique,97,10,10,1.4,Excellent
+479,Ondes,50,5,10,0.7,Moyen
+479,Acides et bases,73,7,10,1.7,Bon
+479,Réactions chimiques,81,8,10,0.7,Bon
+479,Chimie organique,100,10,10,0.6,Excellent
+480,Nombres réels,72,7,10,1.8,Bon
+480,Suites,30,3,10,0.9,Faible
+480,Limites,73,7,10,0.3,Bon
+480,Dérivation,47,5,10,0.2,Faible
+480,Électricité,50,5,10,0.8,Moyen
+480,Mécanique,77,8,10,0.9,Bon
+480,Ondes,27,3,10,0.7,Faible
+480,Acides et bases,45,4,10,0.9,Faible
+480,Réactions chimiques,29,3,10,1.0,Faible
+480,Chimie organique,100,10,10,0.3,Excellent
+481,Nombres réels,51,5,10,1.2,Moyen
+481,Suites,76,8,10,1.7,Bon
+481,Limites,61,6,10,0.8,Moyen
+481,Dérivation,38,4,10,0.7,Faible
+481,Électricité,38,4,10,1.9,Faible
+481,Mécanique,48,5,10,1.0,Faible
+481,Ondes,68,7,10,1.8,Moyen
+481,Acides et bases,43,4,10,1.0,Faible
+481,Réactions chimiques,75,8,10,0.3,Bon
+481,Chimie organique,47,5,10,1.5,Faible
+482,Nombres réels,62,6,10,0.3,Moyen
+482,Suites,53,5,10,0.9,Moyen
+482,Limites,63,6,10,0.3,Moyen
+482,Dérivation,49,5,10,1.5,Faible
+482,Électricité,93,9,10,0.8,Excellent
+482,Mécanique,28,3,10,0.7,Faible
+482,Ondes,89,9,10,1.5,Excellent
+482,Acides et bases,79,8,10,0.9,Bon
+482,Réactions chimiques,26,3,10,0.9,Faible
+482,Chimie organique,94,9,10,0.6,Excellent
+483,Nombres réels,20,2,10,1.5,Faible
+483,Suites,34,3,10,1.4,Faible
+483,Limites,49,5,10,1.8,Faible
+483,Dérivation,62,6,10,1.9,Moyen
+483,Électricité,27,3,10,1.1,Faible
+483,Mécanique,41,4,10,0.3,Faible
+483,Ondes,82,8,10,0.3,Bon
+483,Acides et bases,77,8,10,1.2,Bon
+483,Réactions chimiques,59,6,10,1.6,Moyen
+483,Chimie organique,80,8,10,0.6,Bon
+484,Nombres réels,44,4,10,0.9,Faible
+484,Suites,70,7,10,0.8,Bon
+484,Limites,95,10,10,0.4,Excellent
+484,Dérivation,56,6,10,1.1,Moyen
+484,Électricité,61,6,10,1.3,Moyen
+484,Mécanique,53,5,10,1.0,Moyen
+484,Ondes,48,5,10,1.6,Faible
+484,Acides et bases,57,6,10,0.7,Moyen
+484,Réactions chimiques,48,5,10,0.4,Faible
+484,Chimie organique,34,3,10,0.7,Faible
+485,Nombres réels,33,3,10,1.2,Faible
+485,Suites,58,6,10,0.7,Moyen
+485,Limites,62,6,10,1.0,Moyen
+485,Dérivation,75,8,10,1.1,Bon
+485,Électricité,75,8,10,1.4,Bon
+485,Mécanique,30,3,10,0.8,Faible
+485,Ondes,78,8,10,0.5,Bon
+485,Acides et bases,26,3,10,1.4,Faible
+485,Réactions chimiques,29,3,10,0.6,Faible
+485,Chimie organique,30,3,10,1.2,Faible
+486,Nombres réels,28,3,10,1.7,Faible
+486,Suites,85,8,10,0.4,Excellent
+486,Limites,97,10,10,0.6,Excellent
+486,Dérivation,49,5,10,1.9,Faible
+486,Électricité,71,7,10,1.5,Bon
+486,Mécanique,39,4,10,2.0,Faible
+486,Ondes,70,7,10,1.3,Bon
+486,Acides et bases,24,2,10,0.3,Faible
+486,Réactions chimiques,99,10,10,0.3,Excellent
+486,Chimie organique,44,4,10,0.3,Faible
+487,Nombres réels,91,9,10,1.9,Excellent
+487,Suites,61,6,10,1.8,Moyen
+487,Limites,81,8,10,1.8,Bon
+487,Dérivation,63,6,10,0.3,Moyen
+487,Électricité,94,9,10,0.3,Excellent
+487,Mécanique,49,5,10,1.3,Faible
+487,Ondes,37,4,10,0.5,Faible
+487,Acides et bases,84,8,10,1.4,Bon
+487,Réactions chimiques,53,5,10,1.8,Moyen
+487,Chimie organique,71,7,10,0.3,Bon
+488,Nombres réels,67,7,10,1.4,Moyen
+488,Suites,32,3,10,0.9,Faible
+488,Limites,95,10,10,0.2,Excellent
+488,Dérivation,38,4,10,1.4,Faible
+488,Électricité,61,6,10,1.3,Moyen
+488,Mécanique,56,6,10,0.2,Moyen
+488,Ondes,21,2,10,1.5,Faible
+488,Acides et bases,35,4,10,1.1,Faible
+488,Réactions chimiques,68,7,10,1.4,Moyen
+488,Chimie organique,95,10,10,1.2,Excellent
+489,Nombres réels,22,2,10,1.8,Faible
+489,Suites,76,8,10,1.5,Bon
+489,Limites,92,9,10,1.7,Excellent
+489,Dérivation,43,4,10,1.5,Faible
+489,Électricité,56,6,10,1.1,Moyen
+489,Mécanique,41,4,10,1.6,Faible
+489,Ondes,50,5,10,1.2,Moyen
+489,Acides et bases,56,6,10,0.4,Moyen
+489,Réactions chimiques,90,9,10,1.0,Excellent
+489,Chimie organique,82,8,10,1.7,Bon
+490,Nombres réels,78,8,10,1.2,Bon
+490,Suites,46,5,10,1.4,Faible
+490,Limites,81,8,10,1.6,Bon
+490,Dérivation,71,7,10,1.3,Bon
+490,Électricité,93,9,10,1.4,Excellent
+490,Mécanique,91,9,10,1.1,Excellent
+490,Ondes,96,10,10,1.7,Excellent
+490,Acides et bases,22,2,10,1.5,Faible
+490,Réactions chimiques,81,8,10,1.6,Bon
+490,Chimie organique,89,9,10,1.2,Excellent
+491,Nombres réels,87,9,10,0.8,Excellent
+491,Suites,52,5,10,0.3,Moyen
+491,Limites,100,10,10,1.1,Excellent
+491,Dérivation,25,2,10,1.5,Faible
+491,Électricité,98,10,10,1.1,Excellent
+491,Mécanique,76,8,10,1.9,Bon
+491,Ondes,63,6,10,0.7,Moyen
+491,Acides et bases,75,8,10,0.6,Bon
+491,Réactions chimiques,24,2,10,0.3,Faible
+491,Chimie organique,86,9,10,1.9,Excellent
+492,Nombres réels,42,4,10,0.7,Faible
+492,Suites,32,3,10,0.4,Faible
+492,Limites,95,10,10,1.7,Excellent
+492,Dérivation,57,6,10,0.3,Moyen
+492,Électricité,85,8,10,1.7,Excellent
+492,Mécanique,52,5,10,1.8,Moyen
+492,Ondes,22,2,10,1.0,Faible
+492,Acides et bases,71,7,10,1.6,Bon
+492,Réactions chimiques,91,9,10,1.7,Excellent
+492,Chimie organique,21,2,10,1.8,Faible
+493,Nombres réels,95,10,10,0.4,Excellent
+493,Suites,94,9,10,1.4,Excellent
+493,Limites,62,6,10,0.7,Moyen
+493,Dérivation,71,7,10,1.0,Bon
+493,Électricité,21,2,10,0.3,Faible
+493,Mécanique,39,4,10,1.9,Faible
+493,Ondes,24,2,10,1.4,Faible
+493,Acides et bases,67,7,10,0.5,Moyen
+493,Réactions chimiques,35,4,10,1.4,Faible
+493,Chimie organique,97,10,10,1.0,Excellent
+494,Nombres réels,73,7,10,0.6,Bon
+494,Suites,46,5,10,0.3,Faible
+494,Limites,58,6,10,0.3,Moyen
+494,Dérivation,59,6,10,0.8,Moyen
+494,Électricité,72,7,10,0.8,Bon
+494,Mécanique,71,7,10,1.6,Bon
+494,Ondes,95,10,10,0.2,Excellent
+494,Acides et bases,42,4,10,1.3,Faible
+494,Réactions chimiques,68,7,10,1.0,Moyen
+494,Chimie organique,47,5,10,0.9,Faible
+495,Nombres réels,26,3,10,1.8,Faible
+495,Suites,46,5,10,0.5,Faible
+495,Limites,70,7,10,0.3,Bon
+495,Dérivation,77,8,10,1.5,Bon
+495,Électricité,80,8,10,0.7,Bon
+495,Mécanique,77,8,10,0.3,Bon
+495,Ondes,89,9,10,1.5,Excellent
+495,Acides et bases,55,6,10,0.3,Moyen
+495,Réactions chimiques,35,4,10,0.9,Faible
+495,Chimie organique,27,3,10,0.4,Faible
+496,Nombres réels,48,5,10,2.0,Faible
+496,Suites,34,3,10,1.9,Faible
+496,Limites,47,5,10,1.0,Faible
+496,Dérivation,30,3,10,1.3,Faible
+496,Électricité,57,6,10,1.8,Moyen
+496,Mécanique,66,7,10,1.7,Moyen
+496,Ondes,22,2,10,1.6,Faible
+496,Acides et bases,88,9,10,1.1,Excellent
+496,Réactions chimiques,37,4,10,0.5,Faible
+496,Chimie organique,38,4,10,1.9,Faible
+497,Nombres réels,52,5,10,1.7,Moyen
+497,Suites,88,9,10,1.9,Excellent
+497,Limites,74,7,10,0.9,Bon
+497,Dérivation,86,9,10,1.7,Excellent
+497,Électricité,94,9,10,0.3,Excellent
+497,Mécanique,53,5,10,1.0,Moyen
+497,Ondes,66,7,10,0.7,Moyen
+497,Acides et bases,40,4,10,1.1,Faible
+497,Réactions chimiques,51,5,10,1.5,Moyen
+497,Chimie organique,38,4,10,1.4,Faible
+498,Nombres réels,41,4,10,0.3,Faible
+498,Suites,39,4,10,0.3,Faible
+498,Limites,46,5,10,0.5,Faible
+498,Dérivation,36,4,10,1.0,Faible
+498,Électricité,42,4,10,1.7,Faible
+498,Mécanique,51,5,10,1.6,Moyen
+498,Ondes,53,5,10,0.9,Moyen
+498,Acides et bases,68,7,10,1.6,Moyen
+498,Réactions chimiques,45,4,10,1.3,Faible
+498,Chimie organique,89,9,10,1.1,Excellent
+499,Nombres réels,77,8,10,1.6,Bon
+499,Suites,34,3,10,1.3,Faible
+499,Limites,70,7,10,0.2,Bon
+499,Dérivation,94,9,10,0.5,Excellent
+499,Électricité,53,5,10,1.6,Moyen
+499,Mécanique,41,4,10,0.8,Faible
+499,Ondes,40,4,10,0.7,Faible
+499,Acides et bases,81,8,10,1.1,Bon
+499,Réactions chimiques,20,2,10,0.8,Faible
+499,Chimie organique,86,9,10,0.5,Excellent
+500,Nombres réels,21,2,10,1.9,Faible
+500,Suites,49,5,10,0.4,Faible
+500,Limites,91,9,10,1.4,Excellent
+500,Dérivation,90,9,10,1.6,Excellent
+500,Électricité,74,7,10,1.3,Bon
+500,Mécanique,63,6,10,1.3,Moyen
+500,Ondes,59,6,10,1.0,Moyen
+500,Acides et bases,50,5,10,1.6,Moyen
+500,Réactions chimiques,75,8,10,1.8,Bon
+500,Chimie organique,44,4,10,1.0,Faible

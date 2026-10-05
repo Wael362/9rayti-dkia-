@@ -909,3 +909,33 @@ def is_course_completed(user_id, course_id):
     conn.close()
 
     return result is not None and result[0] == 1
+def get_student_course_results(user_id):
+    """
+    Retourne les résultats des tests initiaux de l'élève
+    avec le nom du cours et de la matière.
+    """
+
+    conn = sqlite3.connect(DB_NAME)
+    cursor = conn.cursor()
+
+    cursor.execute("""
+        SELECT
+            courses.id,
+            courses.title,
+            subjects.name,
+            results.percentage
+        FROM results
+        JOIN courses
+            ON results.course_id = courses.id
+        JOIN subjects
+            ON courses.subject_id = subjects.id
+        WHERE results.user_id = ?
+        AND results.test_type = 'initial'
+        ORDER BY results.id DESC
+    """, (user_id,))
+
+    results = cursor.fetchall()
+
+    conn.close()
+
+    return results
